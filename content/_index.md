@@ -6,7 +6,7 @@ noprevnext: true
 disable_comments: true
 ---
 
-# Wat is het Tkkrlab?
+# Wat is het TkkrLab?
 
 <img style="float: right; margin: 5px;" src="/homepage_photo.jpg">
 TkkrLab (Tukkerlab) is een <a href="http://tkkrlab.nl/wiki/Space_5.0" target="_blank">space</a> waar de deelnemers en bezoekers onze beschikbare apparatuur zoals lasercutter, 3d printer en Arduino kunnen (leren) gebruiken. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creative [projecten](/projects/).
