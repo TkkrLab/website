@@ -18,6 +18,8 @@ Een voorbeeld van een [project](http://tkkrlab.nl/wiki/Projects) dat we hebben g
 
 We zijn iedere dinsdagavond vanaf 19:00 open, kom gerust langs als je vragen of ideeën hebt.
 
+![dorus](/hacking.jpg)
+
 ## Jullie zijn hackers, kunnen jullie [email|software|systeem] hacken?
 Kort antwoord : **Nee**
 
