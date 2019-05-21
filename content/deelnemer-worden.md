@@ -29,7 +29,7 @@ De stichting Tkkrlab maakt kosten voor onder andere de huur van de ruimte en de 
 
 | Soort deelnemer                          | Deelnemersbijdrage (per maand) |
 |------------------------------------------|--------------------------------|
-| Normaal                                  | € 25,-                         |
+| Normaal                                  | € 30,-                         |
 | Student                                  | € 15,-                         |
 | Junior (<18 jaar)                        | € 15,-                         |
 | Bedrijf                                  | € 49,95                        |
