@@ -9,7 +9,7 @@ menu:
     weight: 99999
 ---
 
-Vragen over illigale activiteiten zullen niet beantwoord worden! Zie ook de hackerspaces [FAQ](https://hackerspaces.nl/faq/).
+Vragen over illegale activiteiten zullen niet beantwoord worden! Zie ook de hackerspaces [FAQ](https://hackerspaces.nl/faq/).
 
 ### Belangrijkste vraag uit de FAQ
 
