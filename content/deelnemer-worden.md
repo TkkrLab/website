@@ -45,7 +45,7 @@ Meer details over de verschillende deelnemersvormen worden hier onder gegeven.
 Als je door iemand wordt uitgenodigd of je wilt gewoon eens langs komen om te komen kijken ben je altijd van harte welkom en hoef je niets te betalen.
 
 ## Normale deelnemer
-Een normale deelnemer betaald € 25,- per maand.
+Een normale deelnemer betaald € 30,- per maand.
 
 ## Bedrijf
 
