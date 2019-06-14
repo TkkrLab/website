@@ -15,7 +15,7 @@ Vragen over illegale activiteiten zullen niet beantwoord worden! Zie ook de hack
 
 **Kunnen jullie [email | website | facebook | etc ] voor me hacken?**
 
-Om meerdere redenen: nee. Wat je wilt is mogelijk illegaal en ethisch-hackers zullen er dan niet aan meewerken. Daarnaast is deze website een overzicht van hackerspaces en -organisaties in Nederland, en biedt Hackerspaces.nl geen diensten aan. De meeste hackerspaces bieden ook zulke diensten niet aan; zij richten zich op hackers, niet op mensen die hackers zoeken.
+Om meerdere redenen: nee. Wat je wilt is mogelijk illegaal en ethisch-hackers zullen er dan ook niet aan meewerken.
 
 Voor alle andere vragen kun je contact opnemen met <bestuur@tkkrlab.nl>
 
