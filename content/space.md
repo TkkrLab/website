@@ -5,7 +5,7 @@ noprevnext: true
 disable_comments: true
 menu:
   main:
-    weight: 5
+    weight: 2
 ---
 
 ## De hackerspace (lounge)

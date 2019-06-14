@@ -5,7 +5,7 @@ noprevnext: true
 disable_comments: true
 menu:
   main:
-    weight: 6
+    weight: 5
 ---
 
 ## Wat is het TkkrLab?
@@ -48,7 +48,7 @@ Eric Raymond, een open source source guru, heeft een [FAQ](http://www.catb.org/~
 
 Kort gezegd zou je het volgende kunnen doen:
 
-* Gebruik een open source Unix, bijvoorbeeld Ubuntu
-* Leer hoe je websites kunt maken (HTML, Javascript, etc)
+* Leer werken met een open source besturingssysteem als Linux, bijvoorbeeld Ubuntu
+* Leer hoe je websites kunt maken (HTML, Javascript, PHP, etc)
 * Leer programmeren in andere talen (Python, Node.js of C/C++ bijvoorbeeld)
-* Zorg ervoor dat je Engels kunt.
+* Zorg ervoor dat je Engels kunt
