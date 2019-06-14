@@ -38,12 +38,12 @@ googleAnalytics = "UA-610785-7"
   [[menu.main]]
     name = "Nieuws"
     url = "/nieuws/"
-    weight = 1
+    weight = 5
 
   [[menu.main]]
     name = "Projecten"
     url = "/projects/"
-    weight = 3
+    weight = 6
     
   #[[menu.main]]  
   #  name = "Deelnemer worden"
@@ -63,7 +63,7 @@ googleAnalytics = "UA-610785-7"
   [[menu.main]]
     name = "Wiki"
     url = "https://www.tkkrlab.nl/wiki"
-    weight = 7
+    weight = 9
 
 [Params.widgets]
     search = false
