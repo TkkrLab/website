@@ -1,10 +1,10 @@
 ---
 title: "Workshop Lasercutter"
 date: 2018-07-30
-thumbnail: "/nieuws/vogel_villa.jpg"
+thumbnail: "/images/vogel_villa.jpg"
 ---
 
-<img alt="vogel villa lasercutter" src="/nieuws/vogel_villa.jpg" height="70%" width="70%" align="middle">
+<img alt="vogel villa lasercutter" src="/images/vogel_villa.jpg" height="70%" width="70%" align="middle">
 
 ## 18 Augustus van 14:00 - 16:00 bij TkkrLab.
 

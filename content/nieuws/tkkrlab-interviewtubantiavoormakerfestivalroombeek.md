@@ -1,11 +1,11 @@
 ---
 title: "Interview Tubantia voor Maker Festival Roombeek"
 date: 2017-05-10T19:05:01+02:00
-thumbnail: "/nieuws/willywortel.jpg"
+thumbnail: "/images/willywortel.jpg"
 ---
 20&21 Mei is er in de Roombeek Enschede weer de jaarlijkse [Maker Festival](http://makerfestivaltwente.nl/). TkkrLab is er ook weer bij, deze keer zul je ons vinden in de ‘Expert’ afdeling dat in de AKI zal zijn. Hiervoor hebben we bij TkkrLab een interview gegeven aan Tubantia, hieronder vind je het resultaat hiervan.
 
-![](/nieuws/willywortel.jpg)
+![](/images/willywortel.jpg)
 
 Programmeren, bouwen en solderen in de werkplaats. Vlnr: Dave Borghuis, Heidi Ulrich en Govert Combee.
 

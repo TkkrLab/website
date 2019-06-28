@@ -1,9 +1,9 @@
 ---
 title: "CyberSaturday  Wearables LilyPad"
 date: 2017-09-12T23:09:29+02:00
-thumbnail: "/nieuws/lilypad.jpg"
+thumbnail: "/images/lilypad.jpg"
 ---
-![](/nieuws/lilypad.jpg)
+![](/images/lilypad.jpg)
 
 Voor de volgende CyberSaturday op 21 Oktober gaan we een workshop geven over de LilyPad, een Arduino die speciaal is gemaakt om wearable electronica te maken. Hiermee is het mogelijk om je kleding te voorzien van LEDS, motoren en meer. Tijdens deze workshop krijg je eigen LilyPad kit die je na afloop mag meenemen naar huis om verder te experimenteren.
 

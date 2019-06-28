@@ -1,9 +1,9 @@
 ---
 title: "CyberSaturday : Domotica"
 date: 2018-11-17T17:08:19+02:00
-thumbnail: "/nieuws/domotica.jpg"
+thumbnail: "/images/domotica.jpg"
 ---
-![](/nieuws/domotica.jpg)
+![](/images/domotica.jpg)
 
 # Domotica met MQTT en Node-RED.
 

@@ -1,7 +1,7 @@
 ---
 title: "CyberSaturday  Greymanproject"
 date: 2017-05-29T21:05:31+02:00
-thumbnail: "/nieuws/greymanproject.jpg"
+thumbnail: "/images/greymanproject.jpg"
 ---
 ![](/nieuws/greymanproject.jpg)
 

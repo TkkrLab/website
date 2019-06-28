@@ -1,10 +1,10 @@
 ---
 title: "CyberSaturday : The S of Security in IOT"
 date: 2019-01-28
-thumbnail: "/nieuws/IoT.png"
+thumbnail: "/images/IoT.png"
 ---
 
-<img alt="Internet of Things Securiy" src="/nieuws/IoT.png" height="70%" width="70%" align="middle">
+<img alt="Internet of Things Securiy" src="/images/IoT.png" height="70%" width="70%" align="middle">
 
 ## Lezing IoT 23 Februari 2019 14:00
 

@@ -8,6 +8,7 @@
 <script src="/progressbar.js"></script>
 <script src="/initial_status.js"></script>
 <script src="/tkkrlab.js"></script>
+<script src="jquery-3.4.1.min.js"></script>
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 {{ .Hugo.Generator }}
 {{ if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
@@ -27,7 +28,7 @@
 				<div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
 					<a class="logo__link" href="{{ "" | relLangURL }}" title="{{ .Site.Title }}" rel="home">
 						<h1 class="logo__title">{{ .Site.Title }}</h1>
-						{{ with .Site.Params.subtitle }}<h2 class="logo__tagline">{{ . }}</h2>{{ end }}
+						{{ with .Site.Params.subtitle }}<h2 id="logo__tagline" class="logo__tagline">{{ . }}</h2>{{ end }}
 					</a>
 				</div>
 				<div class="space-status-container"><span class="space-status" id="space-status"><span class="unknown">&nbsp;</span></span></span></div>

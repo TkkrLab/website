@@ -8,17 +8,33 @@ disable_comments: true
 
 # Wat is het TkkrLab?
 
-<img style="float: right; margin: 5px;" src="/homepage_photo.jpg">
-TkkrLab (Tukkerlab) is een <a href="http://tkkrlab.nl/wiki/Space_5.0" target="_blank">space</a> waar de deelnemers en bezoekers onze beschikbare apparatuur zoals lasercutter, 3d printer en Arduino kunnen (leren) gebruiken. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creative [projecten](/projects/).
+<img style="margin: 10px;" src="/images/trouw.jpg">
+
+<br />
+
+TkkrLab (Tukkerlab) is een ruimte waar deelnemers en bezoekers onze beschikbare apparatuur zoals een lasercutter, 3d printer en Arduino kunnen (leren) gebruiken. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creative [projecten](/projects/).
 <br />
 <br />
-TkkrLab is **iedere dinsdagavond open** voor iedereen. Interesse? Je bent van harte welkom!
+Rechts bovenin vindt je de space status. Als we geopend zijn dan ben je van harte welkom!
+Is gezelligheid meer jouw ding, dan is **iedere dinsdagavond** de wekelijkse bijeenkomst. De overige dagen is het rustiger en kan je aan projecten werken.
 <br />
 <br />
-Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/nieuws/) waar de de laatste nieuwtjes op plaatsen.
+Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/nieuws/) waar we de laatste nieuwtjes op plaatsen.
 <br />
 <br />
-Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze nieuwsbrief of kijk op onze [contact](/contact/) om te zien hoe je ons kunt bereiken.
+Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze nieuwsbrief of kijk op onze [contact](/contact/) pagina om te zien hoe je ons kunt bereiken.
 <br />
 <br />
-Om een impressie te krijgen over maker- en hackerspaces in het algemeen <a href="http://youtu.be/wamwklXWK4M" target="_blank">kijk deze KQED video</a> of <a href="https://www.youtube.com/watch?v=nsiYTBQpIJ8" target="_blank">hackerspace Noisebridge video</a> .
+Woon je niet in Enschede, maar lijkt een hackerspace je wel wat, kijk dan op hackerspaces.nl
+![hackerspacekaart, Nederland](/images/Hackerspaces_nederland_kaart.png)  
+
+Een kleine greep uit dit overzicht:
+
+Naam | Locatie 
+--- | ---
+[TkkrLab](https://www.tkkrlab.space/) | Enschede
+[Makerspace Leidschendam](https://revspace.nl/) | Leidschendam
+[Hack42](https://hack42.nl/) | Arnhem
+[Frack](https://frack.nl/) | Leeuwarden
+
+{{< youtubenc wamwklXWK4M >}}

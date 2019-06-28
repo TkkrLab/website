@@ -4,6 +4,9 @@ const state_prefix = "Tkkrlab is nu ";
 
 var progress = {};
 var client = null;
+var subtitleSwapped = false;
+
+setInterval(fadeSubtitleText, 5000);
 
 function mqttClientCreate() {
   client = new Paho.MQTT.Client("mqtt."+window.location.host.split('.').slice(-2).join('.'), Number(443), "website-"+String(Math.floor((Math.random() * 10000) + 1)));
@@ -168,6 +171,22 @@ function progressCreate() {
   } else {
     console.log("No progress #2!");
   }
+}
+
+function fadeSubtitleText() {
+	if (subtitleSwapped) {
+		subtitleSwapped = false;
+		$(".logo__tagline").fadeOut(function() {
+		  $(this).text("Makerspace Enschede").fadeIn();
+		});
+	}
+	else
+	{
+		subtitleSwapped = true;
+		$(".logo__tagline").fadeOut(function() {
+		  $(this).text("Hackerspace Enschede").fadeIn();
+		});
+	}
 }
 
 window.onload = function onLoad() {

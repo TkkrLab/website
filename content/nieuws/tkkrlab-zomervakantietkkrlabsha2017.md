@@ -1,9 +1,9 @@
 ---
 title: "Zomervakantie TkkrLab  SHA2017"
 date: 2017-08-09T20:08:19+02:00
-thumbnail: "/nieuws/trouw.jpg"
+thumbnail: "/images/trouw.jpg"
 ---
-![](/nieuws/trouw.jpg)
+![](/images/trouw.jpg)
 
 We zijn met een aantal van de deelnemers van TkkrLab naar de [SHA2017](https://sha2017.org) hackerscamping geweest die van 4-8 Augustus plaatsvond. Deze editie was in Zeewolde waarbij rond de 4000 internationale hackers bij elkaar kwamen.
 
@@ -18,7 +18,7 @@ Voor wie het niet kent wat kun je verwachten op een hackers camping?
 
 In onze eigen Village hadden we een levensgrote turret (zie foto) van het spel Portal staan die veel aandacht trok.
 
-![](/nieuws/sha2017_PixeFlut.jpg)
+![](/images/sha2017_PixeFlut.jpg)
 
 Tevens hadden we een pixel wall meegenomen waarop in de bar pixelflut op draaide (een soort wedstrijd wie er de meeste data naar kan sturen).
 

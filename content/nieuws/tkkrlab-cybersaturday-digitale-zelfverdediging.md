@@ -1,10 +1,10 @@
 ---
 title: "CyberSaturday 16 juni: Digitale Zelfverdediging"
 date: 2018-05-19
-thumbnail: "/nieuws/privacy-warning.png"
+thumbnail: "/images/privacy-warning.png"
 ---
 
-<img alt="privacy warning" src="/nieuws/privacy-warning.png" height="70%" width="70%" align="middle">
+<img alt="privacy warning" src="/images/privacy-warning.png" height="70%" width="70%" align="middle">
 
 ## 16 Juni vanaf 14:00 bij TkkrLab.
 

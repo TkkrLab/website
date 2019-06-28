@@ -1,9 +1,9 @@
 ---
 title: "CyberSaturday  Van speelgoed tot synthesizer"
 date: 2017-07-15T10:07:31+02:00
-thumbnail: "/nieuws/van_speelgoed_tot_synthesizer.jpg"
+thumbnail: "/images/van_speelgoed_tot_synthesizer.jpg"
 ---
-![](/nieuws/van_speelgoed_tot_synthesizer.jpg)
+![](/images/van_speelgoed_tot_synthesizer.jpg)
 
 Iedere 3e zaterdag van de even maand zullen we een lezing / activiteit organiseren met aansluitend gelegenheid om bij TkkrLab met een eigen project aan de slag te gaan.
 

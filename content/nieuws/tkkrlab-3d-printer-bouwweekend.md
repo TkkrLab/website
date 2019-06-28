@@ -1,10 +1,10 @@
 ---
 title: "3D printer bouwweekend 20&21 Oktober"
 date: 2018-08-29
-thumbnail: "/nieuws/ender-3dprinter.png"
+thumbnail: "/images/ender-3dprinter.png"
 ---
 
-<img alt="Ender 3d printer" src="/nieuws/ender-3dprinter.png" height="70%" width="70%" align="middle">
+<img alt="Ender 3d printer" src="/images/ender-3dprinter.png" height="70%" width="70%" align="middle">
 
 ## 20 & 21 Oktober 3D Printer bouwweekend
 
