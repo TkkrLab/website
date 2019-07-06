@@ -1,6 +1,6 @@
 ---
 title: "Website aanpassingen"
-date: 2019-07-06T21:05:31+02:00
+date: 2019-07-06
 thumbnail: "/static/cyber.jpg"
 ---
 
