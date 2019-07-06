@@ -16,7 +16,7 @@ We hebben vandaag wat zitten sleutelen aan de website. Dat was een beetje Markdo
 ### Nieuwe website indeling:  
  - Menus herbedeeld  
  - blog toegevoegd  
- - templates gemaakt voor CyberSaturday, Evenementen en Nieuws.  
+ - templates gemaakt voor CyberSaturday, Evenementen en Nieuws 
 
 ### Nog te doen:  
  - Voor suggesties ben je welkom om een keer langs te komen om er over te praten  
