@@ -33,6 +33,8 @@ Nog te doen:
 
 
 
-Wil je op de hoogte gehouden worden van onze evenementen schrijf je dan in voor de nieuwsbrief: [Nieuwsbrief](https://us5.list-manage.com/subscribe?u=1b388ae9c2f102d5dfe256664&id=6e66555d39)
+Wil je op de hoogte gehouden worden van onze evenementen schrijf je dan in voor de [Nieuwsbrief](https://us5.list-manage.com/subscribe?u=1b388ae9c2f102d5dfe256664&id=6e66555d39)
 
 Of kom een keer langs op een dinsdag avond vanaf 19 uur in de [space](https://tkkrlab.nl/space/)
+
+En je mag natuurlijk ook gewoon de [Agenda] in de gaten houden.
