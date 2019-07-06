@@ -13,12 +13,12 @@ Er is weer wat nieuws gebeurd bij TkkrLab!
 
 We hebben vandaag wat zitten sleutelen aan de website. Dat was een beetje Markdown leren, prutsen met html, css, javascript, sleutelen aan de menus, templates aanpassen en maken. En nu nog testen...  
 
-Nieuwe website indeling:  
+### Nieuwe website indeling:  
  - Menus herbedeeld  
  - blog toegevoegd  
  - templates gemaakt voor CyberSaturday, Evenementen en Nieuws.  
 
-Nog te doen:  
+### Nog te doen:  
  - Voor suggesties ben je welkom om een keer langs te komen om er over te praten  
  - Apparaten  
   - het plan is ieder apparaat een sticker te geven met een barcode en URL om zo snel de handleiding ervan te kunnen vinden op de Website  

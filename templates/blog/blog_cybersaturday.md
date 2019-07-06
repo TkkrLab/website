@@ -11,6 +11,6 @@ Voor de eerste CyberSaturday op **17 juni** (start 14:00) vertelt kunstenaar Jac
 
 Na de lezing is er ruime gelegenheid om met een eigen project aan de slag te gaan, eventueel geholpen door de aanwezige TkkrLab leden. Neem je (arduino?) project en laptop mee en ga aan de slag !
 
-Reserveer svp een plek via [Meetup](https://www.meetup.com/tkkrlab/events/240368542/) of stuur ons een [email](mailto:bestuur@tkkrlab.nl)
+Reserveer svp een plek via [Meetup](https://www.meetup.com/tkkrlab/events/240368542/) of stuur ons een   [email](mailto:bestuur@tkkrlab.nl)
 
 De volgende CyberSaturday zijn gepland op 19 Augustus, 21 Oktober en 16 December, zet ze alvast in je agenda.
