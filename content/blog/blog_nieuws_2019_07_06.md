@@ -3,8 +3,7 @@ title: "Website aanpassingen"
 date: 2019-07-06
 thumbnail: "cyber.jpg"
 ---
-
-# ![Nieuws](cyber.jpg) NIEUWS!
+![Nieuws](cyber.jpg)
 
 ## Extra! Extra! Lees er alles over!
 
