@@ -5,7 +5,10 @@ noprevnext: true
 disable_comments: true
 menu:
   main:
+    parent: "Info"
     weight: 5
+  footer:
+    weight: 3
 ---
 
 ## Wat is het TkkrLab?

@@ -26,8 +26,7 @@ googleAnalytics = "UA-610785-7"
   date_format = "02-01-2006"
   readmore = true
   post_navigation = true
-  #postSections = ["nieuws","projects"]
-  postSections = ["nieuws"]
+  postSections = ["blog"]
 
 [menu]
   [[menu.main]]
@@ -40,10 +39,10 @@ googleAnalytics = "UA-610785-7"
     url = "/blog/"
     weight = 2
 
-  #[[menu.main]]  
-  #  name = "Arduino cursus"
-  #  url = "https://arduino.tkkrlab.space"
-  #  weight = 7
+  [[menu.main]]  
+    name = "Info"
+    url = "#"
+    weight = 7
 
   #[[menu.main]]
   #  name = "Wiki"
