@@ -1,10 +1,38 @@
 {{- if .Site.Menus.main }}
+<script>
+function submenu(elem) {
+	console.log("Submenu.");
+	var activeItems = document.getElementsByClassName("submenu__active");
+	for (var i = 0; i < activeItems.length; i++) {
+		activeItems[i].classList.remove("submenu__active");
+		console.log("Removed active tag!");
+	}
+	
+	if (elem===null) return;
+	
+	for (var i = 0; i < elem.children.length; i++) {
+		var child = elem.children[i];
+		if (child.nodeName === "UL") {
+			child.classList.add("submenu__active");
+		}
+		console.log(child);
+	}
+}
+</script>
 <nav class="menu" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
 	<ul class="menu__list">
 		{{- $currentNode := . }}
 		{{- range sort .Site.Menus.main }}
 		{{- if .Name}}
-		<li class="menu__item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{end}}"><a class="menu__link" href="{{ .URL }}">{{ .Name | upper }}</a></li>
+		<li onmouseover="submenu(this)" class="menu__item"><a class="menu__link {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{end}}" href="{{ .URL }}">{{ .Name | upper }}</a>
+		{{ if .HasChildren }}
+		<ul class="submenu">
+			{{- range sort .Children }}
+				<li class="submenu__item"><a class="submenu__link {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} submenu__item--active{{end}}" href="{{ .URL }}">{{ .Name }}</a></li>
+			{{- end}}
+		</ul>
+		{{- end }}
+		</li>
 		{{- end }}
 		{{- end }}
 	</ul>

@@ -6,6 +6,7 @@ noprevnext: true
 disable_comments: true
 menu:
   main:
+    parent: "Info"
     weight: 8
 ---
 
