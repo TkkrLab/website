@@ -37,4 +37,4 @@ Wil je op de hoogte gehouden worden van onze evenementen schrijf je dan in voor 
 
 Of kom een keer langs op een dinsdag avond vanaf 19 uur in de [space](https://tkkrlab.nl/space/)
 
-En je mag natuurlijk ook gewoon de [Agenda] in de gaten houden.
+En je mag natuurlijk ook gewoon de [agenda](https://www.tkkrlab.space/agenda/) in de gaten houden.
