@@ -1,10 +1,10 @@
 ---
 title: "Website aanpassingen"
 date: 2019-07-06
-thumbnail: "/static/cyber.jpg"
+thumbnail: "cyber.jpg"
 ---
 
-# ![TkkrLab Logo](/static/cyber.jpg) NIEUWS!
+# ![Nieuws](cyber.jpg) NIEUWS!
 
 ## Extra! Extra! Lees er alles over!
 
