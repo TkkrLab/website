@@ -11,7 +11,7 @@ thumbnail: "cyber.jpg"
 
 Er is weer wat nieuws gebeurd bij TkkrLab!
 
-We hebben vandaag wat zitten sleutelen aan de website. Dat was een beetje Markdown leren, prutsen met html, css, javascript, sleutelen aan de menus, templates aanpassen en maken. En nu nog testen...
+>We hebben vandaag wat zitten sleutelen aan de website. Dat was een beetje Markdown leren, prutsen met html, css, javascript, sleutelen aan de menus, templates aanpassen en maken. En nu nog testen...
 
 Nieuwe website indeling:
 * Menus herbedeeld
@@ -28,9 +28,6 @@ Nog te doen:
  * pasta
  * 0.5l melk
  * ow wacht verkeerde lijstje...
-
-
-
 
 Wil je op de hoogte gehouden worden van onze evenementen schrijf je dan in voor de [Nieuwsbrief](https://us5.list-manage.com/subscribe?u=1b388ae9c2f102d5dfe256664&id=6e66555d39)
 
