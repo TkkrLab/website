@@ -4,9 +4,9 @@ date: 2019-07-06
 thumbnail: "/static/cyber.jpg"
 ---
 
-# ![TkkrLab Logo](/static/TkkrLabLogo.svg) NIEUWS!
+# ![TkkrLab Logo](/static/cyber.jpg) NIEUWS!
 
-## Extra! Extra! lees er alles over!
+## Extra! Extra! Lees er alles over!
 
 # _Website updates_
 
