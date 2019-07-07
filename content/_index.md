@@ -25,7 +25,9 @@ Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen.
 Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze nieuwsbrief of kijk op onze [contact](/contact/) pagina om te zien hoe je ons kunt bereiken.
 <br />
 <br />
-Woon je niet in Enschede, maar lijkt een hackerspace je wel wat, kijk dan op hackerspaces.nl
+Woon je niet in Enschede, maar lijkt een hackerspace je wel wat, kijk dan op [hackerspaces.nl] (https://hackerspaces.nl)
+<br />
+<br />
 ![hackerspacekaart, Nederland](/images/Hackerspaces_nederland_kaart.png)  
 
 Een kleine greep uit dit overzicht:
