@@ -11,7 +11,7 @@ menu:
     weight: 3
 ---
 
-## Wat is het TkkrLab?
+## Wat is het TkkrLab? 
 TkkrLab (uit te spreken als Tukker-Lab) is een werkplaats waar geeks bij elkaar komen om leuke dingen te doen. De meeste members hebben overdag een (drukke) baan en komen bij het TkkrLab voor hun ontspanning.
 
 ## Ik heb grandioos [bedrijfs|kunst] idee, kunnen jullie dit voor mij maken?
