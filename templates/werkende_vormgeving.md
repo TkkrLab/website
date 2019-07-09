@@ -5,7 +5,7 @@
 Images, vergeet de slash niet:
 ![naamwillekeurig](/beeld.jpg)
 
-*dikker tekst*
+*dikke tekst*
 _Italic tekst_
 
 
@@ -13,4 +13,4 @@ Lijsten
 #header(groote maakt niet uit maar er moet er eentje zijn)
  - spatie minnetje spatie
 
- Lijnbreaks: twee spaties na de zinnen
+Lijnbreaks: twee spaties na de zinnen
