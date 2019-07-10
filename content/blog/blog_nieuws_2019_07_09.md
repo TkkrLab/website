@@ -1,9 +1,9 @@
 ---
 title: "FPGA cursus verplaatst"
 date: 2019-07-09
-thumbnail: "/Tkkrlab.png"
+thumbnail: "/images/Tkkrlab.png"
 ---
-![Nieuws](/Tkkrlab.png "nieuws")
+![Nieuws](/images/Tkkrlab.png "nieuws")
 
 ## Niu niuew nieuws!
 
@@ -19,7 +19,7 @@ Vandaar dat er nu op die dag een B.Y.O.P. (Bring Your Own 3D Printer) dag plaats
 >17 Augustus vanaf 14 uur B.Y.O.P. dag. Neem je 3D printer mee en ga aan de slag! Open voor iedereen _(dus ook niet-leden)._  
 Aanmelden niet nodig, kom gewoon opdagen, maar vergeet je mobiel niet: het gebouw is best groot en mogelijk heb je iemand nodig om je binnen te laten.  
 
-![3dprinter](/ender-3dprinter.png)
+![3dprinter](/images/ender-3dprinter.png)
 
 ## Retro dag  
 Op Zaterdag 31 Augustus vindt er een retro dag bij TkkrLab plaats. Het zal een volle dag zijn met spelen van vintage spelletjes op oude computers en oude consoles.
