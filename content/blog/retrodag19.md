@@ -3,9 +3,9 @@ title: "TkkrLab Retrodag 2019"
 date: 2019-07-23
 thumbnail: "/images/Retrodag.jpg"
 ---
-![Nieuws](/images/Tkkrlab.png "nieuws")
+![Nieuws](/images/Retrodag.jpg "nieuws")
 
-# RETRO GAME DAG AANKONDIGING  
+# RETRO GAME DAG 
 
 ## Zaterdag 31 Augusutus van 13 uur tot "laat".
 
