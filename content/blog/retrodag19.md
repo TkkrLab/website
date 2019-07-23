@@ -1,7 +1,7 @@
 ---
 title: "TkkrLab Retrodag 2019"
 date: 2019-07-23
-thumbnail: "/images/Tkkrlab.png"
+thumbnail: "/images/Retrodag.jpg"
 ---
 ![Nieuws](/images/Tkkrlab.png "nieuws")
 
