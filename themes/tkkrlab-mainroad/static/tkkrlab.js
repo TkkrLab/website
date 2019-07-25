@@ -64,7 +64,7 @@ function stripHtmlTags(str)
   } else {
     str = str.toString();
   }
-  console.log("strip",str);
+  //console.log("strip",str);
   str = str.replace('<','&lt;');
   str = str.replace('>','&gt;');
   str = str.replace('\r','');
@@ -74,7 +74,7 @@ function stripHtmlTags(str)
 
 var chat = [];
 
-function drawChat(newMsg="") {
+/*function drawChat(newMsg="") {
     while (chat.length < 20) {
       chat.push("< > ");
     }
@@ -100,7 +100,7 @@ function drawChat(newMsg="") {
     //chatLines = chatLines + "</table>";
     var elem = document.getElementById("chat-content");
     elem.innerHTML = chatLines;  
-}
+}*/
 
 var lastSpacestate = null;
 var temperature = null;
@@ -150,7 +150,7 @@ function onMessageArrived(message) {
   }
 }
 
-function progressCreate() {
+/*function progressCreate() {
   if (document.getElementById("progress1")!=null) {
     console.log("Found progress1!");
     progress['test1'] = new ProgressBar.Line('#progress1', {
@@ -192,7 +192,7 @@ function progressCreate() {
   } else {
     console.log("No progress #2!");
   }
-}
+}*/
 
 function fadeSubtitleText() {
 	if (subtitleSwapped) {
@@ -218,6 +218,6 @@ window.onload = function onLoad() {
   }*/
   mqttClientCreate();
   mqttClientConnect();
-  progressCreate();
-  drawChat();
+  //progressCreate();
+  //drawChat();
 }
