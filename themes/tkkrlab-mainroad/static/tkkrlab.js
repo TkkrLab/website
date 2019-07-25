@@ -15,7 +15,7 @@ function mqttClientCreate() {
 }
 
 function mqttOnConnect() {
-  console.log("onConnect");
+  //console.log("onConnect");
   client.subscribe("#");
 }
 
