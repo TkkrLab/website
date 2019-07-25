@@ -141,8 +141,10 @@ function onMessageArrived(message) {
   }*/
   else if (message.destinationName=="tkkrlab/sensors/temperature") {
 	  temperature = message.payloadString;
+	  setSpaceState();
   } else if (message.destinationName=="tkkrlab/sensors/humidity") {
 	  humidity = message.payloadString;
+	  setSpaceState();
   } else {
 	  //Ignore.
   }
