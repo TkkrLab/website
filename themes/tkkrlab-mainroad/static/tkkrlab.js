@@ -110,7 +110,7 @@ function setSpaceState(state=null) {
 	var elem = document.getElementById("space-status");
 	var text = "";
 	if (lastSpacestate=="1") {
-		text = state_prefix+"<span class='open'>open</span>"+;
+		text = state_prefix+"<span class='open'>open</span>";
 	} else if (lastSpacestate=="0") {
 		text = state_prefix+"<span class='closed'>gesloten</span>";
 	} else {
