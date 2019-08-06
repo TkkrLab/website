@@ -1,5 +1,5 @@
 ---
-title: "TkkrLab Retrodag 2019"
+title: "TkkrLab Retrodag 2019 - 31 Aug"
 date: 2019-07-23
 thumbnail: "/images/Retrodag.jpg"
 ---
