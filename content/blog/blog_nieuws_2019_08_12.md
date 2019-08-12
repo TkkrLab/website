@@ -1,5 +1,5 @@
 ---
-title: "FPGA cursus verplaatst"
+title: "zaterdag BYOP dag"
 date: 2019-08-12
 thumbnail: "/images/ender-3dprinter.png"
 ---
