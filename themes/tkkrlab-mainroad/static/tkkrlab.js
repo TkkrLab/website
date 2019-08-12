@@ -15,7 +15,7 @@ function mqttClientCreate() {
 }
 
 function mqttOnConnect() {
-  console.log("onConnect");
+  //console.log("onConnect");
   client.subscribe("#");
 }
 
@@ -64,7 +64,7 @@ function stripHtmlTags(str)
   } else {
     str = str.toString();
   }
-  console.log("strip",str);
+  //console.log("strip",str);
   str = str.replace('<','&lt;');
   str = str.replace('>','&gt;');
   str = str.replace('\r','');
@@ -74,7 +74,7 @@ function stripHtmlTags(str)
 
 var chat = [];
 
-function drawChat(newMsg="") {
+/*function drawChat(newMsg="") {
     while (chat.length < 20) {
       chat.push("< > ");
     }
@@ -100,22 +100,34 @@ function drawChat(newMsg="") {
     //chatLines = chatLines + "</table>";
     var elem = document.getElementById("chat-content");
     elem.innerHTML = chatLines;  
+}*/
+
+var lastSpacestate = null;
+var temperature = null;
+var humidity = null;
+function setSpaceState(state=null) {
+	if (state != null) lastSpacestate = state;
+	var elem = document.getElementById("space-status");
+	var text = "";
+	if (lastSpacestate=="1") {
+		text = state_prefix+"<span class='open'>open</span>";
+	} else if (lastSpacestate=="0") {
+		text = state_prefix+"<span class='closed'>gesloten</span>";
+	} else {
+		text = state_prefix+"<span class='unknown'>onbekend</span>";
+	}
+	if (temperature) text += "<br />T: "+String(temperature)+"&deg;c";
+	if (humidity)    text += " / H: "+String(humidity)+"%"
+	elem.innerHTML = text;
 }
 
 // called when a message arrives
 function onMessageArrived(message) {
-  console.log("onMessageArrived:",message.destinationName,message.payloadString);
+  //console.log("onMessageArrived:",message.destinationName,message.payloadString);
 
   if (message.destinationName=="tkkrlab/spacestate") {
-        var elem = document.getElementById("space-status");
-	if (message.payloadString=="1") {
-		elem.innerHTML = state_prefix+"<span class='open'>open</span>";
-	} else if (message.payloadString=="0") {
-		elem.innerHTML = state_prefix+"<span class='closed'>gesloten</span>";
-	} else {
-		elem.innerHTML = state_prefix+"<span class='unknown'>"+String(message.payloadString)+"</span>";
-	}
-  } else if (message.destinationName.startsWith("metrics/")) {
+	  setSpaceState(message.payloadString);
+  } /*else if (message.destinationName.startsWith("metrics/")) {
     var parts = message.destinationName.split('/');
     var name  = parts[parts.length-1];
     console.log("Received metrics for "+name);
@@ -126,10 +138,19 @@ function onMessageArrived(message) {
     console.log("Message received",message.destinationName,message.payloadString);
     //elem = document.getElementById("mqtt-content");
     //elem.innerHTML = "<div class='item'><strong>"+message.destinationName+":</strong> "+message.payloadString+"</div>" + elem.innerHTML;
+  }*/
+  else if (message.destinationName=="tkkrlab/sensors/temperature") {
+	  temperature = message.payloadString;
+	  setSpaceState();
+  } else if (message.destinationName=="tkkrlab/sensors/humidity") {
+	  humidity = message.payloadString;
+	  setSpaceState();
+  } else {
+	  //Ignore.
   }
 }
 
-function progressCreate() {
+/*function progressCreate() {
   if (document.getElementById("progress1")!=null) {
     console.log("Found progress1!");
     progress['test1'] = new ProgressBar.Line('#progress1', {
@@ -171,7 +192,7 @@ function progressCreate() {
   } else {
     console.log("No progress #2!");
   }
-}
+}*/
 
 function fadeSubtitleText() {
 	if (subtitleSwapped) {
@@ -190,13 +211,13 @@ function fadeSubtitleText() {
 }
 
 window.onload = function onLoad() {
-  if (initial_status) {
+  /*if (initial_status) {
     document.getElementById("space-status").innerHTML = state_prefix+"<span class='open'>open</span>";
   } else {
     document.getElementById("space-status").innerHTML = state_prefix+"<span class='closed'>gesloten</span>";
-  }
+  }*/
   mqttClientCreate();
   mqttClientConnect();
-  progressCreate();
-  drawChat();
+  //progressCreate();
+  //drawChat();
 }
