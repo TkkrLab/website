@@ -1,9 +1,9 @@
 ---
-title: "zaterdag BYOP dag"
+title: "zaterdag 17 aug 2019 BYOP dag"
 date: 2019-08-12
 thumbnail: "/images/ender-3dprinter.png"
 ---
-![Nieuws]("/images/ender-3dprinter.png")
+![Nieuws](/images/ender-3dprinter.png "Nieuws")
 
 3D printer dag
 
