@@ -1,21 +1,31 @@
 ---
-title: "CyberSaturday 16 juni: Digitale Zelfverdediging"
-date: 2018-05-19
-thumbnail: "/images/privacy-warning.png"
+title: "CyberSaturday 21 december: Fusion 360 workshop"
+date: 2019-12-21
+thumbnail: "/images/Fusion 360 basis workshop 20191221.jpg"
 ---
 
-<img alt="privacy warning" src="/images/privacy-warning.png" height="70%" width="70%" align="middle">
+<img alt="privacy warning" src="/images/Fusion 360 basis workshop 20191221.jpg" height="70%" width="70%" align="middle">
 
-## 16 Juni vanaf 14:00 bij TkkrLab.
+## 21 December vanaf 13:00 bij TkkrLab.
 
-*Privacy*
+*CyberSaturday*
 
-Vanaf 1 mei is de nieuwe wetgeving voor de sleepwet ingegaan (WIV 2017). Na de referendum, waarbij meerderheid tegen de sleepwet was, is deze met een aantal kleine aanpassingen gewijzigd. Het is nog steeds mogelijk dat indien je toevallig op de verkeerde plek bent al je internet verkeer wordt afgeluisterd (en gedeeld wordt met buitenlandse geheime diensten).
+Op zaterdag 21 December is het weer zover: de volgende Cyber Saturday van het jaar. Deze keer wordt het een workshop Fusion 360.
 
-Met 'Digitale Zelfverdediging' leggen we eerst kort uit hoe het internet werkt en wat je zelf kunt doen om je te beschermen. Dit kan op alle niveaus zijn, van het installeren van een eenvoudige adbloker tot gebruik van TOR of VPN.
+Leer de basisvaardigheden om parametrisch te modelleren in 3D.
 
-We zullen handson aan de slag gaan, neem je laptop dus mee.
+## Benodigdheden om de workshop te volgen:
+Een windows laptop. Met het vriendelijk verzoek om Fusion 360 thuis al te instaleren.
 
-Reserveer svp een plek via [Meetup](https://www.meetup.com/tkkrlab/events/250946678/) of stuur ons een [email](mailto:bestuur@tkkrlab.nl)
 
-Voor meer informatie zie onze [wiki pagina](https://tkkrlab.nl/wiki/CyberSaturday_:_Digitale_Zelfverdediging)
+## Agenda 21 december:
+13:00 Inloop
+14:00 Begin van de workshop
+15:30 Pauze
+16:00 Tweede deel workshop
+17:30 Einde workshop
+18:00 Avondeten ( bijdrage nodig, het wordt chinees of pizza.)
+
+## Let op! Er is plaats voor 15 cursisten, meld je dus van tevoren om zeker van je plaats te zijn.
+
+Reserveer svp een plek via [Hier](https://docs.google.com/forms/d/1XHCxuVMsg-4LBmUXVDC9Nc63M9sf82DeGJ_M8OCoTgk/).
