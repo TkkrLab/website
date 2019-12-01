@@ -35,6 +35,7 @@ De volgende hackerspaces voldoen:
  - Bitlair
  - Frack
  - Hack42
+ - [Hackalot](https://hackalot.nl/Multi-deelnemerschap)
  - NURDspace
  - Pixelbar
  - [RevSpace](https://revspace.nl/index.php?title=Multi-deelnemerschap)
@@ -45,5 +46,6 @@ NB: De andere space hoeft geen soortgelijke constructie aan te bieden om de kort
 
 Op dit moment participeren de volgende hackerspaces in deze constructie:
 
+ - [Hackalot](https://hackalot.nl/Multi-deelnemerschap)
  - [RevSpace](https://revspace.nl/index.php?title=Multi-deelnemerschap)
  - [Tkkrlab](https://www.tkkrlab.nl)
