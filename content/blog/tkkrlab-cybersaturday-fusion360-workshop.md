@@ -1,6 +1,6 @@
 ---
 title: "CyberSaturday 21 december: Fusion 360 workshop"
-date: 2019-12-21
+date: 2019-12-09
 thumbnail: "/images/Fusion 360 basis workshop 20191221.jpg"
 ---
 
