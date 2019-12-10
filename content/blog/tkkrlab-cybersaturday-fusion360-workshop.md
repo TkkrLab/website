@@ -10,7 +10,8 @@ thumbnail: "/images/Fusion 360 basis workshop 20191221.jpg"
 
 *CyberSaturday*
 
-Op zaterdag 21 December is het weer zover: de volgende Cyber Saturday van het jaar. Deze keer wordt het een workshop Fusion 360.
+Op zaterdag 21 December is het weer zover: de volgende Cyber Saturday van het jaar.
+Deze keer wordt het een workshop Fusion 360.
 
 Leer de basisvaardigheden om parametrisch te modelleren in 3D.
 
