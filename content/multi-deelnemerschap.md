@@ -32,7 +32,7 @@ De volgende hackerspaces voldoen:
 
  - ACKspace
  - Bhack
- - Bitlair
+ - [Bitlair](https://bitlair.nl/Multi-deelnemerschap)
  - Frack
  - Hack42
  - [Hackalot](https://hackalot.nl/Multi-deelnemerschap)
