@@ -49,3 +49,5 @@ Op dit moment participeren de volgende hackerspaces in deze constructie:
  - [Hackalot](https://hackalot.nl/Multi-deelnemerschap)
  - [RevSpace](https://revspace.nl/index.php?title=Multi-deelnemerschap)
  - [Tkkrlab](https://www.tkkrlab.nl)
+ - [Bitlair](https://bitlair.nl/Multi-deelnemerschap)
+
