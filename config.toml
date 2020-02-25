@@ -14,6 +14,10 @@ canonifyURLs = true
 
 googleAnalytics = "UA-610785-7"
 
+[markup]
+  defaultMarkdownHandler = "blackFriday"
+
+
 [Params]
   subtitle = "Makerspace Enschede"
   description = "TkkrLab makerspace"
