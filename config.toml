@@ -42,6 +42,11 @@ googleAnalytics = "UA-610785-7"
     name = "Blog"
     url = "/blog/"
     weight = 2
+ 
+   [[menu.main]]  
+    name = "Projecten"
+    url = "projects"
+    weight = 7
 
   [[menu.main]]  
     name = "Info"
