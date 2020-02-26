@@ -50,8 +50,32 @@ googleAnalytics = "UA-610785-7"
 
   [[menu.main]]  
     name = "Info"
+    identifier = "info"
     url = "#"
     weight = 7
+    
+  [[menu.main]]  
+    name = "Grafana: space statistieken"
+    parent = "info"
+    url = "https://grafana.tkkrlab.space"
+    weight = 10
+    
+   [[menu.main]]  
+    name = "How To's en handleidingen"
+    parent = "info"
+    url = "https://handleidingen.tkkrlab.space"
+    weight = 11
+    
+   [[menu.main]]  
+    name = "Arduino cursus"
+    parent = "info"
+    url = "https://arduino.tkkrlab.space"
+    weight = 12
+    
+  [[menu.main]]  
+    name = "Arduino cursus"
+    url = "https://arduino.tkkrlab.space"
+    weight = 8
 
   #[[menu.main]]
   #  name = "Wiki"
