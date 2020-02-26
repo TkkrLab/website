@@ -71,11 +71,6 @@ googleAnalytics = "UA-610785-7"
     parent = "info"
     url = "https://arduino.tkkrlab.space"
     weight = 12
-    
-  [[menu.main]]  
-    name = "Arduino cursus"
-    url = "https://arduino.tkkrlab.space"
-    weight = 8
 
   #[[menu.main]]
   #  name = "Wiki"
