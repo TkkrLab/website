@@ -20,11 +20,11 @@ googleAnalytics = "UA-610785-7"
 
 [Params]
   subtitle = "Makerspace Enschede"
-  description = "TkkrLab makerspace"
+  description = "TkkrLab hackerspace"
   powered_by = ""
   hide_author = true
   images = []
-  author = "Tkkrlab"
+  author = "TkkrLab"
   copyright = ""
   avatar = "css/images/avatar.png"
   date_format = "02-01-2006"
