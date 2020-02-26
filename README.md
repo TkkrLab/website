@@ -1,4 +1,4 @@
-# Tkkrlab website
+# TkkrLab website
 
 De bestanden in deze repository renderen naar onze website.
 Het thema (tkkrlab-mainroad) dat wij gebruiken is gebaseerd op het hugo "Mainroad" thema (GPLv2).
