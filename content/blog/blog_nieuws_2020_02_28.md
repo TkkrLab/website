@@ -10,7 +10,7 @@ thumbnail: "/images/Tkkrlab.png"
 
 Sinds 2012 is er ieder jaar open dag voor hackerspaces, eerst alleen in Nederlands en de laatste paar jaar ook internationaal. De open dag is altijd de laatste zaterdag van maart, voor 2020 zal dit 28 maart zijn.
 
-## Internationale Open Hackerspace Dag 2019
+## Internationale Open Hackerspace Dag 2020
 Zaterdag 28 maart houden hackerspaces in Nederland een open huis.
 
 Hackerspaces zijn locaties waar mensen met een technische, creatieve en nieuwsgierige mindset bijeenkomen. Ze komen daar om te werken aan projecten, elkaar te ontmoeten en te praten over onderwerpen die hen interesseren. Tijdens de open dag is het mogelijk om zelf te ontdekken wat hacken inhoudt en te zien wat er allemaal mogelijk is in een hackerspace. Tipje van de sluier? Iemands verbeeldingskracht is de meest beperkende factor!
