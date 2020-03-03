@@ -8,7 +8,6 @@ thumbnail: "/images/Tkkrlab.png"
 
 ## 28 Maart van 11 tot 17 uur: Open dag!
 
-
 Sinds 2012 is er ieder jaar open dag voor hackerspaces, eerst alleen in Nederlands en de laatste paar jaar ook internationaal. De open dag is altijd de laatste zaterdag van maart, voor 2020 zal dit 28 maart zijn.
 
 ## Internationale Open Hackerspace Dag 2019
@@ -34,6 +33,7 @@ De onderstaande Nederlandse hackerspaces doen mee, kijk voor meer informatie ove
 
 
 ##Locatie
+
 >Spinnerij Oosterveld
 Rigtersbleek Zandvoort 10
 7521 BE Enschede
@@ -42,4 +42,5 @@ Tel. Nr : 06-10745590
 bestuur@tkkrlab.nl
 
 ##Routebeschrijving:
+
 [route](https://tkkrlab.nl/routebeschrijving/)
