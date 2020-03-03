@@ -8,7 +8,7 @@ thumbnail: "/images/Tkkrlab.png"
 
 ## 28 Maart van 11 tot 17 uur: Open dag!
 
-Sinds 2012 is er ieder jaar open dag voor hackerspaces, eerst alleen in Nederlands en de laatste paar jaar ook internationaal. De open dag is altijd de laatste zaterdag van maart, voor 2020 zal dit 28 maart zijn.
+Sinds 2012 is er ieder jaar open dag voor hackerspaces, eerst alleen in Nederland, en de laatste paar jaar ook internationaal. De open dag is altijd de laatste zaterdag van maart, voor 2020 zal dit 28 maart zijn.
 
 ## Internationale Open Hackerspace Dag 2020
 
