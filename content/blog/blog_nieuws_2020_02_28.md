@@ -34,6 +34,7 @@ De onderstaande Nederlandse hackerspaces doen mee, kijk voor meer informatie ove
 
 ##Locatie
 
+
 >Spinnerij Oosterveld
 Rigtersbleek Zandvoort 10
 7521 BE Enschede
@@ -42,5 +43,6 @@ Tel. Nr : 06-10745590
 bestuur@tkkrlab.nl
 
 ##Routebeschrijving:
+
 
 [route](https://tkkrlab.nl/routebeschrijving/)
