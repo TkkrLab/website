@@ -20,7 +20,7 @@ Hackerspaces zijn locaties waar mensen met een technische, creatieve en nieuwsgi
 Iedereen is welkom om een kijkje te komen nemen tijdens deze jaarlijks terugkerende open dag. Vanaf 11:00 uur ‘s ochtends zijn de deuren geopend en om 17:00 is het dagprogramma afgelopen. Sommige hackerspaces blijven ‘s avonds geopend. Per hackerspace zijn verschillende presentaties te zien van de individuele projecten die in die hackerspace worden uitgevoerd.
 
 
-##Enkele voorbeelden van geplande activiteiten zijn:
+## Enkele voorbeelden van geplande activiteiten zijn:
 
 Leren hoe kwetsbaar systemen zijn en wat daar aan gedaan kan worden.
 Kennis opdoen over de juiste bescherming van je privacy en persoonsgegevens.
@@ -35,7 +35,7 @@ De onderstaande Nederlandse hackerspaces doen mee, kijk voor meer informatie ove
 [hackerspace.nl](https://hackerspaces.nl/)
 
 
-##Locatie
+## Locatie
 
 >Spinnerij Oosterveld
 Rigtersbleek Zandvoort 10
@@ -45,6 +45,6 @@ Tel. Nr : 06-10745590
 bestuur@tkkrlab.nl
 
 
-##Routebeschrijving:
+## Routebeschrijving:
 
 [route](https://tkkrlab.nl/routebeschrijving/)
