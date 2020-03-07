@@ -26,6 +26,11 @@ Een introductie tot Linux (neem hiervoor je laptop mee).
 Een introductie tot Arduino of Raspberry Pi.
 Hackers vinden ethiek belangrijk, daarom wordt er binnen de hackerspaces gesproken over hoe hackers proberen de wereld te verbeteren door kritisch en fris naar de maatschappij, techniek en organisaties te kijken en kennis te delen. Daarnaast zijn hackerspaces plekken waar mensen komen die mooie, grappige en creatieve dingen maken. Een plek onder gelijkgestemden waar ze welkom zijn en waar zij een gemeenschappelijke ruimte, gereedschappen en informatie kunnen delen. Een plek die inspiratie geeft!
 
+## Specifiek op de opendag bij Tkkrlab
+
+> Tijdens de open dag wordt er in de middag een introductie "3D sculpting met Blender 3D" gegeven. De kursus vindt tussen 14:00 en 15:00 plaats. 
+
+
 >Aanmelden voor de open dag is niet nodig, het wordt wel op prijs gesteld als pers zich vooraf meldt en de privacy van de aanwezigen respecteert.
 
 De onderstaande Nederlandse hackerspaces doen mee, kijk voor meer informatie over het programma op:
