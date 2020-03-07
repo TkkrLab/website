@@ -10,6 +10,7 @@ thumbnail: "/images/Tkkrlab.png"
 
 Sinds 2012 is er ieder jaar open dag voor hackerspaces, eerst alleen in Nederland, en de laatste paar jaar ook internationaal. De open dag is altijd de laatste zaterdag van maart, voor 2020 zal dit 28 maart zijn.
 
+
 ## Internationale Open Hackerspace Dag 2020
 
 Zaterdag 28 maart houden hackerspaces in Nederland een open huis.
@@ -17,6 +18,7 @@ Zaterdag 28 maart houden hackerspaces in Nederland een open huis.
 Hackerspaces zijn locaties waar mensen met een technische, creatieve en nieuwsgierige mindset bijeenkomen. Ze komen daar om te werken aan projecten, elkaar te ontmoeten en te praten over onderwerpen die hen interesseren. Tijdens de open dag is het mogelijk om zelf te ontdekken wat hacken inhoudt en te zien wat er allemaal mogelijk is in een hackerspace. Tipje van de sluier? Iemands verbeeldingskracht is de meest beperkende factor!
 
 Iedereen is welkom om een kijkje te komen nemen tijdens deze jaarlijks terugkerende open dag. Vanaf 11:00 uur ‘s ochtends zijn de deuren geopend en om 17:00 is het dagprogramma afgelopen. Sommige hackerspaces blijven ‘s avonds geopend. Per hackerspace zijn verschillende presentaties te zien van de individuele projecten die in die hackerspace worden uitgevoerd.
+
 
 ##Enkele voorbeelden van geplande activiteiten zijn:
 
@@ -32,8 +34,8 @@ Hackers vinden ethiek belangrijk, daarom wordt er binnen de hackerspaces gesprok
 De onderstaande Nederlandse hackerspaces doen mee, kijk voor meer informatie over het programma op:
 [hackerspace.nl](https://hackerspaces.nl/)
 
-##Locatie
 
+##Locatie
 
 >Spinnerij Oosterveld
 Rigtersbleek Zandvoort 10
@@ -42,7 +44,7 @@ Lokaal 2.08 (2e verdieping)
 Tel. Nr : 06-10745590
 bestuur@tkkrlab.nl
 
-##Routebeschrijving:
 
+##Routebeschrijving:
 
 [route](https://tkkrlab.nl/routebeschrijving/)
