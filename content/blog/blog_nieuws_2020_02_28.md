@@ -28,21 +28,20 @@ Hackers vinden ethiek belangrijk, daarom wordt er binnen de hackerspaces gesprok
 
 ## Specifiek op de opendag bij Tkkrlab
 
-> Tijdens de open dag wordt er in de middag een introductie "3D sculpting met Blender 3D" gegeven. De kursus vindt tussen 14:00 en 15:00 plaats. 
+> Tijdens de open dag wordt er in de middag een introductie "3D sculpting met Blender 3D" gegeven. De kursus vindt tussen 14:00 en 15:00 plaats. Om hier aan mee te doen is een laptop met minstens OpenGL 3 compatibiliteit nodig.
 
-
->Aanmelden voor de open dag is niet nodig, het wordt wel op prijs gesteld als pers zich vooraf meldt en de privacy van de aanwezigen respecteert.
+> Aanmelden voor de open dag is niet nodig, het wordt wel op prijs gesteld als pers zich vooraf meldt en de privacy van de aanwezigen respecteert.
 
 De onderstaande Nederlandse hackerspaces doen mee, kijk voor meer informatie over het programma op:
 [hackerspace.nl](https://hackerspaces.nl/)
 
 ## Locatie
 
->Spinnerij Oosterveld
-Rigtersbleek Zandvoort 10
+>Spinnerij Oosterveld  
+Rigtersbleek Zandvoort 10  
 7521 BE Enschede
-Lokaal 2.08 (2e verdieping)
-Tel. Nr : 06-10745590
+Lokaal 2.08 (2e verdieping)  
+Tel. Nr : 06-10745590  
 bestuur@tkkrlab.nl
 
 ## Routebeschrijving:
