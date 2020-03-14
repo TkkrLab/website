@@ -5,6 +5,9 @@ thumbnail: "/images/Tkkrlab.png"
 ---
 ![Nieuws](/images/Tkkrlab.png "Nieuws")
 
+## Wegens omstandigheden is deze open dag uitgesteld.
+> Zodra we de nieuwe datum weten zullen wij deze natuurlijk communiceren.
+
 ## 28 Maart van 11 tot 17 uur: Open dag!
 
 Sinds 2012 is er ieder jaar open dag voor hackerspaces, eerst alleen in Nederland, en de laatste paar jaar ook internationaal. De open dag is altijd de laatste zaterdag van maart, voor 2020 zal dit 28 maart zijn.
