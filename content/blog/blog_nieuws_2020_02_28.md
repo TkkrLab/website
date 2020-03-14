@@ -1,5 +1,5 @@
 ---
-title: "Open dag 28 maart"
+title: "Geen open dag 28 maart"
 date: 2020-01-28
 thumbnail: "/images/Tkkrlab.png"
 ---
