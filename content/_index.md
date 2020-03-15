@@ -6,7 +6,7 @@ noprevnext: true
 disable_comments: true
 ---
 
-<div style="background-color: #FFFF00; color: #000000; border: 3px solid #000000;">
+<div style="padding: 10px; background-color: #FFFF00; color: #000000; border: 3px solid #000000;">
 <h1>Mededeling</h1>
 TkkrLab is voorlopig gesloten voor bezoekers.
 Voor deelnemers is de space nog wel open
