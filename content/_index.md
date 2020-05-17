@@ -8,9 +8,8 @@ disable_comments: true
 
 <div style="padding: 10px; background-color: #FFFF00; color: #000000; border: 3px solid #000000;">
 <h1>Mededeling</h1>
-TkkrLab is voorlopig gesloten voor bezoekers.
-Voor deelnemers is de space nog wel open
-maar wanneer je (lichte) symptomen vertoont vragen wij je thuis te blijven.
+Vanaf 1 juni is de space weer officieel open. Voor de space zelf geldt een limiet van 8 mensen. Bezoek is weer welkom, maar alleen op afspraak.
+Wanneer je (lichte) symptomen vertoont vragen wij je thuis te blijven.
 <br /><br />- Het bestuur</div>
 
 # Wat is het TkkrLab?
