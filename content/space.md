@@ -42,7 +42,7 @@ We hebben in de loop van de tijd de nodige [gereedschap](https://handleidingen.t
 * Folie Snijder
 * Naaimachine
 * Houtwerkplaats (met zaagtafel / kolomboor / handgereedschap ) 
-* Electronica werkplaats
+* [Electronica werkplaats](https://handleidingen.tkkrlab.space/gereedschappen/#electronica-werkbank)
 
 ## De makerspace (werkplaats)
 
