@@ -33,6 +33,17 @@ Kom je na 7 uur 's avonds of in het weekend? Dan is de kans groot dat het hek va
 
 Als je [deelnemer](/deelnemer-worden) wordt krijg je je eigen sleutel en kan je 24/7 gebruik maken van de ruimte. De enige dingen die wij niet toestaan zijn slapen in de space en het werken aan world domination plannen... Zie onze [huisregels](/wiki/Huisregels) voor meer details.
 
+## Gereedschappen
+
+We hebben in de loop van de tijd de nodige [gereedschap](https://handleidingen.tkkrlab.space/gereedschappen/) verzameld, deze is voor de leden gratis of kostprijs te gebruiken. Voor niet-leden is deze apparatuur voor een kleine vergoeding te gebruiken.
+
+* [Lasercutter 30x40cm 40W](https://handleidingen.tkkrlab.space/gereedschappen/lasercutter-cw3040/)
+* 3d printers
+* Folie Snijder
+* Naaimachine
+* Houtwerkplaats (met zaagtafel / kolomboor / handgereedschap ) 
+* Electronica werkplaats
+
 ## De makerspace (werkplaats)
 
 Naast de hackerspace, waar je rustig kunt komen werken, hebben we ook een ruimte waar je met zwaarder gereedschap aan de slag kunt.
