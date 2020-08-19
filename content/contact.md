@@ -22,11 +22,12 @@ Voor alle andere vragen kun je contact opnemen met <bestuur@tkkrlab.nl>
 
 # Contact
 	
-Wanneer het Tkkrlab geopend is ben je altijd welkom! Als je rechtsboven ‘Geopend’ ziet staan is er iemand aanwezig. Het is wel verstandig om ons eerst even een bericht te sturen (via IRC of Telegram) of te bellen. Dan weet je zeker dat er mensen aanwezig zijn om je te ontvangen.
+Wanneer het Tkkrlab geopend is ben je altijd welkom! Als je rechtsboven ‘Geopend’ ziet staan is er iemand aanwezig. Het is wel verstandig om ons eerst even een bericht te sturen (zie hieronder) of te bellen. Dan weet je zeker dat er mensen aanwezig zijn om je te ontvangen.
  
 We zijn dinsdagavond vanaf 19:00 altijd open, je kunt dan zonder afspraak komen.
  
-Telefoon : 06-10745590 (Alleen bereikbaar indien iemand aanwezig in TkkrLab) 
+Telefoon : [06-10745590](tel:06-10745590) (Alleen bereikbaar indien iemand aanwezig in TkkrLab)
+
 Email : <bestuur@tkkrlab.nl>
 
 Kvk : 51974967
@@ -40,14 +41,18 @@ Rigtersbleek Zandvoort 10
 
 Lokaal 2.08 (2e verdieping)
 
+Als je ons wil bezoek kijk dan ook op de [routebeschrijving](/routebeschrijving/). Sla ons telefoon nummer op je telefoon, dan kun je ons bellen als je de ingang niet kunt vinden of voor een dichte deur staat.
+
 # Sociale Media
 Twitter: [@tkkrlab](https://twitter.com/tkkrlab)
 
-# IRC
+[Telegram](https://t.me/joinchat/EHlAHUhm5T-FYewjP0-aOg)
+
+[WhatsApp](https://chat.whatsapp.com/JlYuC87P2NKBWYdVljoiqz)
+
+
+## IRC
 IRC is bij voorkeur een chat programma die door hackers gebruikt wordt.
 Als je iemand wil bereiken noem dan zijn naam en wacht lang genoeg (minimaal 30 minuten)
 Onze irc kanaal is op [freenode netwerk](irc://freenode.net/tkkrlab), channel ```#tkkrlab```.
 Heb je geen IRC client kun je deze [webclient](http://webchat.freenode.net/?randomnick=1&channels=%23tkkrlab&uio=d4) gebruiken.
-
-# Wiki
-Voor meer informatie zie [onze wiki](https://tkkrlab.nl/w/index.php/Communication).
