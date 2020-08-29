@@ -12,6 +12,9 @@ Vanaf 1 juni is de space weer officieel open. Voor de space zelf geldt een limie
 Wanneer je (lichte) symptomen vertoont vragen wij je thuis te blijven.
 <br /><br />- Het bestuur</div>
 
+
+🇬🇧 Can't read dutch? No problem read the (google) [translation to English](https://translate.google.com/translate?sl=nl&tl=en&u=tkkrlab.nl).  🇬🇧
+
 # Wat is het TkkrLab?
 
 <img style="margin: 10px;" src="/images/trouw.jpg">
