@@ -13,13 +13,15 @@ Op woensdag 23 September 19:00 houdt hackerspace TkkrLab hun webinar over de Cor
 
 Kort voor aanvang van de webinar zal hier de link komen te staan om mee te kunnen doen. Indien je een email wilt ontvangen kun je [hier](https://forms.gle/X5BjjPybExW6qgey5) inschrijven.
 
+Er zijn geen kosten verbonden aan deelname, een kleine [donatie](https://bunq.me/tkkrlab/5/Webinar%20CoronaMelder) wordt gewaardeerd.
+
 Na het evenement zal de video online komen te staan.
 
 ## Programma
-Hieronder vind je het programma, tijden is ter indicatie en kunnen tijdens de webminar afwijken.
+Hieronder vind je het programma, tijden is ter indicatie en kunnen tijdens de webinar afwijken.
 
 * 19:00 Start webminar
-* 19:00 Introductie gasten Brenno de Winter en Ivo Jansch
-* 19:10 Uitleg CoronaMelder 
+* 19:00 Introductie gasten Brenno de Winter (privacy expert) en Ivo Jansch (CoronaMelder app developers)
+* 19:10 Uitleg CoronaMelder (privacy en techniek).
 * 19:40 Vragen van publiek
 * 20:15 Afsluiting
