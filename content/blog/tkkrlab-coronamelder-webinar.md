@@ -11,7 +11,9 @@ thumbnail: "/images/CoronaMelderActief.jpg"
 
 Op woensdag 23 September 19:00 houdt hackerspace TkkrLab hun webinar over de CoronaMelder app van de overheid. Er zijn veel (technische) misverstanden bij het publiek, met deze webinar willen we deze wegnemen en uitleggen waarom de CoronaMelder een privacy vriendelijke app is. Brenno de Winter (Informatiebeveiliging & privacy expert) en Ivo Jansch (app developer CoronaMelder) zijn hierbij te gast eventuele vragen te beantwoorden. 
 
-Kort voor aanvang van de webinar zal hier de link komen te staan om mee te kunnen doen. Indien je een email wilt ontvangen kun je [hier](https://forms.gle/X5BjjPybExW6qgey5) inschrijven.
+
+We maken gebruik van BigBlueButton [(link naar stream)](https://bbb.do.speakup.nl/b/dav-q92-wm3) , deze link zal pas actief zijn als we echt starten. 
+Indien je een email wilt ontvangen kun je [hier](https://forms.gle/X5BjjPybExW6qgey5) inschrijven.
 
 Er zijn geen kosten verbonden aan deelname, een kleine [donatie](https://bunq.me/tkkrlab/5/Webinar%20CoronaMelder) wordt gewaardeerd.
 
