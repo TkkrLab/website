@@ -21,7 +21,7 @@ Na het evenement zal de video online komen te staan.
 ## Programma
 Hieronder vind je het programma, tijden is ter indicatie en kunnen tijdens de webinar afwijken.
 
-* 19:45 Online, gelegenheid op video/geluid te testen.
+* 18:45 Online, gelegenheid op video/geluid te testen.
 * 19:00 Start webinar
 * 19:00 Introductie gasten Brenno de Winter (privacy expert) en Ivo Jansch (CoronaMelder app developers)
 * 19:10 Uitleg CoronaMelder (privacy en techniek).
