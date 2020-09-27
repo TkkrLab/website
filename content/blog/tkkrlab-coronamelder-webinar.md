@@ -13,7 +13,7 @@ Op woensdag 23 September 19:00 houdt hackerspace TkkrLab hun webinar over de Cor
 
 Er zijn geen kosten verbonden aan deelname, een kleine [donatie](https://bunq.me/tkkrlab/5/Webinar%20CoronaMelder) wordt gewaardeerd.
 
-Video van deze webinar staat op [Youtube](https://www.youtube.com/watch?v=DVDDhpi_nm0).
+Video van deze webinar staat op [Youtube](https://youtu.be/cdU8RUdw2f4).
 
 
 ## Programma
