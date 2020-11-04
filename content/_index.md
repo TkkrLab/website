@@ -18,7 +18,7 @@ Wanneer je (lichte) symptomen vertoont vragen wij je thuis te blijven.
 
 # Wat is het TkkrLab?
 
-<img style="margin: 10px;" src="/images/trouw.jpg">
+<img style="margin: 10px;" src="/images/tkkrLab-ruimte-nov-2020.JPG">
 
 <br />
 
