@@ -29,7 +29,7 @@ Rechts bovenin vindt je de space status. Als we geopend zijn dan ben je van hart
 Is gezelligheid meer jouw ding, dan is **iedere dinsdagavond** de wekelijkse bijeenkomst. De overige dagen is het rustiger en kan je aan projecten werken.
 <br />
 <br />
-Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/nieuws/) waar we de laatste nieuwtjes op plaatsen.
+Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/blog/) waar we de laatste nieuwtjes op plaatsen.
 <br />
 <br />
 Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze nieuwsbrief of kijk op onze [contact](/contact/) pagina om te zien hoe je ons kunt bereiken.
