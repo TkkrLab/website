@@ -27,7 +27,18 @@
 						{{ with .Site.Params.subtitle }}<h2 id="logo__tagline" class="logo__tagline">{{ . }}</h2>{{ end }}
 					</a>
 				</div>
-				<div class="space-status-container"><span class="space-status" id="space-status"><span class="unknown">&nbsp;</span></span></span></div>
+				<div class="space-status-container">
+                {{ if .Site.IsMultiLingual }}
+                    {{ range .Site.Languages }}
+                        {{ if eq . $.Site.Language }}
+                            <img src="/icons/{{ . }}.png" alt="{{ .LanguageName }}" />
+                        {{ end }}
+                    {{ end }}
+                        {{ range $.Translations }}
+                            <a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}"><img src="/icons/{{ .Language }}.png" alt="{{ .Language.LanguageName }}" /></a>
+                        {{ end }}
+                {{ end }}
+				<span class="space-status" id="space-status"><span class="unknown">&nbsp;</span></span></span></div>
 			</div>
 			{{ partial "menu.html" . }}
 		</header>
