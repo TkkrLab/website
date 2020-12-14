@@ -9,7 +9,7 @@ disable_comments: true
 <div style="padding: 10px; background-color: #FFFF00; color: #000000; border: 3px solid #000000;">
 <h1>Corona maatregelen</h1>
 <br/>
-Voor de space geldt momenteel een limiet van maximaal 8 personen. Bezoek is  welkom, maar alleen op afspraak.
+Voor de space geldt momenteel een limiet van maximaal 8 personen. We zijn gesloten voor bezoekers.
 Wanneer je (lichte) symptomen vertoont vragen wij je thuis te blijven.
 <br /><br />- Het bestuur</div>
 

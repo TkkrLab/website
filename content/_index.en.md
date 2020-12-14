@@ -5,6 +5,14 @@ nodateline: true
 noprevnext: true
 disable_comments: true
 ---
+<div style="padding: 10px; background-color: #FFFF00; color: #000000; border: 3px solid #000000;">
+<h1>Corona maatregelen</h1>
+<br/>
+The space is now limited for max 8 persons.
+We are closed for visitors.
+When you have any symptoms please stay at home!
+<br /><br />- The board</div>
+
 
 # What is the TkkrLab?
 
