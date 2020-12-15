@@ -6,11 +6,11 @@ noprevnext: true
 disable_comments: true
 ---
 <div style="padding: 10px; background-color: #FFFF00; color: #000000; border: 3px solid #000000;">
-<h1>Corona maatregelen</h1>
+<h1>Corona measures</h1>
 <br/>
-The space is now limited for max 8 persons.
-We are closed for visitors.
-When you have any symptoms please stay at home!
+For visitors the space is closed. Although the space is still open for members we ask you to stay home as much as possible.
+Should you come to the space regardless then please adhere to a hard limit of at most 4 people present.
+When you have symptoms, no matter how light they are: please stay at home!
 <br /><br />- The board</div>
 
 
