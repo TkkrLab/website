@@ -23,28 +23,15 @@ When you have symptoms, no matter how light they are: please stay at home!
 TkkrLab (Tukkerlab) is a space which provides members and visitors access to facilities like a lasercutter, 3D printer and an Arduino course. Due to the extensive sharing of knowledge and experience within our community there will almost always be people available to help you on your way with your creative [projects](/projects/).
 <br />
 <br />
-In the right-top corner of our site you will find the space state. When we're open you're more than welome to come visit!
+In the right-top corner of our site you will find the space state. When we're open you're more than welome to come visit! 
 Is gezelligheid meer jouw ding, dan is **iedere dinsdagavond** de wekelijkse bijeenkomst. De overige dagen is het rustiger en kan je aan projecten werken.
 <br />
 <br />
-Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/blog/) waar we de laatste nieuwtjes op plaatsen.
+Look in our [agenda](/agenda/) for more information about our workshops and lectures. We also have a [blog](/blog/) for the latest news. 
 <br />
 <br />
-Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze nieuwsbrief of kijk op onze [contact](/contact/) pagina om te zien hoe je ons kunt bereiken.
+If you want keep posted about our activities you can subscribe on our [newsletter](http://eepurl.com/gLxrLD) or [contact](/contact/) us.
 <br />
 <br />
-Woon je niet in Enschede, maar lijkt een hackerspace je wel wat, kijk dan op [hackerspaces.nl] (https://hackerspaces.nl)
-<br />
-<br />
-![hackerspacekaart, Nederland](/images/Hackerspaces_nederland_kaart.png)  
-
-Een kleine greep uit dit overzicht:
-
-Naam | Locatie 
---- | ---
-[TkkrLab](https://www.tkkrlab.space/) | Enschede
-[Makerspace Leidschendam](https://revspace.nl/) | Leidschendam
-[Hack42](https://hack42.nl/) | Arnhem
-[Frack](https://frack.nl/) | Leeuwarden
 
 {{< youtubenc wamwklXWK4M >}}

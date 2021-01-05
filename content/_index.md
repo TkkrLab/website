@@ -33,7 +33,7 @@ Is gezelligheid meer jouw ding, dan is **iedere dinsdagavond** de wekelijkse bij
 Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/blog/) waar we de laatste nieuwtjes op plaatsen.
 <br />
 <br />
-Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze nieuwsbrief of kijk op onze [contact](/contact/) pagina om te zien hoe je ons kunt bereiken.
+Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze (nieuwsbrief)[http://eepurl.com/gLxrLD] of kijk op onze [contact](/contact/) pagina om te zien hoe je ons kunt bereiken.
 <br />
 <br />
 Woon je niet in Enschede, maar lijkt een hackerspace je wel wat, kijk dan op [hackerspaces.nl] (https://hackerspaces.nl)
