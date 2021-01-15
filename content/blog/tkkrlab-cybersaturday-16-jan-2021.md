@@ -26,3 +26,7 @@ Hieronder vind je het programma, tijden is ter indicatie en kunnen tijdens de we
 * 14:00 Start webinar
 * 14:30 Vragen van publiek
 * 15:00 Afsluiting
+
+Dit evenement word mogelijk gemaakt door Creative broedplaats Twente
+
+<img width=50% src="/images/Logo-Creatieve-Broedplaatsen-Twente.jpg"  alt="Logo creative broedplaats twente">
