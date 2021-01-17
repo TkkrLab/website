@@ -32,7 +32,7 @@ params:
   readmore: true
   post_navigation: true
   postSections: ["blog"]
-  copyright: "Copyright 2020 - Stichting TkkrLab"
+  copyright: "Copyright 2021 - Stichting TkkrLab"
   widgets:
     search: false
     recent_articles: true
