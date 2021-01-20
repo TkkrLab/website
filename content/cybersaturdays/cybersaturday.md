@@ -4,23 +4,26 @@ date: 2018-04-03T00:00:00+02:00
 nodateline: true
 noprevnext: true
 disable_comments: true
+menu:
+  main:
+    parent: "De space"
+    weight: 8
 ---
-## CyberSaturday 
-
-<br />
 <img alt="CyberSaturday" src="/images/cyber_saturday.png" height="50%" width="50%" align="middle">
-<br /><br />
-De CyberSaturday is maandelijkse evenement georganiseerd door TkkrLab. We begingen meestal vanaf 14:00. Na het evenement is er gelegenheid om rond te blijven hangen, eventueel word er rond etenstijd gekeken of er gemeenschappelijk wat geregeld kan worden (op eigen kosten).
-<br />
-<br />
+
+
+De CyberSaturday is maandelijkse evenement georganiseerd door TkkrLab. We begingen meestal vanaf 14:00. Na het evenement is er gelegenheid om rond te blijven hangen, eventueel wordt er rond etenstijd gekeken of er gemeenschappelijk wat geregeld kan worden (op eigen kosten).
+
+
 Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maandelijk te organiseren en (buitenlandse) gasten uit te nodigen. 
-<br /><br />
-Planning voor CyberSaturday 2021:
-<br /><br />
+
+
+### Planning voor CyberSaturday 2021 :
+
 
 * Jan 16 - Presentatie programma (bekijk deze op Youtube)
-* Feb 20 - [Online Privacy door Dave Borghuis](/cybersaturday/2021_02_20_online_privacy/)   
-* Mrt 20 - [Een moderne aanpak voor het parsen van programma's / A modern approach to parsing programs door Frans Faase (Taal : Engels)](/cybersaturday/2021_03_20_parsers/)
+* Feb 20 - [Online Privacy door Dave Borghuis](/cybersaturdays/2021_02_20_online_privacy/)   
+* Mrt 20 - [Een moderne aanpak voor het parsen van programma's / A modern approach to parsing programs door Frans Faase (Taal : Engels)](/cybersaturdays/2021_03_20_parsers/)
 * Apr 17 - Jouw computerbeveiliging ( 1 / 2 ) door Jurjen Stellingwerff
 * Mei 15 - Workshop Lasercutter – Dave Borghuis
 * Jun 19 - Werken aan computer security ( 2 / 2 ) – Jurjen Stellingwerff
