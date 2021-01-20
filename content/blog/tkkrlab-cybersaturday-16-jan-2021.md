@@ -16,7 +16,7 @@ Livestream kun je [hier](https://www.youtube.com/watch?v=nieysTn9afA) terug zien
 
 Planning voor CyberSaturday 2021:
 
-* Jan 16 - Presentatie programma (bekijk deze op Youtube)
+* Jan 16 - Presentatie programma (bekijk [youtube video](https://www.youtube.com/watch?v=nieysTn9afA) )
 * Feb 20 - Online Privacy door Dave Borghuis  
 * Mrt 20 - Een moderne aanpak voor het parsen van programma's / A modern approach to parsing programs door Frans Faase (Taal : Engels)
 * Apr 17 - Jouw computerbeveiliging (1/2) door Jurjen Stellingwerff
