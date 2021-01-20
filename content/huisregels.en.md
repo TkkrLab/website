@@ -5,7 +5,7 @@ noprevnext: true
 disable_comments: true
 menu:
   main:
-    parent: "De space"
+    parent: "The space"
     weight: 7
 ---
 1. Sleeping in the space is not allowed
