@@ -77,7 +77,7 @@ Bezoek Tkkrlab op zijn minst een paar keer om ons te leren kennen (en wij jou na
 Meld je vervolgens aan via de volgende stappen:
 
  - Kom minimaal een paar keer op een Dinsdagavond (of andere dagen) langs, zo leren we je kennen en weet je of Tkkrlab wat voor je is.
- - Lees de <a href="https://tkkrlab.nl/wiki/Huisregels" target="_blank">Huisregels</a>.
+ - Lees de <a href="/huisregels/" target="_blank">Huisregels</a>.
  - Vul [dit](https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) formulier in. Hiermee verplicht je je tot betaling van de deelnemersbijdrage.
  - Na het controleren van je gegevens krijg je een bevestiging (mondeling, via email of op een andere manier) dat je deelnemer bent geworden van het Tkkrlab. Als dit niet binnen een week is gebeurt vraag dan een van de bestuursleden wat de status is.
  - Maak een automatische betaling aan voor de 1e van iedere maand naar onze bank rekening NL57ABNA0408886641 t.a.v. Stichting Tkkrlab.
