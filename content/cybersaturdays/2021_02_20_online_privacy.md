@@ -6,7 +6,7 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="CyberSaturday" src="/images/cyber_saturday.png" height="50%" width="50%" align="middle">
+<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
 
 ## 20 Februari vanaf 14:00 Online ##
 
@@ -28,6 +28,6 @@ Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Dona
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
-Dit evenement word mogelijk gemaakt door Creative broedplaats Twente
+Dit evenement word mede mogelijk gemaakt door Creative broedplaats Twente.
 
 <img width=50% src="/images/Logo-Creatieve-Broedplaatsen-Twente.jpg"  alt="Logo creative broedplaats twente">

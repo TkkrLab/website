@@ -9,7 +9,7 @@ menu:
     parent: "De space"
     weight: 8
 ---
-<img alt="CyberSaturday" src="/images/cyber_saturday.png" height="50%" width="50%" align="middle">
+<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
 
 
 De CyberSaturday is maandelijkse evenement georganiseerd door TkkrLab. We begingen meestal vanaf 14:00. Na het evenement is er gelegenheid om rond te blijven hangen, eventueel wordt er rond etenstijd gekeken of er gemeenschappelijk wat geregeld kan worden (op eigen kosten).
@@ -35,7 +35,7 @@ Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maande
 * Dec 18 - Hardware hacking - Jilles Groenendijk
 
 <br /><br />
-Dit evenement word mogelijk gemaakt door Creative broedplaats Twente
+Dit evenement word mede mogelijk gemaakt door Creative broedplaats Twente.
 <br /><br />
 
 <img width=50% src="/images/Logo-Creatieve-Broedplaatsen-Twente.jpg"  alt="Logo creative broedplaats twente">

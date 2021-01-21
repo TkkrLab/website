@@ -37,6 +37,6 @@ Waar : [online](https://bbb.do.speakup.nl/b/dav-fxz-fhn)
 
 
 
-Dit evenement word mogelijk gemaakt door Creative broedplaats Twente
+Dit evenement word mede mogelijk gemaakt door Creative broedplaats Twente.
 
 <img width=50% src="/images/Logo-Creatieve-Broedplaatsen-Twente.jpg"  alt="Logo creative broedplaats twente">
