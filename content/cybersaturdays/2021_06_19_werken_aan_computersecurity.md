@@ -18,7 +18,7 @@ Wanneer : Zaterdag 19 Juni 2021 14:00-15:00
 
 Waar : [online](https://bbb.do.speakup.nl/b/dav-fxz-fhn)
 
-Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) word gewaardeerd.
+Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) wordt gewaardeerd.
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
