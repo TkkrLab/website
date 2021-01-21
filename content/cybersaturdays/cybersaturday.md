@@ -21,17 +21,17 @@ Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maande
 ### Planning voor CyberSaturday 2021 :
 
 
-* Jan 16 - Presentatie programma (bekijk deze op Youtube)
+* Jan 16 - [Presentatie programma](/cybersaturdays/2021_01_16_presentatie_programma/) (bekijk deze op [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
 * Feb 20 - [Online Privacy door Dave Borghuis](/cybersaturdays/2021_02_20_online_privacy/)   
 * Mrt 20 - [Een moderne aanpak voor het parsen van programma's / A modern approach to parsing programs door Frans Faase (Taal : Engels)](/cybersaturdays/2021_03_20_parsers/)
 * Apr 17 - Jouw computerbeveiliging ( 1 / 2 ) door Jurjen Stellingwerff
-* Mei 15 - Workshop Lasercutter – Dave Borghuis
+* Mei 15 - [Workshop Lasercutter – Dave Borghuis](/cybersaturdays/2021_05_15_inkscape_en_lasercutter/)
 * Jun 19 - Werken aan computer security ( 2 / 2 ) – Jurjen Stellingwerff
 * Jul 17 - 3d print wedstrijd - Govert Combé & Yvo de Haas
-* Tijdens vakantie geen CyberSaturday, deelnemers van TkkrLab gaan dan wel naar MCH2021 (6-10 Aug) in Zeewolde en Bornhack (19-26 aug) in Denemarken.
+* Tijdens vakantie geen CyberSaturday, deelnemers van TkkrLab gaan dan wel naar [MCH2021](https://mch2021.org/) (6-10 Aug) in Zeewolde en [Bornhack](https://bornhack.dk/) (19-26 aug) in Denemarken.
 * Sept 18 - Nederlandse Cyborg - Patrick Pauman
 * Okt 16 - Mathematische kunst - Rinus Roelofs
-* Nov 20 - SMD for terrified beginners - Kliment Yanev (Taal : Engels)
+* Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
 * Dec 18 - Hardware hacking - Jilles Groenendijk
 
 <br /><br />
