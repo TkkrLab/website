@@ -12,7 +12,9 @@ disable_comments: true
 
 ### Online Privacy
 
-Online privacy is vandaag de dag belangrijker dan ooit. Met grote tech bedrijven zoals Twitter, Facebook en Google die steeds meer van je willen weten word het lastiger om je anoniem op internet te begeven. Na uitleg over term privacy gaan we praktisch aan de slag om je digitale voetafdruk te verkleinen.
+Privacy is een onderwerp dat terecht steeds meer aandacht krijgt. Vooral nu we met de corona steeds meer online doen is de online privacy ook een belangrijk onderdeel. Tijdens deze online evenement zullen we eerst uitleggen wat privacy nu inhoud. Hierna gaan we praktisch aan de slag en bekijken we hoe we jouw (online) privacy kunnen verbeteren.
+
+De lezing wordt gegeven door Dave Borghuis. Hij heeft in 2018 bij Autoriteit Persoonsgegevens een handhavingsverzoek ingediend tegen [wifi tracking in Enschede](http://daveborghuis.nl/wp/wifi-tracking/) en lezingen gegeven over o.a. sleep wet, [corona app](https://www.youtube.com/watch?v=cdU8RUdw2f4) en meer privacy gerelateerde onderwerpen.
 
 Deze lezing over online privacy bestaat uit 3 delen :
  * Introductie privacy : privacy is een mensen recht.

@@ -12,7 +12,7 @@ menu:
 <img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
 
 
-De CyberSaturday is maandelijkse evenement georganiseerd door TkkrLab. We begingen meestal vanaf 14:00. Na het evenement is er gelegenheid om rond te blijven hangen, eventueel wordt er rond etenstijd gekeken of er gemeenschappelijk wat geregeld kan worden (op eigen kosten).
+De CyberSaturday is een maandelijkse evenement georganiseerd door TkkrLab. We begingen meestal vanaf 14:00. Na het evenement is er gelegenheid om rond te blijven hangen, eventueel wordt er rond etenstijd gekeken of er gemeenschappelijk wat geregeld kan worden (op eigen kosten).
 
 
 Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maandelijk te organiseren en (buitenlandse) gasten uit te nodigen. 
