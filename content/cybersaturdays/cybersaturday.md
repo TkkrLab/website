@@ -35,7 +35,7 @@ Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maande
 * Dec 18 - Hardware hacking - Jilles Groenendijk
 
 <br /><br />
-Dit evenement word mede mogelijk gemaakt door Creative broedplaats Twente.
+Dit evenement word mede mogelijk gemaakt door [Creative broedplaats Twente](http://www.creatievebroedplaatsentwente.nl/).
 <br /><br />
 
 <img width=50% src="/images/Logo-Creatieve-Broedplaatsen-Twente.jpg"  alt="Logo creative broedplaats twente">

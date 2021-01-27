@@ -19,6 +19,9 @@ Waar : TkkrLab, Spinnerij Oosterveld, Rigtersbleek Zandvoort 10, Enschede
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
-Dit evenement word mede mogelijk gemaakt door Creative broedplaats Twente..wente
+
+[CyberSaturday](/cybersaturdays/cybersaturday/) is een maandelijkse evenement bij TkkrLab, zie onze [agenda](/agenda/) voor het volledige programma
+
+Dit evenement word mede mogelijk gemaakt door [Creative broedplaats Twente](http://www.creatievebroedplaatsentwente.nl/)..wente
 
 <img width=50% src="/images/Logo-Creatieve-Broedplaatsen-Twente.jpg"  alt="Logo creative broedplaats twente">
