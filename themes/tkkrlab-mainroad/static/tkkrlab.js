@@ -205,7 +205,7 @@ function fadeSubtitleText() {
 		$(".logo__tagline").fadeOut(function() {
 		  $(this).text("Powered by Yvo").fadeIn();
 		});
-	else
+	} else
 	{
 		subtitleSwapped = 1;
 		$(".logo__tagline").fadeOut(function() {
