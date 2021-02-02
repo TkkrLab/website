@@ -195,15 +195,19 @@ function onMessageArrived(message) {
 }*/
 
 function fadeSubtitleText() {
-	if (subtitleSwapped) {
-		subtitleSwapped = false;
+	if (subtitleSwapped == 1) {
+		subtitleSwapped = 2;
 		$(".logo__tagline").fadeOut(function() {
 		  $(this).text("Makerspace Enschede").fadeIn();
 		});
-	}
+	} else if (subtitleSwapped == 2) {
+		subtitleSwapped = 0;
+		$(".logo__tagline").fadeOut(function() {
+		  $(this).text("Powered by Yvo").fadeIn();
+		});
 	else
 	{
-		subtitleSwapped = true;
+		subtitleSwapped = 1;
 		$(".logo__tagline").fadeOut(function() {
 		  $(this).text("Hackerspace Enschede").fadeIn();
 		});
