@@ -6,7 +6,7 @@ var progress = {};
 var client = null;
 var subtitleSwapped = false;
 
-setInterval(fadeSubtitleText, 5000);
+setTimeout(fadeSubtitleText, 5000);
 
 function mqttClientCreate() {
   client = new Paho.MQTT.Client("mqtt."+window.location.host.split('.').slice(-2).join('.'), Number(443), "website-"+String(Math.floor((Math.random() * 10000) + 1)));
@@ -195,23 +195,9 @@ function onMessageArrived(message) {
 }*/
 
 function fadeSubtitleText() {
-	if (subtitleSwapped == 1) {
-		subtitleSwapped = 2;
-		$(".logo__tagline").fadeOut(function() {
-		  $(this).text("Makerspace Enschede").fadeIn();
-		});
-	} else if (subtitleSwapped == 2) {
-		subtitleSwapped = 0;
-		$(".logo__tagline").fadeOut(function() {
-		  $(this).text("Powered by Yvo").fadeIn();
-		});
-	} else
-	{
-		subtitleSwapped = 1;
-		$(".logo__tagline").fadeOut(function() {
-		  $(this).text("Hackerspace Enschede").fadeIn();
-		});
-	}
+	$(".logo__tagline").fadeOut(function() {
+		$(this).text("Hackerspace Enschede").fadeIn();
+	});
 }
 
 window.onload = function onLoad() {
