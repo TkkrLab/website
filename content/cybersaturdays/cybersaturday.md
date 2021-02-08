@@ -29,7 +29,7 @@ Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maande
 * Jun 19 - Werken aan computer security ( 2 / 2 ) – Jurjen Stellingwerff
 * Jul 17 - 3d print wedstrijd - Govert Combé & Yvo de Haas
 * Tijdens vakantie geen CyberSaturday, deelnemers van TkkrLab gaan dan wel naar [MCH2021](https://mch2021.org/) (6-10 Aug) in Zeewolde en [Bornhack](https://bornhack.dk/) (19-26 aug) in Denemarken.
-* Sept 18 - Nederlandse Cyborg - Patrick Pauman
+* Sept 18 - [Nederlandse Cyborg - Patrick Paumen](/cybersaturdays/2021_09_18_nederlandse_cyborg_patrick_paumen/)
 * Okt 16 - Mathematische kunst - Rinus Roelofs
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
 * Dec 18 - Hardware hacking - Jilles Groenendijk
