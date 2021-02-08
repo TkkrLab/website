@@ -14,8 +14,9 @@ menu:
 
 De CyberSaturday is een maandelijkse evenement georganiseerd door TkkrLab. We begingen meestal vanaf 14:00. Na het evenement is er gelegenheid om rond te blijven hangen, eventueel wordt er rond etenstijd gekeken of er gemeenschappelijk wat geregeld kan worden (op eigen kosten).
 
+Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maandelijks te organiseren en (buitenlandse) gasten uit te nodigen. 
 
-Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maandelijk te organiseren en (buitenlandse) gasten uit te nodigen. 
+De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www.youtube.com/user/TkkrLab) gepubliceerd worden.
 
 
 ### Planning voor CyberSaturday 2021 :
