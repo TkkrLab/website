@@ -3,10 +3,7 @@ title: Deelnemer worden
 nodateline: true
 noprevnext: true
 disable_comments: true
-menu:
-  main:
-    parent: "De space"
-    weight: 5
+
 ---
 
 Op bezoek komen mag natuurlijk altijd. Maar als je ons kent, regelmatig komt en echt gebruik wilt gaan maken van de voorzieningen in het Tkkrlab vragen wij je deelnemer te worden.

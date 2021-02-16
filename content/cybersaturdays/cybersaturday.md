@@ -4,10 +4,7 @@ date: 2021-01-01T00:00:00+02:00
 nodateline: true
 noprevnext: true
 disable_comments: true
-menu:
-  main:
-    parent: "De space"
-    weight: 8
+
 ---
 <img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
 

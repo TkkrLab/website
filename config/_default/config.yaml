@@ -57,9 +57,15 @@ menu:
     - name: "Blog"
       url: "/blog/"
       weight: 2
+    - name: "Cybersaturday"
+      url: "/cybersaturdays/cybersaturday"
+      weight: 3
     - name: "Projecten"
       url: "/projects"
       weight: 7
+    - name: "Deelnemer worden"
+      url: "/deelnemer-worden"
+      weight: 10
     - name: "Info"
       identifier: "info"
       url: "#"
