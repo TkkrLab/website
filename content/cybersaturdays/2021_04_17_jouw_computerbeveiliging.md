@@ -12,6 +12,19 @@ disable_comments: true
 
 ### Jouw Computerbeveiliging
 
+Aan de buitenkant van je computer kan je niet zien wat er allemaal in gebeurd.
+
+Vroeger kon je misschien nog horen dat de floppy-disk ging draaien, je modem contact maakte of je harddisk actief werd op een vreemd moment.
+
+Tegenwoordig zitten je geliefde foto's op een stille disk of ergens op het internet.
+
+Of die en bijvoorbeeld je geld, aandelen of bitcoin veilig zijn is van veel zaken afhankelijk.
+
+Hierbij geef ik een overzicht van wat er aan veiligheidsmaatregelen zijn om je hierbij te helpen.
+
+Iedere maatregel heeft zijn beperkingen maar samen maken ze toch dat je redelijk veilig bent.
+
+ 
 
 
 Wanneer : Zaterdag 17 April 2021 14:00-15:00

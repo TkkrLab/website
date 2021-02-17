@@ -22,9 +22,9 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 * Jan 16 - [Presentatie programma](/cybersaturdays/2021_01_16_presentatie_programma/) (bekijk deze op [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
 * Feb 20 - [Online Privacy door Dave Borghuis](/cybersaturdays/2021_02_20_online_privacy/)   
 * Mrt 20 - [Een moderne aanpak voor het parsen van programma's / A modern approach to parsing programs door Frans Faase (Taal : Engels)](/cybersaturdays/2021_03_20_parsers/)
-* Apr 17 - Jouw computerbeveiliging ( 1 / 2 ) door Jurjen Stellingwerff
+* Apr 17 - [Jouw computerbeveiliging](/cybersaturdays/2021_04_17_jouw_computerbeveiliging/) ( 1 / 2 ) - Jurjen Stellingwerff
 * Mei 15 - [Workshop Lasercutter – Dave Borghuis](/cybersaturdays/2021_05_15_inkscape_en_lasercutter/)
-* Jun 19 - Werken aan computer security ( 2 / 2 ) – Jurjen Stellingwerff
+* Jun 19 - [Werken aan computer security](/cybersaturdays/2021_06_19_werken_aan_computersecurity/) ( 2 / 2 ) – Jurjen Stellingwerff
 * Jul 17 - 3d print wedstrijd - Govert Combé & Yvo de Haas
 * Tijdens vakantie geen CyberSaturday, deelnemers van TkkrLab gaan dan wel naar [MCH2021](https://mch2021.org/) (6-10 Aug) in Zeewolde en [Bornhack](https://bornhack.dk/) (19-26 aug) in Denemarken.
 * Sept 18 - [Nederlandse Cyborg - Patrick Paumen](/cybersaturdays/2021_09_18_nederlandse_cyborg_patrick_paumen/)

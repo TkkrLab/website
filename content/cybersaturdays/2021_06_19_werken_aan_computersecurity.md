@@ -12,6 +12,11 @@ disable_comments: true
 
 ### Werken aan computersecurity
 
+Bedrijven verdienen zeker tijdens de corona crisis veel van hun geld op 1 of andere manier via het internet. Overheden hebben ook steeds meer te maken met internet diensten.
+
+Er gaan helaas nog vaak dingen fout met deze diensten. Daarnaast is het voor spionerende landen ook vaak redelijk eenvoudig om het internet te gebruiken voor hun oneindige kennis honger.
+
+Wat kan een bedrijf allemaal doen om een veilige internet dienst op te zetten? Er zijn bedrijven en overheden die daar redelijk goed in zijn, welke methodes gebruiken gebruiken die om te zorgen dat hun systemen veilig zijn?
 
 
 Wanneer : Zaterdag 19 Juni 2021 14:00-15:00
