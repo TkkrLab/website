@@ -24,8 +24,7 @@ Hierbij geef ik een overzicht van wat er aan veiligheidsmaatregelen zijn om je h
 
 Iedere maatregel heeft zijn beperkingen maar samen maken ze toch dat je redelijk veilig bent.
 
- 
-
+Jurjen Stellingwerff is een programmeur met interesse voor computer beveiliging. In het verleden heeft hij meegewerkt aan de web-interface van een firewall. Op het moment schrijft hij mee aan server software voor leasebedrijven.
 
 Wanneer : Zaterdag 17 April 2021 14:00-15:00
 

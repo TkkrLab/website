@@ -18,6 +18,7 @@ Er gaan helaas nog vaak dingen fout met deze diensten. Daarnaast is het voor spi
 
 Wat kan een bedrijf allemaal doen om een veilige internet dienst op te zetten? Er zijn bedrijven en overheden die daar redelijk goed in zijn, welke methodes gebruiken gebruiken die om te zorgen dat hun systemen veilig zijn?
 
+Jurjen Stellingwerff is een programmeur met interesse voor computer beveiliging. In het verleden heeft hij meegewerkt aan de web-interface van een firewall. Op het moment schrijft hij mee aan server software voor leasebedrijven.
 
 Wanneer : Zaterdag 19 Juni 2021 14:00-15:00
 
