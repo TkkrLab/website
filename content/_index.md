@@ -15,15 +15,26 @@ Wanneer je (lichte) symptomen vertoont vragen wij je thuis te blijven.
 <br /><br />- Het bestuur</div>
 
 
-🇬🇧 Can't read dutch? No problem read the (google) [translation to English](https://translate.google.com/translate?sl=nl&tl=en&u=tkkrlab.nl).  🇬🇧
+🇬🇧  Can't read dutch? The main pages are translated to English, select language flag on top right of page.  🇬🇧
 
 # Wat is het TkkrLab?
 
 <img style="margin: 10px;" src="/images/tkkrLab-ruimte-nov-2020.JPG">
 
 <br />
+Hackerspace TkkrLab is een community die het leuk en interessant vind om met technische onderwerpen bezig te zijn. Iedere deelnemer heeft zijn eigen interessegebied, zo is de een vooral met software bezig (bv embedded, domotica, websites en meer), bouwt de ander een 3d printer of cnc frees en maakt iemand zijn eigen elektronische pcb ontwerp voor een robot. De gemeenschappelijke factor is dat het technisch en/of creatief is in de brede zin van het woord. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creatieve [projecten](/projects/).
 
-TkkrLab (Tukkerlab) is een ruimte waar deelnemers en bezoekers onze beschikbare apparatuur zoals een lasercutter, 3d printer en Arduino kunnen (leren) gebruiken. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creative [projecten](/projects/).
+<br>
+
+Om deze projecten te faciliteren hebben we diverse [tools](https://handleidingen.tkkrlab.space/gereedschappen/) zoals 3d printers, lasercutter, electronica werkbank en eigen werkplaats die door de deelnemers zijn te gebruiken. Bezoekers van TkkrLab wordt een bijdrage gevraagd. Daarnaast is het ook gewoon gezellig om het met gelijkgestemden te hebben over bijv. de laatste ontwikkeling op AI, security, privacy, processoren, programmeertalen, vim of emacs, beste linux distributie en meer. Bij TkkrLab leer je iedere dag wel iets nieuws.
+
+<br>
+
+We organiseren regelmatig evenementen zoals lezingen en workshops die voor onze deelnemers en doelgroep interessant zijn. Deze zijn voor iedereen gratis te volgen, kijk in onze agenda voor de geplande [CyberSaturdays](/cybersaturdays/cybersaturday/) en andere evenementen.
+
+<br>
+
+Hebben we jouw interesse gewekt? Kom dan geheel vrijblijvend eens op bezoek en maak kennis met onze community, deelnemers en de mogelijkheden van hackerspace TkkrLab.
 <br />
 <br />
 Rechts bovenin vindt je de space status. Als we geopend zijn dan ben je van harte welkom!

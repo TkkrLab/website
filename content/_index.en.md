@@ -20,7 +20,19 @@ When you have symptoms, no matter how light they are: please stay at home!
 
 <br />
 
-TkkrLab (Tukkerlab) is a space which provides members and visitors access to facilities like a lasercutter, 3D printer and an Arduino course. Due to the extensive sharing of knowledge and experience within our community there will almost always be people available to help you on your way with your creative [projects](/projects/).
+Hackerspace TkkrLab is a community that finds it fun and interesting to work on technical topics. Each participant has his own area of ​​interest, one is mainly involved with software (eg embedded, home automation, websites and more), the other builds a 3d printer or CNC mill and someone makes his own electronic pcb design for a robot. The common factor is that it is technical and / or creative in the broadest sense of the word. By exchanging knowledge and experience in our community, there is always someone present who can help you on your way with your creative [projects](/projects/).
+
+<br>
+
+To facilitate these projects, we have various [tools](https://handleidingen.tkkrlab.space/gereedschappen/) such as 3d printers, laser cutter, electronics workbench and our own workshop that can be used by the participants. Visitors to TkkrLab are asked for a contribution. In addition, it is also just nice to talk with like-minded people about, for example, the latest development on AI, security, privacy, processors, programming languages, vim or emacs, best linux distribution and more. At TkkrLab you learn something new every day.
+
+<br>
+
+We regularly organize events such as lectures and workshops that are of interest to our participants and target group. These are free for everyone to follow, check our agenda for the planned [CyberSaturdays](/cybersaturdays/cybersaturday/) and other events.
+
+<br>
+
+Have we piqued your interest? Then come and visit us without any obligation and get to know our community, participants and the possibilities of hackerspace TkkrLab.
 <br />
 <br />
 In the right-top corner of our site you will find the space state. When we're open you're more than welome to come visit! 
