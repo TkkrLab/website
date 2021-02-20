@@ -30,7 +30,7 @@ De lezing is voor iedereen gratis toegankelijk. Men hoeft zich niet vooraf te me
 
 Wanneer : Zaterdag 20 Feb 2021 14:00-15:00 
 
-Waar : [Big Blue Button](https://bbb.do.speakup.nl/b/dav-fxz-fhn) (stream start 13:45 zodat je geluid/camera kunt testen) / [youtube](https://www.youtube.com/watch?v=0iTDwJ5RtHs)
+Waar : [Big Blue Button](https://bbb.do.speakup.nl/b/dav-fxz-fhn) (max 25 personen) / [youtube](https://www.youtube.com/watch?v=0iTDwJ5RtHs)
 
 
 Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) wordt gewaardeerd.
