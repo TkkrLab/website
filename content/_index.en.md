@@ -20,7 +20,7 @@ When you have symptoms, no matter how light they are: please stay at home!
 
 <br />
 
-Hackerspace TkkrLab is a community that finds it fun and interesting to work on technical topics. Each participant has his own area of ​​interest, one is mainly involved with software (eg embedded, home automation, websites and more), the other builds a 3d printer or CNC mill and someone makes his own electronic pcb design for a robot. The common factor is that it is technical and / or creative in the broadest sense of the word. By exchanging knowledge and experience in our community, there is always someone present who can help you on your way with your creative [projects](/projects/).
+Hackerspace TkkrLab is a community that finds it fun and interesting to work on technical topics. Each participant has his own area of ​​interest. One person may be mainly involved with software (eg embedded, home automation, websites and more), another builds 3d printers or a CNC mill while someone else designs his own electronic circuit boards to control a robot. The common factor here is that everything is technical and / or creative in the broadest sense of the word. By exchanging knowledge and experience in our community, there is always someone present who can help you with your [projects](/projects/).
 
 <br>
 
