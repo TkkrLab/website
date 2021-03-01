@@ -13,9 +13,11 @@ We zijn gesloten voor bezoekers. Ook deelnemers vragen wij zo veel mogelijk thui
 mocht je toch naar de space komen dan telt als harde limiet een maximum van 4 aanwezigen.
 Wanneer je (lichte) symptomen vertoont vragen wij je thuis te blijven.
 <br /><br />- Het bestuur</div>
-
-
-🇬🇧  Can't read dutch? The main pages are translated to English, select language flag on top right of page.  🇬🇧
+<br />
+<br />
+🇬🇧🇩🇪 Can't read dutch? The main pages are translated to English and German, select language flag on top right of page.
+<br />
+<br />
 
 # Wat is het TkkrLab?
 

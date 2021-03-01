@@ -36,7 +36,6 @@ Have we piqued your interest? Then come and visit us without any obligation and 
 <br />
 <br />
 In the right-top corner of our site you will find the space state. When we're open you're more than welome to come visit! 
-Is gezelligheid meer jouw ding, dan is **iedere dinsdagavond** de wekelijkse bijeenkomst. De overige dagen is het rustiger en kan je aan projecten werken.
 <br />
 <br />
 Look in our [agenda](/agenda/) for more information about our workshops and lectures. We also have a [blog](/blog/) for the latest news. 
