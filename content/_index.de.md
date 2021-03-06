@@ -5,12 +5,6 @@ nodateline: true
 noprevnext: true
 disable_comments: true
 ---
-<div style="padding: 10px; background-color: #FFFF00; color: #000000; border: 3px solid #000000;">
-<h1>Corona</h1>
-<br/>
-Für Besucher ist der Raum geschlossen. Obwohl der Raum noch für Mitglieder geöffnet ist, bitten wir Sie, so viel wie möglich zu Hause zu bleiben. Sollten Sie trotzdem in den Raum kommen, halten Sie sich bitte an ein festes Limit von höchstens 4 anwesenden Personen. Wenn Sie Symptome haben, egal wie leicht sie sind: Bitte bleiben Sie zu Hause!
-<br /><br />- The board</div>
-
 
 # Was ist das TkkrLab?
 

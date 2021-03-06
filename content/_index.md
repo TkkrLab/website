@@ -6,15 +6,6 @@ noprevnext: true
 disable_comments: true
 ---
 
-<div style="padding: 10px; background-color: #FFFF00; color: #000000; border: 3px solid #000000;">
-<h1>Corona maatregelen</h1>
-<br/>
-We zijn gesloten voor bezoekers. Ook deelnemers vragen wij zo veel mogelijk thuis te blijven,
-mocht je toch naar de space komen dan telt als harde limiet een maximum van 4 aanwezigen.
-Wanneer je (lichte) symptomen vertoont vragen wij je thuis te blijven.
-<br /><br />- Het bestuur</div>
-<br />
-<br />
 🇬🇧🇩🇪 Can't read dutch? The main pages are translated to English and German, select language flag on top right of page.
 <br />
 <br />
