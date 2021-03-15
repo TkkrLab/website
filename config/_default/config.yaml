@@ -1,28 +1,19 @@
 baseurl: /
 title: TkkrLab
-theme: tkkrlab-mainroad
-logo: /site_header.png
-
+theme: airspace-hugo
 enableRobotsTXT: false
 canonifyURLs: true
-googleAnalytics: UA-610785-7
-
-languages:
-  nl:
-    languageName: Nederlands
-    weight: 1
-  en:
-    languageName: Engels
-    weight: 2
-  de:
-    languageName: German
-    weight: 3
-
 defaultContentLanguage: nl
-    
-markup:
-  defaultMarkdownHandler: blackFriday
+paginate: '6'
+summaryLength: '15'
+disqusShortname: ''
+disableLanguages: []
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  
 params:
   subtitle: "Makerspace Enschede"
   description: "TkkrLab hackerspace"
@@ -35,7 +26,15 @@ params:
   readmore: true
   post_navigation: true
   postSections: ["blog"]
-  copyright: "Copyright 2021 - Stichting TkkrLab"
+  copyright: "Copyright &copy; Stichting TkkrLab"
+  logo: images/tkkrlab.svg
+  logo_width: 100px
+  mobile: 0124857985320
+  email: info@tkkrlab.nl
+  location: 'Rigtersbleek-zandvoort 10, 7521BE Enschede'
+  contact_form_action: '#'
+  google_analitycs_id: 'UA-610785-7'
+  multi_author: false
   widgets:
     search: false
     recent_articles: true
@@ -51,6 +50,57 @@ params:
     social_github: "tkkrlab"
     social_youtube: "TkkrLab"
     social_linkedin: "company/tkkrlab/"
+
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+        attributes: media='screen'
+      - link: plugins/Ionicons/css/ionicons.min.css
+        attributes: ''
+      - link: plugins/magnific-popup/magnific-popup.min.css
+        attributes: ''
+      - link: plugins/slick/slick.css
+        attributes: ''
+    js:
+      - link: plugins/jQuery/jquery.min.js
+        attributes: ''
+      - link: plugins/bootstrap/bootstrap.min.js
+        attributes: ''
+      - link: plugins/slick/slick.min.js
+        attributes: ''
+      - link: plugins/magnific-popup/magnific-popup.min.js
+        attributes: ''
+      - link: plugins/shuffle/shuffle.min.js
+        attributes: ''
+  widgets:
+    sidebar:
+      - recent_posts
+      - taxonomy_category
+      - taxonomy_tags
+  preloader:
+    enable: false
+    preloader: ''
+  nav_button:
+    enable: true
+    label: Get A Quote
+    link: contact
+  gmap:
+    enable: false
+  cookies:
+    enable: false
+  social:
+    - icon: ion-social-googleplus-outline
+      link: '#'
+    - icon: ion-social-linkedin-outline
+      link: '#'
+    - icon: ion-social-pinterest-outline
+      link: '#'
+    - icon: ion-social-dribbble-outline
+      link: '#'
+    - icon: ion-social-twitter-outline
+      link: '#'
+    - icon: ion-social-facebook-outline
+      link: '#'
 
 menu:
   main:
@@ -85,3 +135,17 @@ menu:
       parent: "info"
       url: "https://arduino.tkkrlab.space"
       weight: 12
+
+Languages:
+  nl:
+    languageName: Nederlands
+    languageCode: nl-nl
+    weight: 1
+  en:
+    languageName: English
+    languageCode: en-us
+    weight: 2
+  de:
+    languageName: Deutsch
+    languageCode: de-de
+    weight: 3
