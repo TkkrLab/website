@@ -6,24 +6,24 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
+<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="150px" height="150px" style="float: right;">
+
 
 ## 17 April vanaf 14:00 Online ##
 
 ### Jouw Computerbeveiliging
 
-Aan de buitenkant van je computer kan je niet zien wat er allemaal in gebeurd.
+Aan de buitenkant van je computer kan je niet zien wat er allemaal in gebeurd. Vroeger kon je misschien nog horen dat de floppy-disk ging draaien, je modem contact maakte of je harddisk actief werd op een vreemd moment.
 
-Vroeger kon je misschien nog horen dat de floppy-disk ging draaien, je modem contact maakte of je harddisk actief werd op een vreemd moment.
+<img alt="Privacy Lezing/workshop" src="/images/computer-security-pixabay.jpg" width="300px" height="300px" style="margin: 0px 30%;">
 
-Tegenwoordig zitten je geliefde foto's op een stille disk of ergens op het internet.
+Tegenwoordig zitten je geliefde foto's op een stille disk of ergens op het internet. Of die en bijvoorbeeld je geld, aandelen of bitcoin veilig zijn is van veel zaken afhankelijk.
 
-Of die en bijvoorbeeld je geld, aandelen of bitcoin veilig zijn is van veel zaken afhankelijk.
+Hierbij geef ik een overzicht van wat er aan veiligheidsmaatregelen zijn om je hierbij te helpen. Iedere maatregel heeft zijn beperkingen maar samen maken ze toch dat je redelijk veilig bent.
 
-Hierbij geef ik een overzicht van wat er aan veiligheidsmaatregelen zijn om je hierbij te helpen.
+Deze lezing is deel een in reeks, voor deel twee zie [Werken aan computer security](/cybersaturdays/2021_06_19_werken_aan_computersecurity/)
 
-Iedere maatregel heeft zijn beperkingen maar samen maken ze toch dat je redelijk veilig bent.
-
+#### Over Jurjen Stellingwerff 
 Jurjen Stellingwerff is een programmeur met interesse voor computer beveiliging. In het verleden heeft hij meegewerkt aan de web-interface van een firewall. Op het moment schrijft hij mee aan server software voor leasebedrijven.
 
 Wanneer : Zaterdag 17 April 2021 14:00-15:00

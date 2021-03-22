@@ -44,12 +44,21 @@ Lokaal 2.08 (2e verdieping)
 Als je ons wil bezoek kijk dan ook op de [routebeschrijving](/routebeschrijving/). Sla ons telefoon nummer op je telefoon, dan kun je ons bellen als je de ingang niet kunt vinden of voor een dichte deur staat.
 
 # Sociale Media
-Twitter: [@tkkrlab](https://twitter.com/tkkrlab)
+[Twitter](https://twitter.com/tkkrlab)
 
-[Telegram](https://t.me/joinchat/EHlAHUhm5T-FYewjP0-aOg)
+[YouTube](https://youtube.com/tkkrlab/) (Subscribe voor automatische updates)
 
-[WhatsApp](https://chat.whatsapp.com/JlYuC87P2NKBWYdVljoiqz)
+[Signal](https://signal.group/#CjQKICdkxuH3fu30cXLdgkZxcwgeZ0Qdx8GDsBmF6y8Hr7O_EhDqDIXKqTN9d57vxfOgfRV6) (Chat met de deelnemers)
 
+[Facebook](https://facebook.com/tkkrlab)
+
+[Telegram](https://t.me/joinchat/EHlAHUhm5T-FYewjP0-aOg) (gekoppeld met IRC)
+
+[LinkedIn](https://www.linkedin.com/company/tkkrlab)
+
+[Instagram](https://www.instagram.com/tkkrlab/)
+
+[Nieuwsbrief](http://eepurl.com/gLxrLD) (Ongeveer maandelijkse update over TkkrLab activiteiten en nieuws)
 
 ## IRC
 IRC is bij voorkeur een chat programma die door hackers gebruikt wordt.

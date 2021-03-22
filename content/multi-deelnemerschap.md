@@ -5,7 +5,7 @@ noprevnext: true
 disable_comments: true
 menu:
   main:
-    parent: "De space"
+    parent: "Deelnemer worden"
     weight: 6
 ---
 

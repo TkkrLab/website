@@ -6,7 +6,8 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
+<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="150px" height="150px" style="float: right;">
+
 
 ## 19 Juni vanaf 14:00 Online ##
 
@@ -14,10 +15,17 @@ disable_comments: true
 
 Bedrijven verdienen zeker tijdens de corona crisis veel van hun geld op 1 of andere manier via het internet. Overheden hebben ook steeds meer te maken met internet diensten.
 
+<img alt="Privacy Lezing/workshop" src="/images/computer-security-pixabay.jpg" width="300px" height="300px" style="margin: 0px 30%;">
+
+
 Er gaan helaas nog vaak dingen fout met deze diensten. Daarnaast is het voor spionerende landen ook vaak redelijk eenvoudig om het internet te gebruiken voor hun oneindige kennis honger.
 
 Wat kan een bedrijf allemaal doen om een veilige internet dienst op te zetten? Er zijn bedrijven en overheden die daar redelijk goed in zijn, welke methodes gebruiken gebruiken die om te zorgen dat hun systemen veilig zijn?
 
+Deze lezing is deel twee in reeks, voor deel een zie [Jouw computerbeveiliging](/cybersaturdays/2021_04_17_jouw_computerbeveiliging/)
+
+
+#### Over Jurjen Stellingwerff 
 Jurjen Stellingwerff is een programmeur met interesse voor computer beveiliging. In het verleden heeft hij meegewerkt aan de web-interface van een firewall. Op het moment schrijft hij mee aan server software voor leasebedrijven.
 
 Wanneer : Zaterdag 19 Juni 2021 14:00-15:00
