@@ -23,7 +23,7 @@ Volledig programma voor de CyberSaturday staat op [onze site](/cybersaturdays/cy
 
 Wanneer : Zaterdag 16 Januari 2021 14:00-14:30
 
-Waar : [online](https://bbb.do.speakup.nl/b/dav-fxz-fhn)
+Waar : Terug kijken op [YouTube](https://youtu.be/nieysTn9afA?t=294)
 
 Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) wordt gewaardeerd.
 
