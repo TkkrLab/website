@@ -33,7 +33,7 @@ The Tkkrlab foundation incurs costs for, among other things, the rent of the spa
 | Normal                                   | € 30,-                         |
 | Student                                  | € 15,-                         |
 | Junior (<18 jaar)                        | € 15,-                         |
-| Company                                  | € 49,95                        |
+
 
 
 If you want to become a participant but don't have the means, please contact the board, we may be able to arrange something.
@@ -49,13 +49,6 @@ If you are invited by someone or you just want to come by and have a look, you a
 ## Normal participant
 A normal participant pays € 30 per month.
 
-## Company
-
-As a company you can also become a member of the TkkrLab. The company will then receive an iButton (not personal) with which you can enter Tkkrlab when the space is open. You can then use all our equipment (Laser, 3D printer, Arduino, etc.). Your company will also be included on our sponsors page, which will make your name known to an interesting group of active technicians.
-
-The monthly contribution for companies is € 49.95 per month.
-
-Tkkrlab is not subject to VAT, so no VAT can be reclaimed on the participant fee.
 
 ## Student
 For all students (on presentation of a student card or other proof that you are at school / are a student) the participant contribution is € 15 per month.

@@ -30,7 +30,7 @@ Der Tkkrlab-Stiftung entstehen unter anderem Kosten für die Miete des Raumes un
 | Normal                                   | € 30,-                         |
 | Schüler                                  | € 15,-                         |
 | Junior (<18 jaar)                        | € 15,-                         |
-| Unternehmen                                  | € 49,95                        |
+
 
 
 
@@ -49,13 +49,6 @@ Wenn Sie von jemandem eingeladen werden oder einfach nur vorbeikommen und einen 
 ## Normaler Teilnehmer
 Ein normaler Teilnehmer zahlt 30 € pro Monat.
 
-## Unternehmen
-
-Als Unternehmen können Sie auch Mitglied des TkkrLab werden. Das Unternehmen erhält dann einen iButton (nicht persönlich), mit dem Sie Tkkrlab betreten können, wenn der Raum geöffnet ist. Sie können dann alle unsere Geräte (Laser, 3D-Drucker, Arduino usw.) verwenden. Ihr Unternehmen wird auch auf unserer Sponsorenseite aufgeführt, die Ihren Namen einer interessanten Gruppe aktiver Techniker bekannt macht.
-
-Der monatliche Beitrag für Unternehmen beträgt 49,95 € pro Monat.
-
-Tkkrlab unterliegt nicht der Mehrwertsteuer, daher kann keine Mehrwertsteuer auf die Teilnehmergebühr zurückgefordert werden.
 
 ## Schüler
 Für alle Schüler (gegen Vorlage eines Studentenausweises oder eines anderen Nachweises, dass Sie in der Schule sind / Schüler sind) beträgt der Teilnehmerbeitrag 15 € pro Monat.

@@ -30,7 +30,7 @@ De stichting Tkkrlab maakt kosten voor onder andere de huur van de ruimte en de 
 | Normaal                                  | € 30,-                         |
 | Student                                  | € 15,-                         |
 | Junior (<18 jaar)                        | € 15,-                         |
-| Bedrijf                                  | € 49,95                        |
+
 
 Mocht je deelnemer willen worden maar hiervoor niet de middelen hebben neem dan contact op met bestuur, wellicht kunnen we toch wat regelen.
 
@@ -45,13 +45,6 @@ Als je door iemand wordt uitgenodigd of je wilt gewoon eens langs komen om te ko
 ## Normale deelnemer
 Een normale deelnemer betaald € 30,- per maand.
 
-## Bedrijf
-
-Als bedrijf kan je ook deelnemer worden van het TkkrLab. Het bedrijf krijgt dan een iButton (niet persoonsgebonden) waarmee je bij Tkkrlab naar binnen kunt als de space open is. Je kunt dan gebruik maken van al onze apparatuur (Laser, 3D printer, Arduino etc.). Tevens wordt je bedrijf opgenomen op onze sponsoren pagina, wat je naams bekend maakt bij een interessante groep van actieve techneuten.
-
-De maandelijkse bijdrage voor bedrijven is € 49,95 per maand.
-
-Tkkrlab is niet BTW plichtig, er kan dus geen BTW terug gevraagd worden over het deelnemersgeld.
 
 ## Student
 Voor alle studenten (op vertoon van studenten kaart of ander bewijs dat je op school zit / student bent) is de deelnemersbijdrage € 15,- per maand.
