@@ -11,7 +11,7 @@ disable_comments: true
 
 ## 18 September vanaf 14:00  ##
 
-<img alt="Cyborg Patrick Paumen" src="patrick_paumen_cyborg.jpg" width="250px" style="margin: 0px 30%;">
+<img alt="Cyborg Patrick Paumen" src="/cybersaturdays/patrick_paumen_cyborg.jpg" width="250px" style="margin: 0px 30%;">
 
 ### Nederlandse Cyborg : Patrick Pauman
 
