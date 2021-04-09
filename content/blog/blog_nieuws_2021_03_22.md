@@ -36,3 +36,6 @@ We zijn natuurlijk ook op andere sociale media te vinden. Vooral op  Twitter, ma
 [Telegram](https://t.me/joinchat/EHlAHUhm5T-FYewjP0-aOg) (gekoppeld met IRC)
 
 [Nieuwsbrief](http://eepurl.com/gLxrLD) (Ongeveer maandelijkse update over TkkrLab activiteiten en nieuws)
+
+#### Kalender
+Je kunt de TkkrLab activiteiten ook rechtstreeks in je kalender (laten) zetten. Hiervoor kun je de [ical](http://www.google.com/calendar/ical/ij2r5jaqg6l2bdt5uv6ltngfq0%40group.calendar.google.com/public/basic.ics) voor gebruiken of als je google agenda gebruikt [abboneren](http://www.google.com/calendar/embed?src=ij2r5jaqg6l2bdt5uv6ltngfq0%40group.calendar.google.com&ctz=Europe/Amsterdam) op onze agenda. (selecteer '+' rechtsonderaan)
