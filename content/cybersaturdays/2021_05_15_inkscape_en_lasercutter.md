@@ -6,15 +6,18 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
+<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="150px" height="150px" style="float: right;">
 
 ## 15 Mei vanaf 14:00 Online ##
 
+<img alt="Lasercutter action" src="/cybersaturdays/lasercutter_action.png" width="350px" style="margin: 0px 30%;">
+
+
 ### Inkscape en lasercutter
 
-In deze workshop leer je met een vector programma zoals [Inkscape](https://inkscape.org/) (gratis vector programma) of Illustrator ontwerpen maken die je op een lasercutter kunt laten graveren of uitsnijden. Je leert hoe je een ontwerp geschikt maakt voor de lasercutter en deze kunt laten snijden, markeren en graveren. We behandelen vooral de functies die voor het laser cutten van belang zijn, ander functies zullen indien nodig kort worden toegelicht.
+In deze workshop leer je met een vector programma [Inkscape](https://inkscape.org/) (gratis vector programma) ontwerpen maken die je op een lasercutter kunt laten graveren of uitsnijden. Je leert hoe je een ontwerp geschikt maakt voor de lasercutter en deze kunt laten snijden, markeren en graveren. We behandelen vooral de functies die voor de lasercutter van belang zijn, ander functies zullen indien nodig kort worden toegelicht.
 
-Een gemaakt ontwerp kun je naar een lasercutter sturen met [LightBurn](https://lightburnsoftware.com/) en zo de mooiste dingen maken. Zo kun relatief eenvoudig je eigen creaties maken in triplex of acrylaat.
+Er is plek voor maximaal 15 mensen, schrijf je [hier](https://forms.gle/rUcLxRzuHfrkopsY8) in.
 
 Verdere onderwerpen die zal worden behandeld zijn:
 
@@ -23,7 +26,7 @@ Verdere onderwerpen die zal worden behandeld zijn:
  * Omzetten van objecten naar curves
  * Werken met lettertypen
  * Graveren, snijden en markeren
- * Werken met TkkrLab lasercutter
+ * Werken met TkkrLab lasercutter (met [LightBurn](https://lightburnsoftware.com/))
  * Omgaan met verschillende materialen zoals triplex hout en acrylaat.
 
 Na het volgen van deze workshop ben je zelfstandig in staat om zelf een ontwerp geschikt te maken voor een lasercutter en deze naar de lasercutter te sturen.
