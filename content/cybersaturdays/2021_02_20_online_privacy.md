@@ -14,9 +14,9 @@ disable_comments: true
 
 Privacy is een onderwerp dat terecht steeds meer aandacht krijgt. Vooral nu we met de corona steeds meer online doen is de online privacy ook een belangrijk onderdeel. Tijdens deze online evenement zullen we eerst uitleggen wat privacy nu inhoud. Hierna gaan we praktisch aan de slag en bekijken we hoe we jouw (online) privacy kunnen verbeteren.
 
-<img alt="Privacy Lezing/workshop" src="/images/tkkrlab_workshop_privacy.jpg" width="300px" height="300px" style="margin: 0px 30%;">
 
-
+{{< youtube GtZsNDCasZI >}}
+<br>
 
 De lezing wordt gegeven door Dave Borghuis. Hij heeft in 2018 bij Autoriteit Persoonsgegevens een handhavingsverzoek ingediend tegen [wifi tracking in Enschede](http://daveborghuis.nl/wp/wifi-tracking/) en lezingen gegeven over o.a. sleep wet, [corona app](https://www.youtube.com/watch?v=cdU8RUdw2f4) en meer privacy gerelateerde onderwerpen.
 

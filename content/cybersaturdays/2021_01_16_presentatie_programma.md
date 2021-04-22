@@ -13,6 +13,9 @@ disable_comments: true
 
 ### Presentatie Programma
 
+{{< youtube nieysTn9afA >}}
+<br>
+
 TkkrLab heeft subsidie van Regio Deal Twente toegekend gekregen voor creatieve broedplaatsen, met als doel talent in Twente te behouden. 
 
 Via deze livestream gaan wij ons voorstellen, uitleg geven over onze plannen voor de toekomst en het programma voor het komende jaar presenteren. Om alvast een tipje van de sluier op te lichten: wij gaan onze cursusdagen (CyberSaturdays) uitbreiden naar een maandelijkse activiteit, corona proof natuurlijk.

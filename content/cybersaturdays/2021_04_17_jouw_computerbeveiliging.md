@@ -15,7 +15,8 @@ disable_comments: true
 
 Aan de buitenkant van je computer kan je niet zien wat er allemaal in gebeurd. Vroeger kon je misschien nog horen dat de floppy-disk ging draaien, je modem contact maakte of je harddisk actief werd op een vreemd moment.
 
-<img alt="Privacy Lezing/workshop" src="/images/computer-security-pixabay.jpg" width="300px" height="300px" style="margin: 0px 30%;">
+{{< youtube C7hFUPO3q08 >}}
+<br>
 
 Tegenwoordig zitten je geliefde foto's op een stille disk of ergens op het internet. Of die en bijvoorbeeld je geld, aandelen of bitcoin veilig zijn is van veel zaken afhankelijk.
 
@@ -27,8 +28,6 @@ Deze lezing is deel een in reeks, voor deel twee zie [Werken aan computer securi
 Jurjen Stellingwerff is een programmeur met interesse voor computer beveiliging. In het verleden heeft hij meegewerkt aan de web-interface van een firewall. Op het moment schrijft hij mee aan server software voor leasebedrijven.
 
 Wanneer : Zaterdag 17 April 2021 14:00-15:00
-
-Waar : [online](https://bbb.do.speakup.nl/b/dav-fxz-fhn)
 
 Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) wordt gewaardeerd.
 
