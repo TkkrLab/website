@@ -23,7 +23,7 @@ The events will also be recorded and published on our [youtube channel] (https:/
 * Apr 17 - [Your Computersecurity](/cybersaturdays/2021_04_17_jouw_computerbeveiliging/) ( 1 / 2 ) - Jurjen Stellingwerff
 * Mei 15 - [Workshop Lasercutter – Dave Borghuis](/cybersaturdays/2021_05_15_inkscape_en_lasercutter/)
 * Jun 19 - [Working on computer security](/cybersaturdays/2021_06_19_werken_aan_computersecurity/) ( 2 / 2 ) – Jurjen Stellingwerff
-* Jul 17 - 3d print contest - Govert Combé & Yvo de Haas
+* Jul 17 - [3d print wedstrijd](/cybersaturdays/2021_07_17_3d_print_wedstrijd/) - Govert Combé & Yvo de Haas
 * No CyberSaturday during holidays, participants of TkkrLab will then go to [Bornhack](https://bornhack.dk/) (19-26 aug) in Denemarken. [MCH2021](https://mch2021.org/) is cancelled.
 * Sept 18 - [Dutch Cyborg - Patrick Paumen](/cybersaturdays/2021_09_18_nederlandse_cyborg_patrick_paumen/)
 * Okt 16 - Mathematical art - Rinus Roelofs
