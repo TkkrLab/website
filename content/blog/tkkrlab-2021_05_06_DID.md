@@ -18,34 +18,3 @@ TkkrLab is als een van de innovatie partners en aanwezig op dit event. Zaterdag 
 TkkrLab demonstreert diverse projecten van onze deelnemers zoals Mega Nes joystick, Oasis 3DP poeder printer, Animatronic Tentacle arm, CoronaTeller, LEDPet, en meer. 
 
 Meer informatie over het evenement op [hun site](https://nl.dutchinnovationdays.com/)
-
-
-
-
-
-
-Online én fysiek
-
-Dutch Innovation Days vindt (deels) plaats in een geweldige online omgeving waar je wordt ondergedompeld in verrassende kennis. Als het RIVM groen licht geeft, dan vindt er een fysieke meet en greet plaats om te connecten met mede DID’ers! Je wordt tijdens de connect dagen meegenomen in een wereld van innovatie, inspiratie en baanbrekende ideeën! 
-
-​
-
-Zaterdag 29 mei is de dag dat de meeste activiteiten fysiek zijn ingericht, met Enschede als host om technologie, creativiteit en innovaties te ontdekken. Sommigen activiteiten zullen online plaatsvinden, zodat de richtlijnen van het RIVM gevolgd worden. Wij staan te popelen om jullie een onvergetelijke dag te bezorgen vol met inspiratie en interactieve tentoonstellingen!
-
-
-
-
-
-
-
-
-
-
-
-
-
-TETEM Tekst
-
-Dutch Innovation Days is een nieuw innovatiefestival in Enschede bestaande uit een online – en indien de coronamaatregelen het toelaten ook een offline – programma waarin innovatie wordt gevierd. Hoe komen innovaties tot stand? Wie zijn de mensen achter deze innovaties en hoe bereiken innovaties deelnemers?
-
-Het programma is ingedeeld in thema's: Food, Health, Design & Fashion op donderdag 27/5 en AI, VR, Drones & Robotics op vrijdag 28/5. Zaterdag 29/5 staat in het teken van het ontdekken van technologie, creativiteit en innovaties. Tetem is een van de partners met een online programma. Deelnemers kunnen een tijdslot boeken voor onze escape room ‘I want to delete it all, but not now’ van mediakunstenaar Roos Groothuizen waarin je op een speelse manier wordt geconfronteerd met jouw persoonlijke internet dilemma’s. Daarnaast kun je de Online AR Sandbox: Dig your own hole! van 100% FAT uitproberen. Dit is een interactieve zandbak waarmee je met behulp van Augmented Reality en een op afstand bestuurbare graafmachine de mooiste landschappen kunt creëren! 
