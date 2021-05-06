@@ -1,5 +1,5 @@
 ---
-title: "Dutch Inovation Days"
+title: "Dutch Innovation Days"
 date: 2021-05-05
 thumbnail: "/images/DID_2021_banner_algemeen.png"
 ---
@@ -15,6 +15,6 @@ Deze ene vraag staat centraal tijdens de Dutch Innovation Days, oftewel â€˜DIDâ€
 
 TkkrLab is als een van de innovatie partners en aanwezig op dit event. Zaterdag 29 mei kun Dutch Inovation Days bezoeken in WARP technopolis gebouw (aan stationsplein Enschede) en kennis maken interactieve installaties, DIY-technologie, instagramable exposities, GOGBOT Preview en nog veel meer. 
 
-TkkrLab demonstreert diverse projecten van onze deelnemers zoals Mega Nes joystick, [Oasis 3DP poeder printer](https://ytec3d.com/oasis-3dp/), [Animatronic Tentacle arm](https://ytec3d.com/animatronic-tentacle/), [CoronaTeller](http://daveborghuis.nl/wp/coronateller-coronacounter_2020_08_17/), LEDPet, en meer. 
+TkkrLab demonstreert diverse projecten van onze deelnemers zoals Giant Nes joystick, [Oasis 3DP poeder printer](https://ytec3d.com/oasis-3dp/), [Animatronic Tentacle arm](https://ytec3d.com/animatronic-tentacle/), [CoronaTeller](http://daveborghuis.nl/wp/coronateller-coronacounter_2020_08_17/), LEDPet, en meer. 
 
 Meer informatie over het evenement op de [DID site](https://nl.dutchinnovationdays.com/)
