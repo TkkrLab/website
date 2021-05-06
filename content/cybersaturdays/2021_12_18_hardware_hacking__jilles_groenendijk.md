@@ -6,7 +6,7 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
+<img alt="Jilles Groenendijk" src="/images/julles_web.png" width="300px" height="300px" style="margin: 0px 30%;">
 
 ## 18 December van 14:00 tot 17:30 ##
 
