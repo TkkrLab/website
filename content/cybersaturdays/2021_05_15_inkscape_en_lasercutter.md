@@ -35,7 +35,7 @@ Deze workshop wordt gegeven door [Dave Borghuis](https://daveborghuis.nl)
 
 Wanneer : Zaterdag 15 Mei 2021 14:00-15:00
 
-Waar : [online](https://bbb.do.speakup.nl/b/dav-fxz-fhn)
+Waar : [online (big blue button)](https://bbb.do.speakup.nl/b/dav-fxz-fhn) of [youtube](https://youtu.be/r1c4CKnjgDM)
 
 Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) wordt gewaardeerd.
 
