@@ -33,13 +33,12 @@ Kvk : 51974967
 RSIN : 850247913
 
 # Adres
-Bedrijfsverzamelgebouw Spinnerij Oosterveld
-Rigtersbleek Zandvoort 10
-7521 BE Enschede
+Marssteden 98, 
+7547 TD Enschede
 
-Lokaal 2.08 (2e verdieping)
+[Google maps](https://www.google.com/maps/place/Marssteden+98,+7547+TD+Enschede/) -   [Openstreetmap](https://www.openstreetmap.org/search?query=marssteden%2098%2Censchede#map=19/52.21634/6.82055)
 
-Als je ons wil bezoek kijk dan ook op de [routebeschrijving](/routebeschrijving/). Sla ons telefoon nummer op je telefoon, dan kun je ons bellen als je de ingang niet kunt vinden of voor een dichte deur staat.
+Als je ons wil bezoek kijk dan ook op de [routebeschrijving](/routebeschrijving/).
 
 # Sociale Media
 [Twitter](https://twitter.com/tkkrlab)
