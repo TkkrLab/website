@@ -6,12 +6,12 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="150px" height="150px" style="float: right;">
-
 ## 15 Mei vanaf 14:00 Online ##
 
-<img alt="Lasercutter action" src="/cybersaturdays/lasercutter_action.png" width="350px" style="margin: 0px 30%;">
 
+{{< youtube JtGMao8C_nw >}}
+
+<br/>
 
 ### Inkscape en lasercutter
 
@@ -35,7 +35,7 @@ Deze workshop wordt gegeven door [Dave Borghuis](https://daveborghuis.nl)
 
 Wanneer : Zaterdag 15 Mei 2021 14:00-15:00
 
-Waar : [online](https://bbb.do.speakup.nl/b/dav-fxz-fhn)
+Waar : Terug kijken op [youtube](https://www.youtube.com/watch?v=JtGMao8C_nw)
 
 Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) wordt gewaardeerd.
 

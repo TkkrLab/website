@@ -15,7 +15,7 @@ disable_comments: true
 <img style="margin: 10px;" src="/images/tkkrLab-ruimte-nov-2020.JPG">
 
 <br />
-Hackerspace TkkrLab is een community die het leuk en interessant vind om met technische onderwerpen bezig te zijn. Iedere deelnemer heeft zijn eigen interessegebied, zo is de een vooral met software bezig (bv embedded, domotica, websites en meer), bouwt de ander een 3d printer of cnc frees en maakt iemand zijn eigen elektronische pcb ontwerp voor een robot. De gemeenschappelijke factor is dat het technisch en/of creatief is in de brede zin van het woord. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creatieve [projecten](/projects/).
+Hackerspace TkkrLab is een community die zelfontplooing in techniek faciliteerd. Iedere deelnemer heeft zijn eigen interessegebied, zo is de een vooral met software bezig (bv embedded, domotica, websites en meer), bouwt de ander een 3d printer of cnc frees en maakt iemand zijn eigen elektronische pcb ontwerp voor een robot. De gemeenschappelijke factor is dat het technisch en/of creatief is in de brede zin van het woord. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creatieve [projecten](/projects/).
 
 <br>
 
@@ -30,8 +30,7 @@ We organiseren regelmatig evenementen zoals lezingen en workshops die voor onze 
 Hebben we jouw interesse gewekt? Kom dan geheel vrijblijvend eens op bezoek en maak kennis met onze community, deelnemers en de mogelijkheden van hackerspace TkkrLab.
 <br />
 <br />
-Rechts bovenin vindt je de space status. Als we geopend zijn dan ben je van harte welkom!
-Is gezelligheid meer jouw ding, dan is **iedere dinsdagavond** de wekelijkse bijeenkomst. De overige dagen is het rustiger en kan je aan projecten werken.
+Rechts bovenin vindt je de space status. Als we geopend zijn dan ben je altijd van harte welkom! In onze [heatmap](https://tkkrlab.nl/state.php) kun je zien wanneer we gemiddeld open zijn, wil je zeker weten of we er nog even zijn kun je altijd even [contact](/contact/) met ons zoeken.
 <br />
 <br />
 Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/blog/) waar we de laatste nieuwtjes op plaatsen.
