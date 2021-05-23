@@ -36,7 +36,8 @@ RSIN : 850247913
 Marssteden 98, 
 7547 TD Enschede
 
-[Google maps](https://www.google.com/maps/place/Marssteden+98,+7547+TD+Enschede/) -   [Openstreetmap](https://www.openstreetmap.org/search?query=marssteden%2098%2Censchede#map=19/52.21634/6.82055)
+[Google maps](https://www.google.com/maps/place/TkkrLab/@52.2162911,6.8203277,19z/data=!4m8!1m2!3m1!2sTkkrLab!3m4!1s0x47b8146d5a073413:0x19afd02a9c840a4!8m2!3d52.216342!4d6.8205508
+) -   [Openstreetmap](https://www.openstreetmap.org/search?query=marssteden%2098%2Censchede#map=19/52.21634/6.82055)
 
 Als je ons wil bezoek kijk dan ook op de [routebeschrijving](/routebeschrijving/).
 
