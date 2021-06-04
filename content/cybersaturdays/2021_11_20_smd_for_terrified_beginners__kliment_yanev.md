@@ -20,8 +20,7 @@ Wanneer : Zaterdag 20 November 2021 14:00-16:00
 
 Kosten : €20 per persoon, hiervoor krijg je eigen kit om te solderen.
 
-Waar : TkkrLab, Spinnerij Oosterveld, Rigtersbleek Zandvoort 10, Enschede
-
+Waar : TkkrLab
 
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).

@@ -15,7 +15,7 @@ disable_comments: true
 
 Wanneer : Zaterdag 16 Oktober 2021 14:00
 
-Waar : TkkrLab, Spinnerij Oosterveld, Rigtersbleek Zandvoort 10, Enschede
+Waar : TkkrLab
 
 Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) wordt gewaardeerd.
 

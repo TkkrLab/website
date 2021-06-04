@@ -23,7 +23,7 @@ Mocht je geïnspireerd zijn in de mogelijkheden kun je meteen ter plekke jezelf 
 
 Wanneer : Zaterdag 18 September 2021 14:00
 
-Waar : TkkrLab, Spinnerij Oosterveld, Rigtersbleek Zandvoort 10, Enschede
+Waar : TkkrLab
 
 <sup>*</sup> nog onder voorbehoud, we zijn de mogelijkheden aan het onderzoeken hoe we dit precies gaan organiseren. Meer informatie volgt nog.
 
