@@ -24,7 +24,7 @@ Voor alle andere vragen kun je contact opnemen met <bestuur@tkkrlab.nl>
 	
 Wanneer het Tkkrlab geopend is ben je altijd welkom! Als je rechtsboven ‘OPEN’ ziet staan is er iemand aanwezig. Het is wel verstandig om ons eerst even een bericht te sturen (zie hieronder) of te bellen. Dan weet je zeker dat er mensen aanwezig zijn om je te ontvangen.
   
-Telefoon : [053-2030532](tel:053-2030532) of [06-10745590](tel:06-10745590) (Beide alleen bereikbaar indien iemand aanwezig in TkkrLab)
+Telefoon : [053-2030532](tel:053-2030532) (Alleen bereikbaar indien iemand aanwezig in TkkrLab)
 
 Email : <bestuur@tkkrlab.nl>
 
