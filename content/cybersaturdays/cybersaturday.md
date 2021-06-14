@@ -26,7 +26,7 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 * Mei 15 - [Workshop Lasercutter – Dave Borghuis](/cybersaturdays/2021_05_15_inkscape_en_lasercutter/)
 * Jun 19 - [Werken aan computer security](/cybersaturdays/2021_06_19_werken_aan_computersecurity/) ( 2 / 2 ) – Jurjen Stellingwerff
 * Jul 17 - [3d print wedstrijd](/cybersaturdays/2021_07_17_3d_print_wedstrijd/) - Govert Combé & Yvo de Haas
-* Tijdens vakantie geen CyberSaturday, deelnemers van TkkrLab gaan dan wel naar [Bornhack](https://bornhack.dk/) (19-26 aug) in Denemarken. Helaas gaat [MCH2021](https://mch2021.org/) niet door ivm Corona.
+* Tijdens vakantie geen CyberSaturday, deelnemers van TkkrLab gaan dan wel naar [Bornhack](https://bornhack.dk/) (19-26 aug) in Denemarken. [MCH2021](https://mch2021.org/) wordt doorgeschoven naar 2022 ivm Corona.
 * Sept 18 - [Nederlandse Cyborg - Patrick Paumen](/cybersaturdays/2021_09_18_nederlandse_cyborg_patrick_paumen/)
 * Okt 16 - Mathematische kunst - Rinus Roelofs
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
