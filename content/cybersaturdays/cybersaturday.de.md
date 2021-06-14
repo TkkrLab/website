@@ -27,7 +27,7 @@ Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/
 * Jul 17 - [3d print wedstrijd](/cybersaturdays/2021_07_17_3d_print_wedstrijd/) - Govert Combé & Yvo de Haas
 * Kein CyberSaturday während der Ferien, TkkrLab-Teilnehmer gehen dann zu [Bornhack] (https://bornhack.dk/) (19.-26. August) in Dänemark. Leider wurde [MCH2021] (https://mch2021.org/) auf nächstes Jahr verschoben aufgrund von Corona.
 * Sept 18 - [Nederlandse Cyborg - Patrick Paumen](/cybersaturdays/2021_09_18_nederlandse_cyborg_patrick_paumen/)
-* Okt 16 - Mathematische kunst - Rinus Roelofs
+* Okt 16 - [Mathematische kunst - Rinus Roelofs](/cybersaturdays/2021_10_16_mathematische_kunst__rinus_roelofs/)
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
 * Dec 18 - [Hardware hacking - Jilles Groenendijk](/en/cybersaturdays/2021_12_18_hardware_hacking__jilles_groenendijk/)
 
