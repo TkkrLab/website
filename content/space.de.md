@@ -27,8 +27,7 @@ Danach können Sie selbst experimentieren. Stundensätze und anderer Unsinn sind
 
 Schließlich haben wir einen Arcade-Schrank mit RetroPi-Setup und vielen Spielekonsolen, auf denen Sie spielen können, und jeder Teilnehmer hat seinen eigenen Behälter im Speicher, um Ihre aktuellen Projekte sicher aufzubewahren.
 
-Bist du interessiert? Sie finden den Hackerspace in Raum 2.08 von Spinnerij Oosterveld. Wenn wir offen sind (siehe oben rechts), ist jemand anwesend und Sie können vorbeikommen.
-Kommst du nach 19 Uhr oder am Wochenende? Dann besteht eine gute Chance, dass das Tor der Website geschlossen wird. Rufen Sie uns unter 06-10745590 an und wir lassen Sie herein.
+Bist du interessiert? Wenn wir offen sind (siehe oben rechts), ist jemand anwesend und Sie können vorbeikommen.
 
 Wenn Sie [Teilnehmer] werden (/ Teilnehmer werden), erhalten Sie Ihren eigenen Schlüssel und können den Raum rund um die Uhr nutzen. Die einzigen Dinge, die wir nicht zulassen, sind im Weltraum zu schlafen und an Weltherrschaftsplänen zu arbeiten ... Weitere Informationen finden Sie in unserer [Hausordnung] (/ wiki / Hausordnung).
 

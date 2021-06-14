@@ -27,7 +27,7 @@ If you want to use a tool you can get instructions of other participants, after 
 
 If your are a member you will get your own samla box where you can safely leave your projects at TkkrLab. 
 
-Interested? We are located at Spinnerij room 2.08. If we are open you are always welcome to visit us. You can see if we are open on the top right of this website. If you come for the first time it might be handy to note our telephone number 06-10745590 and call us if you can't find us or the entrance is closed.
+Interested? You can see if we are open on the top right of this website.
 
 If you want to become [participant](/deelnemer-worden) you will get your own key and can access TkkrLab 24/7. Also see our  [house rules](/wiki/Huisregels) for more details.
 

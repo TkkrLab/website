@@ -28,8 +28,7 @@ waarna je zelf aan het experimenteren kunt. Uurtarieven en andere onzin zijn bij
 
 Tot slot hebben we een arcade kast met RetroPi setup en hoop spelcomputers waar je op kunt gamen en heeft iedere deelnemer een eigen bak in de opslag, als veilige plek om je lopende projecten in op te bergen.
 
-Heb je interesse? Je vindt de hackerspace in lokaal 2.08 van Spinnerij Oosterveld. Als we open zijn (zie rechts bovenin) is er iemand aanwezig en kan je dus langs komen.
-Kom je na 7 uur 's avonds of in het weekend? Dan is de kans groot dat het hek van het terrein dicht zit. Bel ons dan even op 06-10745590, dan laten we je binnen.
+Heb je interesse? Als we open zijn (zie rechts bovenin) is er iemand aanwezig en kan je dus langs komen.
 
 Als je [deelnemer](/deelnemer-worden) wordt krijg je je eigen sleutel en kan je 24/7 gebruik maken van de ruimte. De enige dingen die wij niet toestaan zijn slapen in de space en het werken aan world domination plannen... Zie onze [huisregels](/wiki/Huisregels) voor meer details.
 
