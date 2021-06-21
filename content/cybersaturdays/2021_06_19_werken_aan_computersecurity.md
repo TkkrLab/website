@@ -8,8 +8,6 @@ disable_comments: true
 
 {{< youtube 2JyJaaWOyb8 >}}
 
-
-
 ## 19 Juni vanaf 14:00 Online ##
 
 ### Werken aan computersecurity
