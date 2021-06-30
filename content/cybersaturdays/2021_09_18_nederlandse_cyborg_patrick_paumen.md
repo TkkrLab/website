@@ -21,6 +21,8 @@ Als ervaringsdeskundige legt hij uit welke verschillende implantaten er beschikb
 
 Mocht je geïnspireerd zijn in de mogelijkheden kun je meteen ter plekke jezelf ‘upgraden’ en een chip laten implanteren!<sup>*</sup>
 
+Voor deelnemers van TkkrLab, ons deur systeem werkt met DESFire, om een chip te hebben om de deur te openen moet je de "xDF2 DESFire EV2 8kB NFC" bestellen. Controleer dit zelf !
+
 Wanneer : Zaterdag 18 September 2021 14:00
 
 Waar : TkkrLab
