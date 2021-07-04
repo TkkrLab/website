@@ -20,7 +20,7 @@ Nederlandse Cyborg Patrick Paumen heeft in totaal <strike>27</strike> 30 implant
 Als ervaringsdeskundige legt hij uit welke verschillende implantaten er beschikbaar zijn en hoe je deze in dagelijks leven kunt gebruiken. Hierbij legt hij het gebruik van verschillende RFID / NFC chips uit en hoe je hier zelfs een deur mee kunt openen (klonen van chip). Ook onderwerpen zoals kun je met implantaten een MRI scan doen of door controle komen op het vliegveld komen aan bod.
 
 ### Word zelf een Cyborg
-Mocht je geïnspireerd zijn in de mogelijkheden kun je meteen ter plekke jezelf ‘upgraden’ en een chip laten implanteren! Via ons kun je een chip bestellen bij [Dangerous Things](https://forms.gle/eb9mrSBZizfme6Fz6) en door een ervaren piercing studio medewerker laten implanteren. 
+Mocht je geïnspireerd zijn in de mogelijkheden kun je meteen ter plekke jezelf ‘upgraden’ en een chip laten implanteren! Via [ons](https://forms.gle/eb9mrSBZizfme6Fz6) kun je een chip bestellen bij Dangerous Things en door een ervaren piercing studio medewerker laten implanteren. 
 
 Helaas kunnen we niet een algemeen advies geven over welke chip het geschiktste is, dit is heel sterk afhankelijk van de gewenste  toepassing. Check de site van [Dangerous Things](https://dangerousthings.com/) voor details over de diverse chips die beschikbaar zijn.
 
