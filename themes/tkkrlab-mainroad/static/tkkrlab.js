@@ -15,7 +15,7 @@ function mqttClientCreate() {
 }
 
 function mqttOnConnect() {
-  //console.log("onConnect");
+  console.log("Connected to MQTT server");
   client.subscribe("#");
 }
 
@@ -106,6 +106,7 @@ var lastSpacestate = null;
 var temperature = null;
 var humidity = null;
 function setSpaceState(state=null) {
+	console.log("Spacestate changed to ", state);
 	if (state != null) lastSpacestate = state;
 	var elem = document.getElementById("space-status");
 	var text = "";
@@ -123,7 +124,7 @@ function setSpaceState(state=null) {
 
 // called when a message arrives
 function onMessageArrived(message) {
-  //console.log("onMessageArrived:",message.destinationName,message.payloadString);
+  console.log("onMessageArrived:",message.destinationName,message.payloadString);
 
   if (message.destinationName=="tkkrlab/spacestate") {
 	  setSpaceState(message.payloadString);
