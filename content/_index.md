@@ -15,7 +15,7 @@ disable_comments: true
 <img style="margin: 10px;" src="/images/tkkrLab-ruimte-nov-2020.JPG">
 
 <br />
-Hackerspace TkkrLab is een community die zelfontplooing in techniek faciliteerd. Iedere deelnemer heeft zijn eigen interessegebied, zo is de een vooral met software bezig (bv embedded, domotica, websites en meer), bouwt de ander een 3d printer of cnc frees en maakt iemand zijn eigen elektronische pcb ontwerp voor een robot. De gemeenschappelijke factor is dat het technisch en/of creatief is in de brede zin van het woord. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creatieve [projecten](/projects/).
+Hackerspace TkkrLab is een community die zelfontplooing in techniek [faciliteerd](https://handleidingen.tkkrlab.space/handleidingen/make_everything/). Iedere deelnemer heeft zijn eigen interessegebied, zo is de een vooral met software bezig (bv embedded, domotica, websites en meer), bouwt de ander een 3d printer of cnc frees en maakt iemand zijn eigen elektronische pcb ontwerp voor een robot. De gemeenschappelijke factor is dat het technisch en/of creatief is in de brede zin van het woord. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creatieve [projecten](/projects/).
 
 <br>
 
@@ -36,7 +36,7 @@ Rechts bovenin vindt je de space status. Als we geopend zijn dan ben je altijd v
 Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/blog/) waar we de laatste nieuwtjes op plaatsen.
 <br />
 <br />
-Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze [[nieuwsbrief](http://eepurl.com/gLxrLD) of kijk op onze [contact](/contact/) pagina om te zien hoe je ons kunt bereiken.
+Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD) of kijk op onze [contact](/contact/) pagina om te zien hoe je ons kunt bereiken.
 <br />
 <br />
 Woon je niet in Enschede, maar lijkt een hackerspace je wel wat, kijk dan op [hackerspaces.nl] (https://hackerspaces.nl)
