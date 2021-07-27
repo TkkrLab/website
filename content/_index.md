@@ -12,7 +12,7 @@ disable_comments: true
 
 # Wat is het TkkrLab?
 
-<img style="margin: 10px;" src="/images/tkkrLab-ruimte-nov-2020.JPG">
+<img style="margin: 10px;" src="/images/space6_overview.jpg">
 
 <br />
 Hackerspace TkkrLab is een community die zelfontplooing in techniek [faciliteerd](https://handleidingen.tkkrlab.space/handleidingen/make_everything/). Iedere deelnemer heeft zijn eigen interessegebied, zo is de een vooral met software bezig (bv embedded, domotica, websites en meer), bouwt de ander een 3d printer of cnc frees en maakt iemand zijn eigen elektronische pcb ontwerp voor een robot. De gemeenschappelijke factor is dat het technisch en/of creatief is in de brede zin van het woord. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creatieve [projecten](/projects/).

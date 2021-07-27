@@ -8,7 +8,7 @@ disable_comments: true
 
 # What is the TkkrLab?
 
-<img style="margin: 10px;" src="/images/tkkrLab-ruimte-nov-2020.JPG">
+<img style="margin: 10px;" src="/images/space6_overview.jpg">
 
 <br />
 

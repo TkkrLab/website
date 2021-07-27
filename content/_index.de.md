@@ -8,7 +8,7 @@ disable_comments: true
 
 # Was ist das TkkrLab?
 
-<img style="margin: 10px;" src="/images/tkkrLab-ruimte-nov-2020.JPG">
+<img style="margin: 10px;" src="/images/space6_overview.jpg">
 
 <br />
 Hackerspace TkkrLab ist eine Community, die die Selbstentwicklung in der Technologie [erleichtert](https://handleidingen.tkkrlab.space/handleidingen/make_everything/). Jeder Teilnehmer hat sein eigenes Interessengebiet. Eine Person kann hauptsächlich mit Software befasst sein (z. B. Embedded, Hausautomation, Websites usw.), eine andere Person baut 3D-Drucker oder eine CNC-Mühle, während eine andere Person ihre eigenen elektronischen Leiterplatten zur Steuerung eines Roboters entwirft. Gemeinsam ist hier, dass alles im weitesten Sinne des Wortes technisch und / oder kreativ ist. Durch den Austausch von Wissen und Erfahrungen in unserer Community ist immer jemand anwesend, der Ihnen bei Ihren [Projekten] (/ projects /) helfen kann.
