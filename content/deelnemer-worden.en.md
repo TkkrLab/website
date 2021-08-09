@@ -70,7 +70,7 @@ Visit Tkkrlab at least a few times to get to know us (and we you of course).
 
 Then sign up using the following steps:
 
- - Come by at least a few times on a Tuesday evening (or other days), so we get to know you and you know if Tkkrlab is right for you.
+ - Come by at a few times, so we get to know you and for you to see if Tkkrlab is right for you.
  - Read the <a href="/en/huisregels/" target="_blank"> House Rules </a>.
  - Fill in [this] (https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) form. With this you commit yourself to paying the participant's contribution.
  - After checking your details, you will receive a confirmation (verbally, via email or in another way) that you have become a member of the Tkkrlab. If this is not done within a week, ask one of the board members what the status is.

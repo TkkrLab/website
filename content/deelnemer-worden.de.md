@@ -70,7 +70,7 @@ Besuchen Sie Tkkrlab mindestens ein paar Mal, um uns kennenzulernen (und wir Sie
 
 Melden Sie sich dann mit den folgenden Schritten an:
 
- - Kommen Sie mindestens ein paar Mal an einem Dienstagabend (oder an anderen Tagen) vorbei, damit wir Sie kennenlernen und Sie wissen, ob Tkkrlab für Sie geeignet ist.
+ - Kommen Sie mindestens ein paar Mal vorbei, damit wir Sie kennenlernen und Sie wissen, ob Tkkrlab für Sie geeignet ist.
  - Lesen Sie die <a href="/en/huisregels/" target="_blank"> House Rules </a>.
  - Füllen Sie das Formular [this] (https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) aus. Damit verpflichten Sie sich zur Zahlung des Beitrags des Teilnehmers.
  - Nachdem Sie Ihre Daten überprüft haben, erhalten Sie eine Bestätigung (mündlich, per E-Mail oder auf andere Weise), dass Sie Teilnehmer des Tkkrlab geworden sind. Wenn dies nicht innerhalb einer Woche erfolgt, fragen Sie eines der Vorstandsmitglieder nach dem Status.
