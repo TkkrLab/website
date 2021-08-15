@@ -11,7 +11,7 @@ Zomervakantie is in volle gang, wij zijn in deze periode gewoon open. Echte hack
 <img  alt="Allee Rentree Tour 2021" src="/images/allee_rentree_tour_2021.jpg" width="300px" height="300px" style="margin: 0px 30%;">
 
 ## Allée Rentrée : Zat. 21 Aug. 12:00-20:00 kick-off / open dag
-Normaal is er iedere zomer een festival bij Allée Rentrée, deze kan dit jaar ivm corona helaas niet doorgaan. Gelukkig hebben de creatieve geesten van Allée Rentrée wat anders bedacht, namelijk een ‘tour’, waarbij mensen kunst achter de ramen door heel Enschede kunnen bekijken. TkkrLab doet hieraan mee door op zaterdag 21 sept komt  12:00-20:00 waarbij we open zijn en onze Portal turret robot kunt bekijken. Natuurlijk staat dan ook de koffie/Club-mate klaar.
+Normaal is er iedere zomer een festival bij Allée Rentrée, deze kan in verband met corona niet doorgaan. Gelukkig hebben de creatieve geesten van Allée Rentrée wat anders bedacht, namelijk een ‘tour’, waarbij mensen kunst achter de ramen door heel Enschede kunnen bekijken. TkkrLab doet hieraan mee door op zaterdag 21 september tussen 12:00-20:00 open te zijn. Je kunt dan onze Portal turret robot kunt bekijken en kennis maken met TkkrLab. Natuurlijk staat dan ook de koffie/Club-mate klaar.
 
 Voor meer informatie op de [Allée Rentrée site](https://allee-rentree.nl/).
 
