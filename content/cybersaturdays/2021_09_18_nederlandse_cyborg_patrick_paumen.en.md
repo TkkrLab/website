@@ -19,6 +19,8 @@ Dutch Cyborg Patrick Paumen has a total of <strike>27</strike> 30 implants in hi
 
 As an experience expert, he explains which different implants are available and how you can use them in daily life. He explains the use of different RFID / NFC chips and how you can even open a door with them (cloning of a chip). Topics such as can you do an MRI scan with implants or come through a check-up at the airport are also discussed.
 
+<img  alt="NFC implant Cyborg TkkrLab" src="/images/nfc-implant-cyborg.jpg" style="margin: 10px;">
+
 ### Become a Cyborg
 If you are inspired by the possibilities, you can immediately 'upgrade' yourself on the spot and have a chip implanted! Via [us](https://tickets.tkkrlab.space/TkkrLab/cyborg21/) you can order a chip through us and have it implanted at TkkrLab after reading.
 

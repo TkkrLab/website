@@ -19,8 +19,10 @@ Nederlandse Cyborg Patrick Paumen heeft in totaal <strike>27</strike> 30 implant
 
 Als ervaringsdeskundige legt hij uit welke verschillende implantaten er beschikbaar zijn en hoe je deze in dagelijks leven kunt gebruiken. Hierbij legt hij het gebruik van verschillende RFID / NFC chips uit en hoe je hier zelfs een deur mee kunt openen (klonen van chip). Ook onderwerpen zoals kun je met implantaten een MRI scan doen of door controle komen op het vliegveld komen aan bod.
 
+<img  alt="NFC implant Cyborg TkkrLab" src="/images/nfc-implant-cyborg.jpg" style="margin: 10px;">
+
 ### Word zelf een Cyborg
-Mocht je geïnspireerd zijn in de mogelijkheden kun je meteen ter plekke jezelf ‘upgraden’ en een chip laten implanteren! Via [ons](https://tickets.tkkrlab.space/TkkrLab/cyborg21/) kun je een chip bestellen via ons en bij TkkrLab na lezing laten implanteren.
+Mocht je geïnspireerd zijn in de mogelijkheden kun je meteen ter plekke jezelf ‘upgraden’ en een chip laten implanteren! Via [ons](https://tickets.tkkrlab.space/TkkrLab/cyborg21/) kun je een chip bestellen via ons en bij TkkrLab na de lezing laten implanteren.
 
 Helaas kunnen we niet een algemeen advies geven over welke chip het geschiktste is, dit is heel sterk afhankelijk van de gewenste toepassing. Check de site van [Dangerous Things](https://dangerousthings.com/chip-implants-101/) voor details en toepassingen over de diverse chips die beschikbaar zijn.
 
@@ -62,15 +64,15 @@ Proxmark3 can clone common 125kHz badges, fobs, cards, etc. to the xEM!
 ###### Wearables
 Dangerous Things hebben ook ringen en armbanden met NFC chips. Als je wil experimenteren met deze techniek maar een implantaat gaat je te ver is dit een ideale manier om mee aan de slag te gaan. Zie [site Dangerous Things](https://dangerousthings.com/category/wearables/). Als je een wearable wil kopen neem contact met ons op.
 
-Schrijf je [hier](https://tickets.tkkrlab.space/TkkrLab/cyborg21/) in voor de lezing of om een chip te laten implanteren. Mocht je toch nog vragen hebben kun je contact opnemen met [Dave Borghuis](mailto:dave@tkkrlab.nl). De hier genoemde prijzen zijn inclusief verzendkosten naar TkkrLab en het implanteren door de pierching studio. Maak het verontschuldigd vóór 6 september over naar rekening NL40BUNQ2062969252.
+Schrijf je [hier](https://tickets.tkkrlab.space/TkkrLab/cyborg21/) in voor de lezing (gratis) of om een chip te laten implanteren. Mocht je toch nog vragen hebben kun je contact opnemen met [Dave Borghuis](mailto:dave@tkkrlab.nl). De hier genoemde prijzen zijn inclusief verzendkosten naar TkkrLab en het implanteren door de pierching studio. Maak het verontschuldigd vóór 6 september over naar rekening NL40BUNQ2062969252.
 
 Wanneer : Zaterdag 18 September 2021 14:00 - 15:00 (na lezing chips implanteren en zelf experimenteren met je upgrade).
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : Lezing gratis, zie bovenstaande prijzen voor het implanteren van een chip.
+Kosten : Lezing gratis, zie bovenstaande prijzen voor het kopen en implanteren van een chip.
 
-Disclaimer : Stichting TkkrLab, Dangerous Things en Piercing Studio Utrecht zijn uitgesloten van elke verantoordelijkheid voor het implanteren van chip.
+### Disclaimer : Stichting TkkrLab, Dangerous Things en Piercing Studio Utrecht zijn uitgesloten van elke verantoordelijkheid voor het implanteren van chip.
 
 <hr>
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
