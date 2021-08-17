@@ -1,5 +1,5 @@
 ---
-title: "Sponsering Freedom internet"
+title: "Sponsoring Freedom internet"
 date: 2021-06-13
 thumbnail: "/images/logo_freedom_internet.jpg"
 ---
