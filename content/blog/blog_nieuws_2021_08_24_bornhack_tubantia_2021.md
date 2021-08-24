@@ -11,12 +11,16 @@ Orgineel artikel kan [hier](https://www.tubantia.nl/regio/twentse-heidi-op-deens
 
 <hr>
 
+# Twentse Heidi op Deens hackerskamp: ‘We maken geen goede systemen stuk, maar ‘stukke’ systemen beter’
+
+
 <img  alt="Bornhack 2021" src="/images/bornhack_2021_tubantia.webp">
-Twentse Heidi op Deens hackerskamp: ‘We maken geen goede systemen stuk, maar ‘stukke’ systemen beter’
+Michel Boezerooij, Dimitri Modderman en Heidi Ulrich op het Deense Bornhack. © Heidi Ulrich
 
-ENSCHEDE/FUNEN - Ze zijn met Nederlanders, Denen, Duitsers, Britten en zelfs Amerikanen. De hackersgroep TkkrLab uit Enschede zit momenteel op het Deense Bornhack, een hackerscamping op het eiland Funen. „We leren hier ontzettend veel.”
 
-### Frank Bussink 24-08-21, 10:10
+**ENSCHEDE/FUNEN - Ze zijn met Nederlanders, Denen, Duitsers, Britten en zelfs Amerikanen. De hackersgroep TkkrLab uit Enschede zit momenteel op het Deense Bornhack, een hackerscamping op het eiland Funen. „We leren hier ontzettend veel.”**
+
+### Frank Bussink (Tubantia) 24-08-21, 10:10
 
 Wie aan een hacker denkt, denkt waarschijnlijk aan een nerd die in een donkere hoodie achter een laptop probeert in te breken in systemen van bedrijven of overheidsinstanties om die plat te leggen. „Maar dat doen wij hier niet”, vertelt Heidi Ulrich, één van de campinggasten uit Enschede. „Wij zijn ethische hackers. We maken geen goede systemen stuk, maar ‘stukke’ systemen beter.”
 
