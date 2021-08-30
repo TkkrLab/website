@@ -13,7 +13,7 @@ disable_comments: true
 
 <img alt="Cyborg Patrick Paumen" src="/cybersaturdays/patrick_paumen_cyborg.jpg" width="250px" style="margin: 0px 30%;">
 
-### Nederlandse Cyborg : Patrick Pauman
+### Nederlandse Cyborg : Patrick Paumen
 
 Nederlandse Cyborg Patrick Paumen heeft in totaal <strike>27</strike> 30 implantaten in zijn lichaam. Met deze implantaten heeft hij superpowers en kan hij op magische wijze deuren openen, magnetische en elektromagnetische velden waarnemen en contactloos betalen.
 

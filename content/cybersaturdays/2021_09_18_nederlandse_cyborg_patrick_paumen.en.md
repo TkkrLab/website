@@ -13,7 +13,7 @@ disable_comments: true
 
 <img alt="Cyborg Patrick Paumen" src="/cybersaturdays/patrick_paumen_cyborg.jpg" width="250px" style="margin: 0px 30%;">
 
-### Dutch Cyborg : Patrick Pauman
+### Dutch Cyborg : Patrick Paumen
 
 Dutch Cyborg Patrick Paumen has a total of <strike>27</strike> 30 implants in his body. With these implants, he has superpowers and can magically open doors, detect magnetic and electromagnetic fields and make contactless payments.
 
