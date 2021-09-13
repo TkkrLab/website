@@ -72,6 +72,8 @@ Where : TkkrLab, Marssteden 98, Enschede
 
 Costs : Free reading, see above prices for implanting a chip.
 
+Corona rules : We check on coronatoegangsbewijs. Keep distance and with symptoms stay at home.
+
 Disclaimer : TkkrLab Foundation, Dangerous Things and Piercing Studio Utrecht are excluded from any responsibility for the implantation of a chip.
 
 <hr>
