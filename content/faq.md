@@ -17,7 +17,7 @@ TkkrLab (uit te spreken als Tukker-Lab) is een werkplaats waar geeks bij elkaar 
 ## Ik heb grandioos [bedrijfs|kunst] idee, kunnen jullie dit voor mij maken?
 Het Tkkrlab zelf is geen organisatie waaraan je een opdracht kunt geven. Zoals aangegeven komt het grootste deel van onze deelnemers bij TkkrLab voor hun ontspanning en niet om te werken. Echter, je bent van harte welkom om bij ons te komen polsen voor animo voor je idee onder onze leden. Wellicht zijn er dan TkkrLab deelnemers die jouw idee zo goed/leuk/spannend/uitdagend vinden dat ze je willen helpen. Onze insteek is dat je zelf met je projecten aan de slag gaat, eventueel met wat hulp van andere deelnemers.
 
-Een voorbeeld van een [project](http://tkkrlab.nl/wiki/Projects) dat we hebben gedaan is het schrijven van [Arduino workshops](http://tkkrlab.nl/wiki/Workshop_Arduino) die we op de Gogbot geven. Andere projecten kan je terugvinden op onze [wiki](https://tkkrlab.nl/wiki/Projects) en op de [projecten pagina](/projects).
+Een voorbeeld van een [project](/projects/) dat we hebben gedaan is het schrijven van [Arduino workshops](https://arduino.tkkrlab.space/) die we op de Gogbot geven. Andere projecten kan je terugvinden op onze [projecten pagina](/projects/) en op de [projecten pagina](/projects).
 
 We zijn iedere dinsdagavond vanaf 19:00 open, kom gerust langs als je vragen of ideeën hebt.
 
@@ -47,7 +47,7 @@ Het belangrijkste van een ethical hacker is o.a. ‘responsible disclosure’ dw
 Een crimineel zou een gevonden bug nooit doorgeven, deze wil de bugs zo lang mogelijk voor zijn eigen gewin misbruiken.
 
 ## Ik wil leren hacken, hoe doe ik dat?
-Eric Raymond, een open source source guru, heeft een [FAQ](http://www.catb.org/~esr/faqs/hacker-howto.html) (vertaling in [Nederlands](https://tkkrlab.nl/wiki/Hoe_word_ik_een_hacker)) hierover geschreven. In eerste instantie is een hacker iemand die een bepaalde mindset heeft, techniek (programmeertaal of platform) komt pas op een tweede plaats.
+Eric Raymond, een open source source guru, heeft een [FAQ](http://www.catb.org/~esr/faqs/hacker-howto.html) (vertaling in [Nederlands](/hoe-word-ik-een-hacker/)) hierover geschreven. In eerste instantie is een hacker iemand die een bepaalde mindset heeft, techniek (programmeertaal of platform) komt pas op een tweede plaats.
 
 Kort gezegd zou je het volgende kunnen doen:
 
