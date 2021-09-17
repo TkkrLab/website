@@ -16,13 +16,24 @@ Hoe kun je van een 2D vlak een 3D ’90-degrees-dodecahedron’ en andere mathem
 
 ## Over Rinus Roelofs
 
-Beroemd geworden door vinden van een fout in de tekening van Leonardo Da Vinci, is deze Hengelose beeldend kunstenaar altijd al geïnteresseerd geweest in veelvlakken. Rinus heeft gestudeerd aan de UT wiskunde en afgestudeerd aan de AKI en reist met zijn mathematische geïnspireerde kunst de hele wereld over.   
+Beroemd geworden door vinden van een fout in de tekening van Leonardo Da Vinci, is deze Hengelose beeldend kunstenaar altijd al geïnteresseerd geweest in veelvlakken. Rinus heeft gestudeerd aan de UT wiskunde en afgestudeerd aan de AKI en reist met zijn mathematische geïnspireerde kunst de hele wereld over.  
+
+Persoonlijke [website van Rinus](http://www.rinusroelofs.nl/).
+
+
+
 
 Wanneer : Zaterdag 16 Oktober 2021 14:00
 
-Waar : TkkrLab
+Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) wordt gewaardeerd.
+Taal : Nederlands
+
+Kosten : gratis, [inschrijven verplicht](https://tickets.tkkrlab.space/TkkrLab/rinus-roelofs/) .
+
+#### Corona
+Ivm corona zullen we bezoekers vragen om CoronaCheck te laten zien.
+
 
 <hr>
 
