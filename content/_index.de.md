@@ -6,6 +6,12 @@ noprevnext: true
 disable_comments: true
 ---
 
+<div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
+<strong>Corona-Maßnahmen:</strong><p>
+Wenn Sie TkkrLab besuchen möchten, bitten wir um Ihren <a href="https://coronacheck.nl/">CoronaCheck</a> , dies zu unserer und Ihrer Sicherheit.
+</div>
+
+
 # Was ist das TkkrLab?
 
 <img style="margin: 10px;" src="/images/space6_overview.jpg">

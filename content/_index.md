@@ -8,6 +8,12 @@ disable_comments: true
 
 🇬🇧🇩🇪 Can't read dutch? The main pages are translated to English and German, select language flag on top right of page.
 <br />
+<br/>
+<div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
+<strong>Corona maatregelen :</strong><p>
+Indien u TkkrLab wil bezoeken vragen wij om uw [CoronaCheck](https://coronacheck.nl/), dit voor onze en uw veiligheid.
+</div>
+
 <br />
 
 # Wat is het TkkrLab?
