@@ -6,12 +6,9 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="150px" height="150px" style="float: right;">
-
-
 ## 18 September from 14:00  ##
 
-<img alt="Cyborg Patrick Paumen" src="/cybersaturdays/patrick_paumen_cyborg.jpg" width="250px" style="margin: 0px 30%;">
+{{< youtube R-9LrvAtqHM >}}
 
 ### Dutch Cyborg : Patrick Paumen
 

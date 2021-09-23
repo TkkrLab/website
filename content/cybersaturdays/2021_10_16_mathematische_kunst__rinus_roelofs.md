@@ -5,6 +5,11 @@ nodateline: true
 noprevnext: true
 disable_comments: true
 ---
+<div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
+<strong>Corona maatregelen :</strong><p>
+Indien u TkkrLab wil bezoeken vragen wij om uw <a href="https://coronacheck.nl/">CoronaCheck</a>, dit voor onze en uw veiligheid.
+</div>
+
 
 <img alt="Veelvlak van Rinus Roelofs" src="/images/rinus_roelofs_veelvlak.jpg" width="300px" height="300px" style="margin: 0px 30%;">
 

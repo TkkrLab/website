@@ -5,6 +5,11 @@ nodateline: true
 noprevnext: true
 disable_comments: true
 ---
+<div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
+<strong>Corona measures:</strong><p>
+If you want to visit TkkrLab, we ask for your <a href="https://coronacheck.nl/">CoronaCheck</a> , this for our and your safety.
+</div>
+
 
 <img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
 
