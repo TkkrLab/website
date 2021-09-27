@@ -17,7 +17,7 @@ Indien u TkkrLab wil bezoeken vragen wij om uw <a href="https://coronacheck.nl/"
 
 ### Mathematische kunst 
 
-Hoe kun je van een 2D vlak een 3D ’90-degrees-dodecahedron’ en andere mathematische vormen maken? Geïnspireerd door mathematische kunstenaars zoals Albrecht Durer, Leonardo da Vinci en M.C. Escher zal Rinus Roelofs tijdens deze workshop het proces inzichtelijk hoe deze vormen ontworpen wordt. De ontstane 2D vlakken kunnen dan gebruikt worden om bijvoorbeeld met een lasercutter bijzondere geometrische vormen te maken. 
+Hoe kun je van een 2D vlak een 3D ’90-degrees-dodecahedron’ en andere mathematische vormen maken? Geïnspireerd door mathematische kunstenaars zoals Albrecht Durer, Leonardo da Vinci en M.C. Escher zal wiskundige en kunstenaar Rinus Roelofs tijdens deze workshop het proces inzichtelijk hoe deze vormen ontworpen wordt. De ontstane 2D vlakken kunnen dan gebruikt worden om bijvoorbeeld met een lasercutter bijzondere geometrische vormen te maken. 
 
 ## Over Rinus Roelofs
 
