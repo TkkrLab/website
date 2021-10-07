@@ -32,6 +32,12 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
 * Dec 18 - [Hardware hacking - Jilles Groenendijk](/cybersaturdays/2021_12_18_hardware_hacking__jilles_groenendijk/)
 
+### Programma 2022
+Hieronder vind je de presentaties/workshops die voor 2021 bevestigd zijn:
+
+* 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
+* 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
+
 <br /><br />
 Dit evenement word mede mogelijk gemaakt door [Creative broedplaats Twente](http://www.creatievebroedplaatsentwente.nl/).
 <br /><br />

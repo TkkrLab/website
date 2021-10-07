@@ -1,5 +1,5 @@
 ---
-title: CyberSaturday Coding generative art
+title: CyberSaturday Coding generative art door Bleeptrack
 date: 2021-01-01T00:00:00+02:00
 nodateline: true
 noprevnext: true
@@ -10,25 +10,26 @@ disable_comments: true
 Indien u TkkrLab wil bezoeken vragen wij om uw <a href="https://coronacheck.nl/">CoronaCheck</a>, dit voor onze en uw veiligheid.
 </div>
 
-<img alt="LED strip workshop" src="/images/led_strip.jpg" width="300px" height="300px" style="margin: 0px 30%;">
+<img alt="Bleeptrack generative art workshop" src="/images/bleeptrack.jpg" width="300px" height="300px" style="margin: 0px 30%;">
 
-## 16 April van 14:00 tot ??:?? ##
+## 15 oktober Vanaf 14:00 ##
 
-# Coding generative art
+# Coderende generatieve kunst
+In deze workshop geeft Bleeptrack een introductie over het maken van uw eigen generatieve kunst met behulp van papier.js. Ze zal ook inzichten delen voor gemeenschappelijke technieken voor digitale en fysieke genart en mogelijke valkuilen toelichten. Geen voorbereiding nodig - Breng gewoon je laptop en laten we samenwerken!
 
+## Over Bleeptrack
+[Bleeptrack](https://www.bleeptrack.de/) is een freelancer creatieve technoloog en liefhebber  generatieve dingen van allerlei soorten!
+Haar grootste interesses liggen op het gebied van generatieve of AI-kunst, digitale fabricage en DIY-elektronica. Ze geeft les op verschillende universiteiten / hogescholen en houd ervan om lezingen en workshops te geven!
 
-#### Required Software
-
-
-## About Bleeptrack
-
-
+Ze heeft haar eigen YouTube-kanaal ["Werk in uitvoering"](https://www.youtube.com/c/bleeptracde)
 <hr>
 Wanneer : Zaterdag 15 Oktober 2022 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : 
+Kosten : gratis, neem eigen laptop mee.
+
+Taal : Engels
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 

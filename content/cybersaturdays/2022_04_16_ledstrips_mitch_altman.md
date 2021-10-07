@@ -14,41 +14,36 @@ Indien u TkkrLab wil bezoeken vragen wij om uw <a href="https://coronacheck.nl/"
 
 ## 16 April from 14:00  ##
 
-# LED Strips Everywhere for Everyone!
+# LED Strips voor iedereen! 
 
-### Prerequisites
-None -- this workshop requires no experience or knowledge
+LED-strips zijn echt goedkoop geworden. Veel mensen hebben eenvoudige methoden gemaakt om hun kleur en helderheid te beheersen. Deze workshop toont een manier om LED-strips te regelen, om ze te laten doen wat je wilt. We zullen een  goedkope Arduino-kloon gebruiken. Mitch zal je alles zien wat je moet weten om bestaande programma's te gebruiken - AS-is of om te hacken - om de kleuren in je wereld met LED-strips te besturen.
 
-### Abstract
-Learn how to light up LED strips with a cheap Arduino, and make your life trippy. For total beginners -- no knowledge needed at all. No materials needed.
+## Workshop inhoud
+- introductie voor rood-groen-blauw (RGB) LED's
+- Korte intro aan Arduino
+- Hoe een Arduino te gebruiken om een ​​LED-strip te bedienen
+- Enkele demo's en programma's die je kunt downloaden
 
-# Full Description
-LED strips have become really inexpensive. Lots of people have created inexpensive methods of controlling their color and brightness. This workshop shows one way to control LED strips, to make them do what you want. We will use a very cheap Arduino clone. I'll show you everything you need to know to use existing programs -- as-is, or to hack on -- to control the colors in your world with LED strips.
+#### Benodigde materialen
+- Een Arduino-bord (of clone) 
+- USB-kabel: de ene kant past in uw Arduino Uno, de andere partij past in uw laptop (voorbeeld: USB-mini tot USB-A)
+- LED-strook met WS2812B-LED's (neopixel) - elke lengte, dichtheid.
 
-## Workshop Itinerary
-- Intro to Red-Green-Blue (RGB) LEDs
-- Brief intro to Arduino
-- How to use an Arduino to control an LED strip
-- Some demos of programs you can download
+#### Vereiste software
+Download de gratis en open source Arduino-software voor de workshop - Windows, Linux of MacOS :
+[Arduino Software] (https://www.arduino.cc/en/software)
 
-#### Materials
-- Any Arduino board (or clone) (example)
-- USB cable: one side fits into your Arduino Uno, the other side fits into your laptop (example: USB-mini to USB-A)
-- LED strip with WS2812b LEDs (Neopixel) -- any length, density (example)
-
-#### Required Software
-Please download the free and open source Arduino software before the workshop -- Windows, Linux, or MacOS are all fine!:
-[Arduino software](https://www.arduino.cc/en/software)
-
-## About Mitch Altman
-[Mitch Altman](https://en.wikipedia.org/wiki/Mitch_Altman) is a Berlin- (and San Francisco) -based hacker and inventor, best known for inventing [TV-B-Gone remote controls](http://tvbgone.com/) a keychain that turns off TVs in public places, he was also co-founder of 3ware (a SillyValley RAID controller company), did pioneering work in Virtual Reality at VPL Research invented the NeuroDreamer sleep mask and created the [Brain Machine](https://makezine.com/2008/11/13/the-brain-machine/) one of MAKE Magazine's more popular DIY projects. He has contributed to MAKE Magazine has written for 2600 and Makery and wrote a chapter from the popular book, Maker Pro He is a mentor at HAX and other accelerators. For the last several years Mitch has been leading workshops around the world, teaching people to make cool things with electronics and teaching everyone to solder Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is the co-founder of [Noisebridge](https://noisebridge.net/) hackerspace in San Francisco, and President and CEO of [Cornfield Electronics](https://www.cornfieldelectronics.com/).
+## Over Mitch Altman
+[Mitch Altman](https://en.wikipedia.org/wiki/mitch_altman) is een Berlin- (en San Francisco) -gebaseerde hacker en uitvinder, het meest bekend om het uitvinden van [TV-B-Gone afstandsbedieningen](http://tvbgone.com/) Een sleutelhanger die tv's op openbare plaatsen uitschakelt, hij was als mede-oprichter of 3ware (een Sillyvalley RAID-controllerbedrijf), heeft baanbrekend werk in virtual realiteit bij VPL-onderzoek uitgevonden in het slapenmasker van Neurodreamer en creëerde het [Brain Machine](https://makezine.com/2008/11/13/the-brain-machine/) Een van het MAKE MAKKER MEER POPULERE DIY-projecten. Hé heeft bijgedragen aan het maken van magazine heeft geschreven voor 2600 en Makery en schreef een hoofdstuk uit het populaire boek, Maker Pro hij is een mentor bij HAX en andere versnellers. Voor de laatste SUVAL-jaren is Mitch aan toonaangevende workshops over de hele wereld, mensen onderwijzen om coole dingen met elektronica te maken en iedereen te onderwijzen aan Solder Mitch bevordert Hacker-pakken, Open Source-hardware en mentors overal waar hij ook gaat. Mitch is de mede-oprichter of [NoiseBridge](https://noisebridge.net/) Hackerpace in San Francisco, en president en CEO of [Cornfield Electronics](https://www.cornfieltelectronics.com/).
 
 <hr>
-When : Zaterdag 16 April 2022 14:00
+Wanneer : Zaterdag 16 April 2022 14:00
 
-Where : TkkrLab, Marssteden 98, Enschede
+Waar : TkkrLab, Marssteden 98, Enschede
 
-Cost : Kosten voor materialen € xx,xx
+Kosten : Kosten voor materialen
+
+Taak : English
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
