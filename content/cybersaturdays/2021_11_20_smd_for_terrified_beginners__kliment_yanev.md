@@ -11,11 +11,11 @@ If you want to visit TkkrLab, we ask for your <a href="https://coronacheck.nl/">
 </div>
 
 
-<img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
+<img alt="CyberSaturday" src="/images/smd_soldering_catsplash.png" width="300px" height="300px" style="margin: 0px 30%;">
 
 ## 20 November vanaf 14:00-16:00  ##
 
-###  SMD for terrified beginners by Kliment Yanev (ENG)
+###  SMD for terrified beginners by Kliment Yanev
 
 Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 
 
@@ -25,9 +25,11 @@ Wanneer : Zaterdag 20 November 2021 14:00-16:00
 
 Kosten : €20 per persoon, hiervoor krijg je eigen kit om te solderen.
 
-Waar : TkkrLab
+Inschrijven : Ticket reserveren op onze [ticketsite](https://tickets.tkkrlab.space/TkkrLab/smd-soldering/).
 
+Waar : TkkrLab,  Marssteden 98, Enschede
 
+<hr>
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
 
