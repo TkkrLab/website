@@ -33,8 +33,13 @@ The events will also be recorded and published on our [youtube channel] (https:/
 ### Programma 2022
 For 2022 the following speakers are confirmed :
 
+* 19 Feb. - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
+)
+* 19 Maart - [Workshop Lasercutter – Dave Borghuis](/cybersaturdays/2022_03_19_inkscape_en_lasercutter/)
+* 26 Maart - Internationaal hackerspace Open dag
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
+
 
 
 <br /><br />
