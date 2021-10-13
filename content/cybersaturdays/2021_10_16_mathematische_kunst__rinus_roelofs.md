@@ -36,6 +36,8 @@ Taal : Nederlands
 
 Kosten : gratis, [inschrijven verplicht](https://tickets.tkkrlab.space/TkkrLab/rinus-roelofs/) .
 
+Video : Stream is ook live te volgen op [youtube tkkrlab kanaal](https://youtube.com/tkkrlab)
+
 #### Corona
 Ivm corona zullen we bezoekers vragen om CoronaCheck te laten zien.
 
