@@ -17,6 +17,8 @@ Indien u TkkrLab wil bezoeken vragen wij om uw <a href="https://coronacheck.nl/"
 
 ### Mathematische kunst 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FW-4ti7pFoo?start=307" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
 Hoe kun je van een 2D vlak een 3D ’90-degrees-dodecahedron’ en andere mathematische vormen maken? Geïnspireerd door mathematische kunstenaars zoals Albrecht Durer, Leonardo da Vinci en M.C. Escher zal wiskundige en kunstenaar Rinus Roelofs tijdens deze workshop het proces inzichtelijk hoe deze vormen ontworpen wordt. De ontstane 2D vlakken kunnen dan gebruikt worden om bijvoorbeeld met een lasercutter bijzondere geometrische vormen te maken. 
 
 ## Over Rinus Roelofs
@@ -25,9 +27,6 @@ Beroemd geworden door vinden van een fout in de tekening van Leonardo Da Vinci, 
 
 Persoonlijke [website van Rinus](http://www.rinusroelofs.nl/).
 
-
-
-
 Wanneer : Zaterdag 16 Oktober 2021 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
@@ -35,8 +34,6 @@ Waar : TkkrLab, Marssteden 98, Enschede
 Taal : Nederlands
 
 Kosten : gratis, [inschrijven verplicht](https://tickets.tkkrlab.space/TkkrLab/rinus-roelofs/) .
-
-Video : Stream is ook live te volgen op [youtube tkkrlab kanaal](https://youtube.com/tkkrlab)
 
 #### Corona
 Ivm corona zullen we bezoekers vragen om CoronaCheck te laten zien.
