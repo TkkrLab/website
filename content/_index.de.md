@@ -14,7 +14,8 @@ Wenn Sie TkkrLab besuchen möchten, bitten wir um Ihren <a href="https://coronac
 
 # Was ist das TkkrLab?
 
-<img style="margin: 10px;" src="/images/space6_overview.jpg">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1634670153920!6m8!1m7!1sCAoSLEFGMVFpcE52SzBOTVVDbzk2WURFRFliemwxRkExUHctbXdiMTRid1UwRERL!2m2!1d52.2164307!2d6.820549499999999!3f300.2381792567585!4f-10.856918622841675!5f0.4000000000000002" width="650" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 
 <br />
 Hackerspace TkkrLab ist eine Community, die die Selbstentwicklung in der Technologie [erleichtert](https://handleidingen.tkkrlab.space/handleidingen/make_everything/). Jeder Teilnehmer hat sein eigenes Interessengebiet. Eine Person kann hauptsächlich mit Software befasst sein (z. B. Embedded, Hausautomation, Websites usw.), eine andere Person baut 3D-Drucker oder eine CNC-Mühle, während eine andere Person ihre eigenen elektronischen Leiterplatten zur Steuerung eines Roboters entwirft. Gemeinsam ist hier, dass alles im weitesten Sinne des Wortes technisch und / oder kreativ ist. Durch den Austausch von Wissen und Erfahrungen in unserer Community ist immer jemand anwesend, der Ihnen bei Ihren [Projekten] (/ projects /) helfen kann.

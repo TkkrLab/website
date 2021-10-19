@@ -18,7 +18,7 @@ Indien u TkkrLab wil bezoeken vragen wij om uw [CoronaCheck](https://coronacheck
 
 # Wat is het TkkrLab?
 
-<img style="margin: 10px;" src="/images/space6_overview.jpg">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1634670153920!6m8!1m7!1sCAoSLEFGMVFpcE52SzBOTVVDbzk2WURFRFliemwxRkExUHctbXdiMTRid1UwRERL!2m2!1d52.2164307!2d6.820549499999999!3f300.2381792567585!4f-10.856918622841675!5f0.4000000000000002" width="650" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 <br />
 Hackerspace TkkrLab is een community die zelfontplooiing in techniek [faciliteert](https://handleidingen.tkkrlab.space/handleidingen/make_everything/). Iedere deelnemer heeft zijn eigen interessegebied, zo is de een vooral met software bezig (bv embedded, domotica, websites en meer), bouwt de ander een 3d printer of cnc frees en maakt iemand zijn eigen elektronische pcb ontwerp voor een robot. De gemeenschappelijke factor is dat het technisch en/of creatief is in de brede zin van het woord. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creatieve [projecten](/projects/).
