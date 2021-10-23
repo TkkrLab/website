@@ -35,6 +35,8 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 ### Programma 2022
 Hieronder vind je de presentaties/workshops die voor 2021 bevestigd zijn:
 
+
+* 15 Jan. [Leer mallen maken met the practical engineer](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
 * 19 Feb. - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
 )
 * 19 Maart - [Workshop Lasercutter – Dave Borghuis](/cybersaturdays/2022_03_19_inkscape_en_lasercutter/)
