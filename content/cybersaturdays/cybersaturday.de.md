@@ -32,7 +32,7 @@ Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/
 * Dec 18 - [Hardware hacking - Jilles Groenendijk](/en/cybersaturdays/2021_12_18_hardware_hacking__jilles_groenendijk/)
 
 ### Programma 2022
-Nachfolgend finden Sie die für 2021 bestätigten Präsentationen/Workshops:
+Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
 
 
 * 15 Jan. [Leer mallen maken met the practical engineer](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
