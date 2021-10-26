@@ -17,7 +17,15 @@ If you want to visit TkkrLab, we ask for your <a href="https://coronacheck.nl/">
 
 ###  SMD for terrified beginners by Kliment Yanev
 
-Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building an electronic touch-activated purring kitten. Anyone can do it. Yes, even you who never touched anything electronic before. 
+In de workshop “SMD for terrified beginners” kan iedereen leren om SMD componenten te solderen, geen ervaring vereist! Vrijwel alle moderne elektronica wordt gemaakt met SMD (service mounted devices), componenten die meteen op de printplaten gesoldeerd worden. In deze workshop leer je enkele praktische technieken hoe je de kleinste SMD onderdelen zelf kunt solderen. Hiervoor gebruik je de SMD kit (kosten €20) waar je de componenten zelf leert solderen. Als je alles goed heb gedaan het je een spinnende kat die je mee mag nemen naar huis.
+
+Kosten voor de kit is € 20,00, de workshop zelf is gratis.
+
+Workshop word in het Engels gegeven
+
+### Over Kliment
+Kliment is een elektronica- en robotica ontwikkelaar met ruime ervaring op het gebied van open source 3d printen en open hardware. Hij ontwikkelt elektronica op maat, waarbij hij projecten van idee tot prototype brengt. Open source werk op het gebied van 3d printen (elektronica, software en mechanisch werk) en medische hardware.
+
 
 Deze workshop word in het Engels gegeven.
 
