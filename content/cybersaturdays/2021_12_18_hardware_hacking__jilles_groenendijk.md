@@ -46,7 +46,9 @@ Wanneer : Zaterdag 18 December 2021 14:00
 
 Waar : TkkrLab
 
-Kosten : gratis, [kleine donatie](https://bunq.me/tkkrlab/5/CyberSaturday%20Donatie) wordt gewaardeerd.
+Kosten : gratis, reserveer je ticket in onze [ticket shop](https://tickets.tkkrlab.space/TkkrLab/Jilles/)
+
+<hr>
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
