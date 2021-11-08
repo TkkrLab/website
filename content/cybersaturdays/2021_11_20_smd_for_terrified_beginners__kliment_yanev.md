@@ -7,8 +7,11 @@ disable_comments: true
 ---
 <div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
 <strong>Corona measures:</strong><p>
-If you want to visit TkkrLab, we ask for your <a href="https://coronacheck.nl/">CoronaCheck</a> , this for our and your safety.
+If you want to visit TkkrLab, check our <a href="/corona">current corona</> rules! 
 </div>
+
+
+If you want to visit TkkrLab, check our [current corona](/corona) rules! 
 
 
 <img alt="CyberSaturday" src="/images/smd_soldering_catsplash.png" width="300px" height="300px" style="margin: 0px 30%;">

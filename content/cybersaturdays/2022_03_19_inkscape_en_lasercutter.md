@@ -8,6 +8,10 @@ disable_comments: true
 
 ## 19 Maart vanaf 14:00 Online ##
 
+<div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
+<strong>Corona measures:</strong><p>
+If you want to visit TkkrLab, check our <a href="/corona">current corona</> rules! 
+</div>
 
 {{< youtube JtGMao8C_nw >}}
 

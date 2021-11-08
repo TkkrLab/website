@@ -10,8 +10,8 @@ disable_comments: true
 <br />
 <br/>
 <div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
-<strong>Corona maatregelen :</strong><p>
-Indien u TkkrLab wil bezoeken vragen wij om uw [CoronaCheck](https://coronacheck.nl/), dit voor onze en uw veiligheid.
+<strong>Corona measures:</strong><p>
+If you want to visit TkkrLab, check our <a href="/corona">current corona</> rules! 
 </div>
 
 <br />
