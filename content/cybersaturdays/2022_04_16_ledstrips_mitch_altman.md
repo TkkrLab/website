@@ -7,7 +7,7 @@ disable_comments: true
 ---
 <div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
 <strong>Corona measures:</strong><p>
-If you want to visit TkkrLab, check our <a href="/corona">current corona</> rules! 
+If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules! 
 </div>
 
 <img alt="LED strip workshop" src="/images/led_strip.jpg" width="300px" height="300px" style="margin: 0px 30%;">
