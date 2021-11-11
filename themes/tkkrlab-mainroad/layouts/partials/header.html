@@ -8,6 +8,7 @@
 <script src="/progressbar.js"></script>
 <script src="/tkkrlab.js"></script>
 <script src="/jquery-3.4.1.min.js"></script>
+<script async defer data-website-id="aff01980-fbc2-4b24-b226-a85bfa52dffe" src="https://umami.tkkrlab.space/umami.js"></script>
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 {{ if .Site.Params.opengraph }}{{ template "_internal/opengraph.html" . }}{{ end }}
 {{ if .OutputFormats.Get "RSS"}}<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} Feed" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}">{{ end }}
