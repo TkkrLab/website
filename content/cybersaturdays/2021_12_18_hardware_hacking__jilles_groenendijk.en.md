@@ -10,8 +10,10 @@ disable_comments: true
 If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules! 
 </div>
 
-
-<img alt="Jilles Groenendijk" src="/images/julles_web.png" width="300px" height="300px" style="margin: 0px 30%;">
+<div style="margin: 0px 30%;">
+<img alt="Jilles Groenendijk" src="/images/julles_web.png" width="300px" height="300px">
+<h6>Photo by d.vanzuijlekom</h6>
+</div>
 
 ## 18 December vanaf 14:00  ##
 

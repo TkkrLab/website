@@ -10,8 +10,10 @@ disable_comments: true
 If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules! 
 </div>
 
-
-<img alt="Jilles Groenendijk" src="/images/julles_web.png" width="300px" height="300px" style="margin: 0px 30%;">
+<div style="margin: 0px 30%;">
+<img alt="Jilles Groenendijk" src="/images/julles_web.png" width="300px" height="300px">
+<h6>Foto door d.vanzuijlekom</h6>
+</div>
 
 ## 18 December van 14:00 tot 17:30 ##
 
@@ -46,7 +48,7 @@ Jilles heeft ook een interview gegeven voor (Cyberhelden)[https://www.cyberhelde
 <hr>
 Wanneer : Zaterdag 18 December 2021 14:00
 
-Waar : TkkrLab, Marssteden 98, Enschede en online livestream via on [youtube kanaal](https://youtube.com/tkkrlab)
+Waar : TkkrLab, Marssteden 98, Enschede en online livestream via ons [youtube kanaal](https://youtube.com/tkkrlab)
 
 Kosten : gratis, reserveer je ticket in onze [ticket shop](https://tickets.tkkrlab.space/TkkrLab/Jilles/)
 
