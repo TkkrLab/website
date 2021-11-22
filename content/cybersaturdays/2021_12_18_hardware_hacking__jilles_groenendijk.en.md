@@ -41,10 +41,12 @@ He has been teaching science and technology to children in elementary school. Hi
 
 Last year he started an interactive livestream where a telephone was created, communication via laserbeams, and he turned domotic sensors into a high sensitive alarm system.
 
-<hr>
-When : Zaterdag 18 December 2021 14:00
+Jilles gave an interview for (Cyberhelden)[https://www.cyberhelden.nl/episodes/episode-38/], podcast about the greatest cyberheros of the Netherlands 
 
-Where : TkkrLab
+<hr>
+When : Saturday 18 December 2021 14:00
+
+Where : TkkrLab, Marssteden 98, Enschede and online livestream via our [youtube channel](https://youtube.com/tkkrlab)
 
 Cost : free, reserve your ticket in our [ticket shop](https://tickets.tkkrlab.space/TkkrLab/Jilles/)
 

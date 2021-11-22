@@ -27,7 +27,7 @@ Aan het einde van de lezing is een kleine CTF waar je kunt ervaren wat je net he
 
 Duur van de workshop: 3 - 3,5 uur
 
-Het interactieve gedeelte vereist een webbrowser
+Het interactieve gedeelte vereist een webbrowser, neem hiervoor je eigen laptop mee.
 
 ## Over Jilles Groenendijk
 
@@ -41,10 +41,12 @@ Hij geeft les in wetenschap en technologie aan kinderen op de basisschool. Zijn 
 
 Vorig jaar startte hij een interactieve livestream waarin een telefoon werd gecreëerd, communicatie via laserstralen en hij veranderde domotica-sensoren in een hooggevoelig alarmsysteem.
 
+Jilles heeft ook een interview gegeven voor (Cyberhelden)[https://www.cyberhelden.nl/episodes/episode-38/], podcast waarin de grootste cyberhelden van Nederland centraal staan.
+
 <hr>
 Wanneer : Zaterdag 18 December 2021 14:00
 
-Waar : TkkrLab
+Waar : TkkrLab, Marssteden 98, Enschede en online livestream via on [youtube kanaal](https://youtube.com/tkkrlab)
 
 Kosten : gratis, reserveer je ticket in onze [ticket shop](https://tickets.tkkrlab.space/TkkrLab/Jilles/)
 
