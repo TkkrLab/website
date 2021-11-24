@@ -43,7 +43,7 @@ He has been teaching science and technology to children in elementary school. Hi
 
 Last year he started an interactive livestream where a telephone was created, communication via laserbeams, and he turned domotic sensors into a high sensitive alarm system.
 
-Jilles gave an interview for (Cyberhelden)[https://www.cyberhelden.nl/episodes/episode-38/], podcast about the greatest cyberheros of the Netherlands 
+Jilles gave an interview for [Cyberhelden](https://www.cyberhelden.nl/episodes/episode-38/) , podcast about the greatest cyberheros of the Netherlands 
 
 <hr>
 When : Saturday 18 December 2021 14:00

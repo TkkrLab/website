@@ -43,7 +43,7 @@ Hij geeft les in wetenschap en technologie aan kinderen op de basisschool. Zijn 
 
 Vorig jaar startte hij een interactieve livestream waarin een telefoon werd gecreëerd, communicatie via laserstralen en hij veranderde domotica-sensoren in een hooggevoelig alarmsysteem.
 
-Jilles heeft ook een interview gegeven voor (Cyberhelden)[https://www.cyberhelden.nl/episodes/episode-38/], podcast waarin de grootste cyberhelden van Nederland centraal staan.
+Jilles heeft ook een interview gegeven voor [Cyberhelden](https://www.cyberhelden.nl/episodes/episode-38/), podcast waarin de grootste cyberhelden van Nederland centraal staan.
 
 <hr>
 Wanneer : Zaterdag 18 December 2021 14:00
