@@ -1,5 +1,5 @@
 ---
-title: CyberSaturday The Practical engineer
+title: CyberSaturday Siliconen mallen maken door The Practical engineer
 date: 2021-01-01T00:00:00+02:00
 nodateline: true
 noprevnext: true
@@ -14,7 +14,7 @@ If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rul
 
 ## 15 Januari vanaf 14:00 ##
 
-### Leer Mallen maken met The Practical Engineer
+### Leer siliconen Mallen maken met The Practical Engineer
 
 Een mal maken om vervolgens meerdere exemplaren van hetzelfde product te kunnen maken. Het lijkt op het eerste gezicht wellicht ingewikkeld maar dat valt best wel mee. In deze workshop neemt Emiel (bekend van youtube channel "The Practical Engineer") je mee door het proces, vertel hij je alles wat je moet weten om aan de slag te kunnen en maken we zelf een eerste mal.
 
@@ -41,7 +41,11 @@ Wanneer : Zaterdag 15 Januari 2021 14:00
 
 Waar : TkkrLab, Marssteden 98, TkkrLab
 
-Kosten : Kosten voor materialen (Nog nader te bepalen).
+Kosten : Kosten voor materialen € 15,=
+
+Ticket : verplicht reserveren in onze ticket shop.
+
+
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
