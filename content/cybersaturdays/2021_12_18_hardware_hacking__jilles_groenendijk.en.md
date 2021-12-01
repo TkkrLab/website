@@ -10,40 +10,11 @@ disable_comments: true
 If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules! 
 </div>
 
-<div style="margin: 0px 30%;">
-<img alt="Jilles Groenendijk" src="/images/julles_web.png" width="300px" height="300px">
-<h6>Photo by d.vanzuijlekom</h6>
-</div>
-
 ## 18 December vanaf 14:00  ##
 
 ### Hardware Hacking for the absolute beginner - Jilles Groenendijk
 
-In this Hardware Hacking Workshop for the absolute beginner  Jilles will tell you about the challenges in hardware security and teach you how to identify the different components of a device.
-
-The different ways you can attack hardware and will he will even show you protocols on '0' and '1' level. All in his humorous style and no no-nonsense attitude. Spending 20 euro will get you very far according to Jilles and most participants will run to the thrift shop to get their hands dirty!
-
-At the end of the lecture is a small CTF where you can experience what you have just learned.
-
-### Don’t miss this.
-
-Workshop Duration: 3 - 3.5 hours
-
-The interactive part requires a web browser
-
-## About Jilles Groenendijk
-
-Jilles Groenendijk is a Hardware Hacker that works for Deloitte in The Netherlands. He learned his way around by tearing apart devices ever since he was a little boy.
-
-"I like to figure out how stuff works" is what drives him.
-
-He has been teaching science and technology to children in elementary school. His lectures and workshop are aimed for both adults and children;
-
-"Inspire the people and get them kickstarted"
-
-Last year he started an interactive livestream where a telephone was created, communication via laserbeams, and he turned domotic sensors into a high sensitive alarm system.
-
-Jilles gave an interview for [Cyberhelden](https://www.cyberhelden.nl/episodes/episode-38/) , podcast about the greatest cyberheros of the Netherlands 
+This workshop has been canceled due to the Corona rules. Instead we will give an online introductory workshop about the [Raspberry Pi](/cybersaturdays/2021_12_18_raspberry_pi/).
 
 <hr>
 When : Saturday 18 December 2021 14:00

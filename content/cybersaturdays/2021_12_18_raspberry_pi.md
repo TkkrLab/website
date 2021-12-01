@@ -1,5 +1,5 @@
 ---
-title: CyberSaturday Hardware Hacking for the absolute beginner
+title: CyberSaturday Introductie Raspberry Pi
 date: 2021-01-01T00:00:00+02:00
 nodateline: true
 noprevnext: true
@@ -10,11 +10,32 @@ disable_comments: true
 If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules! 
 </div>
 
-## 18 December van 14:00 tot 17:30 ##
+## 18 December van 14:00 tot 15:00 ##
 
-### Hardware Hacking voor de absolute beginner - Jilles Groenendijk
+<div style="margin: 0px 30%;">
+<img alt="Raspberry Pi 4" src="/images/pi4.jpg" width="300px" height="300px">
+</div>
 
-Deze workshop is komen te vervallen ivm de Corona regels. Hiervoor in de plaats gaan we een online introductie workshop geven over de [Raspberry Pi](/cybersaturdays/2021_12_18_raspberry_pi/).
+
+### Introductie Raspberry Pi
+Met deze introductie willen we je bekend maken met de mogelijkheden van een Raspberry Pi.
+
+Onderwerpen : 
+
+ * Raspberry Pi vs Arduino
+ * GPIO
+ * Verschillende versie Pi
+ * Maken image voor Pi
+ * Basis linux commando's (ssh, ls, rm etc.)
+
+ Na de workshop is er ruime gelegenheid om vragen te stellen en eventuele ervaringen te delen.
+
+<hr>
+Wanneer : Zaterdag 18 December 2021 14:00
+
+Waar : Via [Big Blue Button](https://bbb.do.speakup.nl/b/dav-fxz-fhn) en livestream via ons [youtube kanaal](https://youtube.com/tkkrlab) 
+
+Kosten : gratis
 
 <hr>
 

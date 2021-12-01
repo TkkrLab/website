@@ -26,7 +26,7 @@ Tijdens de workshop zal hij oa de volgende punten bespreken:
 
 De mal die we gaan maken is een 1 zijdige mal van siliconen. Dit houdt in dat 1 kant van de mal open blijft en dit dus vooral geschikt is voor objecten met 1 vlakke kant.
 
-Als je zelf een klein object (kleiner dan 10x10 cm)  hebt waar je een mal van wil maken neem die dan mee, dan kijken we of dat in de workshop lukt. Ook voor objecten zonder vlakke kanten zijn oplossingen dus iets als een tang zou ook kunnen.
+Als je zelf een klein object (kleiner dan 10x10 cm) hebt waar je een mal van wil maken neem die dan mee, dan kijken we of dat in de workshop lukt. Ook voor objecten zonder vlakke kanten zijn oplossingen dus iets als een tang zou ook kunnen.
 
 ## Over The Practical engineer
 
@@ -37,20 +37,24 @@ Emiel is een maker met een passie voor experimenteren, nieuwe skills leren en ga
 Het echte maken begon tijdens zijn opleiding. Tijdens de opleiding was bijna alles theorie en maar heel weinig echt maken. Dat leek hem niet optimaal en dus is hij zelf projecten gaan bedenken. Al snel had hij door dat je niet alleen veel sneller dingen leert maar dat het ook nog eens de leukste manier is om een betere maker en engineer te worden. Sindsdien heb heeft hij altijd één of meerdere projecten in progress.
 
 <hr>
-Wanneer : Zaterdag 15 Januari 2021 14:00
+Wanneer : Zaterdag 15 Januari 2021 14:00-18:00
 
 Waar : TkkrLab, Marssteden 98, TkkrLab
 
 Kosten : Kosten voor materialen € 15,=
 
-Ticket : verplicht reserveren in onze ticket shop.
+Ticket : verplicht reserveren in onze [ticket shop](https://tickets.tkkrlab.space/TkkrLab/siliconenmallen/).
 
-
-
+<hr>
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
-
 [CyberSaturday](/cybersaturdays/cybersaturday/) is een maandelijkse evenement bij TkkrLab, zie onze [agenda](/agenda/) voor het volledige programma
+
+Met dank aan [Silicones and more](https://www.siliconesandmore.com/) voor de sponsoring van deze workshop. 
+
+<a href="https://www.siliconesandmore.com/">
+<img width=50% src="/images/silicones-and-more.png"  alt="Logo silicones and more">
+</a>
 
 Dit evenement word mede mogelijk gemaakt door [Creative broedplaats Twente](http://www.creatievebroedplaatsentwente.nl/).
 

@@ -30,16 +30,16 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 * Sept 18 - [Nederlandse Cyborg - Patrick Paumen](/cybersaturdays/2021_09_18_nederlandse_cyborg_patrick_paumen/)
 * Okt 16 - [Mathematische kunst - Rinus Roelofs](/cybersaturdays/2021_10_16_mathematische_kunst__rinus_roelofs/)
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
-* Dec 18 - [Hardware hacking - Jilles Groenendijk](/cybersaturdays/2021_12_18_hardware_hacking__jilles_groenendijk/)
+* Dec 18 - [Introductie Raspberry Pi](/cybersaturdays/2021_12_18_raspberry_pi/) (hardware workshop verplaatst naar 19 Feb 2022)
 
 ### Programma 2022
 Hieronder vind je de presentaties/workshops die voor 2022 bevestigd zijn:
 
 
 * 15 Jan. [Leer mallen maken met the practical engineer](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
-* 19 Feb. - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
+* 18 Feb. - [Hardware hacking - Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
+* 19 Maart - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_03_19_ctf_leermiddel_voor_jong_en_oud/
 )
-* 19 Maart - [Workshop Lasercutter – Dave Borghuis](/cybersaturdays/2022_03_19_inkscape_en_lasercutter/)
 * 26 Maart - Internationaal hackerspace Open dag
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
