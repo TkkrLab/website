@@ -34,10 +34,9 @@ The events will also be recorded and published on our [youtube channel] (https:/
 For 2022 the following speakers are confirmed :
 
 * 15 Jan. [Leer mallen maken met the practical engineer](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
-
+* 19 Feb. - [Hardware hacking - Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
 * 19 March - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
 )
-* 18 Feb. - [Hardware hacking - Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
 * 26 Maart - Internationaal hackerspace Open dag
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
