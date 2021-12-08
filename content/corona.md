@@ -24,3 +24,4 @@ Wij (of de corona check) slaan geen gegevens op.
 Deze maatregelen nemen we voor onze en jouw gezondheid. 
 
 Voor meer informatie zie de site met [landelijke maatregelen](https://coronadashboard.rijksoverheid.nl/landelijk/maatregelen)
+
