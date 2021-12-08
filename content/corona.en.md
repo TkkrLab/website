@@ -16,6 +16,8 @@ We follow the national measures for events, so if you want to visit TkkrLab this
 
 * Your requested to show the [CoronaCheck](https://coronacheck.nl/) QR-Code.
 * Your requested to show your ID (for QR Code verification only).
+* Only members are allowed to visit the space. Visitors are not welcome now.
+
 
 We (from the corona check) do not store any data.
 
