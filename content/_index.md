@@ -36,7 +36,7 @@ We organiseren regelmatig evenementen zoals lezingen en workshops die voor onze 
 Hebben we jouw interesse gewekt? Kom dan geheel vrijblijvend eens op bezoek en maak kennis met onze community, deelnemers en de mogelijkheden van hackerspace TkkrLab.
 <br />
 <br />
-Rechts bovenin vindt je de space status. Als we geopend zijn dan ben je altijd van harte welkom! In onze [heatmap](https://tkkrlab.nl/state.php) kun je zien wanneer we gemiddeld open zijn, wil je zeker weten of we er nog even zijn kun je altijd even [contact](/contact/) met ons zoeken.
+Rechts bovenin vindt je de space status. Als we geopend zijn dan ben je altijd van harte welkom! In onze [heatmap](https://mapall.space/heatmap/show.php?id=TkkrLab) kun je zien wanneer we gemiddeld open zijn, wil je zeker weten of we er nog even zijn kun je altijd even [contact](/contact/) met ons zoeken.
 <br />
 <br />
 Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/blog/) waar we de laatste nieuwtjes op plaatsen.
