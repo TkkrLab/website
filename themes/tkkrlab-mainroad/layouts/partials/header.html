@@ -27,7 +27,7 @@
 						<h1 class="logo__title">{{ .Site.Title }}</h1>
 						{{ with .Site.Params.subtitle }}<h2 id="logo__tagline" class="logo__tagline">{{ . }}</h2>{{ end }}
 					</a>
-				</div><br />
+				</div>
 				<div class="space-status-container">
                 {{ if .Site.IsMultiLingual }}
                     {{ range .Site.Languages }}
@@ -39,7 +39,7 @@
                             <a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}"><img src="/icons/{{ .Language }}.png" alt="{{ .Language.LanguageName }}" /></a>
                         {{ end }}
                 {{ end }}
-				<span class="space-status" id="space-status"><span class="unknown">&nbsp;</span></span></span></div>
+				<br /><span class="space-status" id="space-status"><span class="unknown">&nbsp;</span></span></span></div>
 			</div>
 			{{ partial "menu.html" . }}
 		</header>
