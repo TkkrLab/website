@@ -105,6 +105,11 @@ var chat = [];
 var lastSpacestate = null;
 var temperature = null;
 var humidity = null;
+
+function escapeHtml(unsafe) {
+    return unsafe.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#039;');
+}
+
 function setSpaceState(state=null) {
 	console.log("Spacestate changed to ", state);
 	if (state != null) lastSpacestate = state;
@@ -115,7 +120,7 @@ function setSpaceState(state=null) {
 	} else if (lastSpacestate=="0") {
 		text = state_prefix+"<span class='closed'>gesloten</span>";
 	} else {
-		text = state_prefix+"<span class='unknown'>onbekend</span>";
+		text = state_prefix + "<span class='unknown'>" + escapeHtml(lastSpacestate) + "</span>";
 	}
 	if (temperature) text += "<br />T: "+String(temperature)+"&deg;c";
 	if (humidity)    text += " / H: "+String(humidity)+"%"
