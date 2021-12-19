@@ -102,7 +102,7 @@ var chat = [];
     elem.innerHTML = chatLines;  
 }*/
 
-var lastSpacestate = null;
+var lastSpacestate = "UNKNOWN";
 var temperature = null;
 var humidity = null;
 
