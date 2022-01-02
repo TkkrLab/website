@@ -36,7 +36,7 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 Hieronder vind je de presentaties/workshops die voor 2022 bevestigd zijn:
 
 
-* 15 Jan. [Leer mallen maken met the practical engineer](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
+* Geannuleerd 15 Jan. [Leer mallen maken met the practical engineer](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
 * 19 Feb. - [Hardware hacking - Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
 * 19 Maart - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_03_19_ctf_leermiddel_voor_jong_en_oud/
 )

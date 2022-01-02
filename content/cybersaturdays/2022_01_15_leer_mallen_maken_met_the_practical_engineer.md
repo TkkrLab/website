@@ -12,6 +12,12 @@ If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rul
 
 <img alt="Mallen maken met The Practical engineer" src="/images/mallen maken met the practical engineer.jpg" width="300px" height="300px" style="margin: 0px 30%;">
 
+# Deze workshop word verschoven tot NA coronalockdown. #
+
+Helaas kan deze workshop niet doorgaan ivm corona. We zullen deze workshop gaan vervangen met een online workshop.
+Volg onze berichtgeving of [nieuwsbrief](http://eepurl.com/gLxrLD) als je op de hoogte wil blijven.
+
+
 ## 15 Januari vanaf 14:00 ##
 
 ### Leer siliconen Mallen maken met The Practical Engineer
