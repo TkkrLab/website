@@ -35,12 +35,6 @@ Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op
 
 [CyberSaturday](/cybersaturdays/cybersaturday/) is een maandelijkse evenement bij TkkrLab, zie onze [agenda](/agenda/) voor het volledige programma
 
-Met dank aan [Silicones and more](https://www.siliconesandmore.com/) voor de sponsoring van deze workshop. 
-
-<a href="https://www.siliconesandmore.com/">
-<img width=50% src="/images/silicones-and-more.png"  alt="Logo silicones and more">
-</a>
-
 Dit evenement word mede mogelijk gemaakt door [Creative broedplaats Twente](http://www.creatievebroedplaatsentwente.nl/).
 
 <img width=50% src="/images/Logo-Creatieve-Broedplaatsen-Twente.jpg"  alt="Logo creative broedplaats twente">
