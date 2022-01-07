@@ -15,8 +15,20 @@ Ab 2021 haben wir einen Zuschuss erhalten, der es ermöglicht, diesen monatlich 
 
 Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/user/TkkrLab) aufgezeichnet und veröffentlicht.
 
-### Planung für den CyberSaturdays 2021 :
 
+### Programma 2022
+Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
+
+* 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
+* 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
+* 19 Mar - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
+)
+* 26 Maart - Internationaal hackerspace Open dag
+* 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
+* 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
+
+
+### CyberSaturdays 2021 :
 
 * Jan 16 - [Presentatie programma](/cybersaturdays/2021_01_16_presentatie_programma/) (bekijk deze op [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
 * Feb 20 - [Online Privacy door Dave Borghuis](/cybersaturdays/2021_02_20_online_privacy/)   
@@ -30,20 +42,6 @@ Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/
 * Okt 16 - [Mathematische kunst - Rinus Roelofs](/cybersaturdays/2021_10_16_mathematische_kunst__rinus_roelofs/)
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
 * Dec 18 - [Hardware hacking - Jilles Groenendijk](/en/cybersaturdays/2021_12_18_hardware_hacking__jilles_groenendijk/)
-
-### Programma 2022
-Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
-
-
-* Abgesagt : 15 Jan. [Leer mallen maken met the practical engineer](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
-* 19 Feb. - [Hardware hacking - Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
-* 19 Mar - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
-)
-* 26 Maart - Internationaal hackerspace Open dag
-* 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
-* 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
-
-
 
 
 <br /><br />

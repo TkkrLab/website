@@ -16,7 +16,22 @@ Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maande
 De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www.youtube.com/user/TkkrLab) gepubliceerd worden.
 
 
-### Planning voor CyberSaturday 2021 :
+
+### Programma 2022
+Hieronder vind je de presentaties/workshops die voor 2022 bevestigd zijn:
+
+De fysieke bijeenkomsten zijn tot maart uitgesteld. Als de coronamaatregelingen fysieke bijeenkomsten weer toestaan gaan we deze opnieuw inplannen.
+
+* 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
+* 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
+* 19 Maart - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_03_19_ctf_leermiddel_voor_jong_en_oud/
+) (remote)
+* 26 Maart - Internationaal hackerspace Open dag
+* 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
+* 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
+
+
+### Programma 2021 :
 
 
 * Jan 16 - [Presentatie programma](/cybersaturdays/2021_01_16_presentatie_programma/) (bekijk deze op [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
@@ -32,17 +47,6 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
 * Dec 18 - [Introductie Raspberry Pi](/cybersaturdays/2021_12_18_raspberry_pi/) (hardware workshop verplaatst naar 19 Feb 2022)
 
-### Programma 2022
-Hieronder vind je de presentaties/workshops die voor 2022 bevestigd zijn:
-
-
-* Geannuleerd 15 Jan. [Leer mallen maken met the practical engineer](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
-* 19 Feb. - [Hardware hacking - Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
-* 19 Maart - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_03_19_ctf_leermiddel_voor_jong_en_oud/
-)
-* 26 Maart - Internationaal hackerspace Open dag
-* 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
-* 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
 
 <br /><br />
 Dit evenement word mede mogelijk gemaakt door [Creative broedplaats Twente](http://www.creatievebroedplaatsentwente.nl/).

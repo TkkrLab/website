@@ -14,7 +14,19 @@ From 2021 we have received a subsidy which makes it possible to organize this mo
 
 The events will also be recorded and published on our [youtube channel] (https://www.youtube.com/user/TkkrLab).
 
-### Planning for CyberSaturday 2021 :
+### Programma 2022
+For 2022 the following speakers are confirmed :
+
+* 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
+* 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
+* 19 March - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
+)
+* 26 Maart - Internationaal hackerspace Open dag
+* 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
+* 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
+
+
+### CyberSaturday 2021 :
 
 
 * Jan 16 - [Presentation programma](/cybersaturdays/2021_01_16_presentatie_programma/) (watch on [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
@@ -29,18 +41,6 @@ The events will also be recorded and published on our [youtube channel] (https:/
 * Okt 16 - [Mathematische kunst - Rinus Roelofs](/cybersaturdays/2021_10_16_mathematische_kunst__rinus_roelofs/)
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
 * Dec 18 - [Introductie Raspberry Pi](/cybersaturdays/2021_12_18_raspberry_pi/) (hardware workshop moved to 19 Feb 2022)
-
-### Programma 2022
-For 2022 the following speakers are confirmed :
-
-* Canceled : 15 Jan. [Leer mallen maken met the practical engineer](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
-* 19 Feb. - [Hardware hacking - Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
-* 19 March - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
-)
-* 26 Maart - Internationaal hackerspace Open dag
-* 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
-* 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
-
 
 
 <br /><br />
