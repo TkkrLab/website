@@ -12,7 +12,7 @@ Het liefst houden wij natuurlijk een fysieke bijeenkomsten tijdens de CyberSatur
 
 Hieronder de nieuwe [agenda](https://tkkrlab.nl/agenda/) :
 
- * 15 jan “Betrouwbare software schrijven” door Jurjen Stellingwerf
+ * 15 jan “Betrouwbare software schrijven” door Jurjen Stellingwerff
  * 19 Feb. Introductie Asterisk door Nick / speakup
  * 19 Maart “CTF leermiddel voor jong en oud” door Julian
  * 26 Maart Hackerspace Open Dag (onder voorbehoud)
