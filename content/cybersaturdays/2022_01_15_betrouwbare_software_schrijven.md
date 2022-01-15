@@ -7,7 +7,8 @@ disable_comments: true
 ---
 <div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;"><strong>Corona measures:</strong><p>If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules!</div>
 <br>
-<img alt="Betrouwbare software nasa raket" src="/images/nasa_rocket.jpg" width="300px" height="300px" style="margin: 0px 30%;">
+
+<iframe style="margin: 0px 10%;" width="560" height="315" src="https://www.youtube.com/embed/mIK8n_aVi6E?start=121" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 15 Januari vanaf 14:00 ##
 
@@ -22,8 +23,6 @@ Jurjen Stellingwerff is een programmeur met interesse voor computer beveiliging.
 
 <hr>
 Wanneer : Zaterdag 15 Januari 2021 14:00-18:00
-
-Waar : [weblink](https://bbb.do.speakup.nl/b/dav-fxz-fhn)
 
 Kosten : Gratis
 
