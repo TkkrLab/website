@@ -26,6 +26,11 @@ For 2022 the following speakers are confirmed :
 * 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
 
 
+#### Uitgesteld ivm corona - word na corona weer ingepland.
+* [Hardware hacking met Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
+* [Siliconen mallen maken met "The practical engineer"](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
+
+
 ### CyberSaturday 2021 :
 
 

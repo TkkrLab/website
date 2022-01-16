@@ -15,7 +15,7 @@ If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rul
 <h6>Foto door d.vanzuijlekom</h6>
 </div>
 
-## 19 Feb van 14:00 tot 17:30 ##
+# Deze workshop word verschoven tot NA coronalockdown.
 
 ### Hardware Hacking voor de absolute beginner - Jilles Groenendijk
 
@@ -46,7 +46,7 @@ Vorig jaar startte hij een interactieve livestream waarin een telefoon werd gecr
 Jilles heeft ook een interview gegeven voor [Cyberhelden](https://www.cyberhelden.nl/episodes/episode-38/), podcast waarin de grootste cyberhelden van Nederland centraal staan.
 
 <hr>
-Wanneer : Zaterdag 19 Feb. 14:00
+Wanneer : ??
 
 Waar : TkkrLab, Marssteden 98, Enschede en online livestream via ons [youtube kanaal](https://youtube.com/tkkrlab)
 
