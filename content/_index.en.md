@@ -19,7 +19,7 @@ If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rul
 
 <br />
 
-Hackerspace TkkrLab is a community is a community that [facilitates](https://handleidingen.tkkrlab.space/handleidingen/make_everything/) self-development in technology. Each participant has his own area of ​​interest. One person may be mainly involved with software (eg embedded, home automation, websites and more), another builds 3d printers or a CNC mill while someone else designs his own electronic circuit boards to control a robot. The common factor here is that everything is technical and / or creative in the broadest sense of the word. By exchanging knowledge and experience in our community, there is always someone present who can help you with your [projects](/projects/).
+Hackerspace TkkrLab is a community that [facilitates](https://handleidingen.tkkrlab.space/handleidingen/make_everything/) self-development in technology. Each participant has his own area of ​​interest. One person may be mainly involved with software (eg embedded, home automation, websites and more), another builds 3d printers or a CNC mill while someone else designs his own electronic circuit boards to control a robot. The common factor here is that everything is technical and / or creative in the broadest sense of the word. By exchanging knowledge and experience in our community, there is always someone present who can help you with your [projects](/projects/).
 
 <br>
 
