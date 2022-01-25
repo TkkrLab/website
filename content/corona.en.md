@@ -12,7 +12,7 @@ menu:
 
 ### TkkrLab Corona rules 
 
-We follow the national measures for events, so if you want to visit TkkrLab this means that:
+We follow the national measures, so if you want to visit TkkrLab this means that:
 
 * Your requested to show the [CoronaCheck](https://coronacheck.nl/) QR-Code.
 * Your requested to show your ID (for QR Code verification only).
