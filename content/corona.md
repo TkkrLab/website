@@ -17,7 +17,8 @@ We volgen de landelijke maatregelen voor evenementen indien je op bezoek wil kom
 
 * Je gevraagd word om een [CoronaCheck](https://coronacheck.nl/) QR-Code.
 * Je gevraagd word om ID (uitsluitend ter controle van de QR-Code).
-* Alleen members zijn toegestaan, bezoekers zijn nu niet welkom.
+* Alternatief kun je terplekke een zelf meegenemen  een coronacheck doen.
+* Bezoekers zijn welkom, je hoeft geen afspraak te maken.
 
 Wij (of de corona check) slaan geen gegevens op.
 
