@@ -15,6 +15,8 @@ menu:
 
 We volgen de landelijke maatregelen indien je op bezoek wil komen bij TkkrLab. Concreet betekent dit dat :
 
+Vanaf 25 Feb. 2022 zijn alle maatregelen vervallen en kan je op bezoek komen en meedoen met onze evenementen zoals de CyberSaturday.
+
 * Bezoekers zijn welkom, je hoeft geen afspraak te maken.
 * Je gevraagd wordt om een [CoronaCheck](https://coronacheck.nl/) QR-Code.
 * Je gevraagd word om ID (uitsluitend ter controle van de QR-Code).

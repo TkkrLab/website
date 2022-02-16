@@ -7,7 +7,6 @@ thumbnail: "/images/cyber_saturday.png"
 <img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0 30%;">
 
 De huidige corona maatregelen bij TkkrLab staan op de [corona](/corona/) pagina.
-De huidige corona maatregelen bij TkkrLab staan op de [corona](/corona/) pagina.
 
 ### Aangepaste planning CyberSaturdays (ivm corona)
 Het liefst houden wij natuurlijk een fysieke bijeenkomsten tijdens de CyberSaturday, maar helaas kunnen wij dat door de huidige corona regels niet. Wij gaan ervan uit dat wij tot maart te maken hebben met deze regels. De huidige agenda voor de CyberSaturday hebben wij daarom aangepast. Workshops die enkel fysiek gehouden kunnen worden hebben wij uitgewisseld met workshops die online gegeven kunnen worden. 

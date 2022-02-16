@@ -12,6 +12,8 @@ menu:
 
 ### TkkrLab Corona rules 
 
+From 25 Feb. By 2022, all measures will have expired and you can visit and participate in our events such as CyberSaturday.
+
 We follow the national measures, so if you want to visit TkkrLab this means that:
 
 * Visitors are welcome, no need for an appointment.
