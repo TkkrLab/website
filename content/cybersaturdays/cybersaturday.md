@@ -22,17 +22,21 @@ Hieronder vind je de presentaties/workshops die voor 2022 bevestigd zijn:
 
 De fysieke bijeenkomsten zijn tot maart uitgesteld. Als de coronamaatregelingen fysieke bijeenkomsten weer toestaan gaan we deze opnieuw inplannen.
 
-* 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
-* 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
 * 19 Maart - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_03_19_ctf_leermiddel_voor_jong_en_oud/
 ) (remote)
 * 26 Maart - Internationaal hackerspace Open dag
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
+* 18 Juni - [Hardware hacking met Jilles Groenendijk](/cybersaturdays/hardware_hacking__jilles_groenendijk/)
 * 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
 
 #### Uitgesteld ivm corona - word na corona weer ingepland.
-* [Hardware hacking met Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
 * [Siliconen mallen maken met "The practical engineer"](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
+
+# History
+
+### Programma 2022 :
+* 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
+* 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
 
 
 ### Programma 2021 :
@@ -45,7 +49,6 @@ De fysieke bijeenkomsten zijn tot maart uitgesteld. Als de coronamaatregelingen 
 * Mei 15 - [Workshop Lasercutter – Dave Borghuis](/cybersaturdays/2021_05_15_inkscape_en_lasercutter/)
 * Jun 19 - [Werken aan computer security](/cybersaturdays/2021_06_19_werken_aan_computersecurity/) ( 2 / 2 ) – Jurjen Stellingwerff
 * Jul 17 - [3d print wedstrijd](/cybersaturdays/2021_07_17_3d_print_wedstrijd/) - Govert Combé & Yvo de Haas
-* Tijdens vakantie geen CyberSaturday, deelnemers van TkkrLab gaan dan wel naar [Bornhack](https://bornhack.dk/) (19-26 aug) in Denemarken. [MCH2021](https://mch2021.org/) wordt doorgeschoven naar 2022 ivm Corona.
 * Sept 18 - [Nederlandse Cyborg - Patrick Paumen](/cybersaturdays/2021_09_18_nederlandse_cyborg_patrick_paumen/)
 * Okt 16 - [Mathematische kunst - Rinus Roelofs](/cybersaturdays/2021_10_16_mathematische_kunst__rinus_roelofs/)
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)

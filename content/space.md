@@ -15,18 +15,17 @@ Alle spullen in de ruimte zijn bij elkaar verzameld door de deelnemers, het Tkkr
 
 Je vindt er alles wat je als hacker (geek / hobbyist / programmeur / elektrotechnieker of beunhaas, hoe je jezelf ook wilt noemen) ooit nodig zult hebben EN meer!
 
-![space](/space1.jpg)
+![space](/images/space6_overview.jpg)
 
-Er is een lange tafel in het midden waar je rustig aan kunt werken. Daarnaast is er zithoek voor als je uit je werk lekker onderuit wilt zakken onder het genot van een Club Mate uit de volgeladen koelkast.
-Voor de iets meer technische dingen is er een grote werktafel waar alle voorzieningen te vinden zijn om ESD veilig met elektronica te werken. We hebben gereedschappen en componenten staan zodat je meteen kunt beginnen met prototypen.
+Er zijn grote tafels waar je rustig aan kunt werken. 
+Voor de iets meer technische dingen is er een werktafel waar alle voorzieningen te vinden zijn om ESD veilig met elektronica te werken. We hebben [gereedschappen](https://handleidingen.tkkrlab.space/gereedschappen/) en componenten staan zodat je meteen kunt beginnen met prototypen.
 
 ![space](/space2.jpg)
 
 Als je meer creatief bent aangelegd of gewoon een doosje wilt maken voor een projectje hebben we twee 3D printers staan waarmee je met PLA, PET of ABS kunt printen.
-Gebruik van de machines is voor deelnemers gratis, je betaald alleen materiaalkosten (maar je kunt natuurlijk ook je eigen fillament meenemen). Het idee is dat je van andere deelnemers instructie krijgt over het gebruik van een machine,
-waarna je zelf aan het experimenteren kunt. Uurtarieven en andere onzin zijn bij ons dus geen factoren waar je je druk om hoeft te maken.
+Gebruik van de [machines](https://handleidingen.tkkrlab.space/gereedschappen/) is voor deelnemers gratis, je betaald alleen materiaalkosten (maar je kunt natuurlijk ook je eigen fillament meenemen). Het idee is dat je van andere deelnemers instructie krijgt over het gebruik van een machine, waarna je zelf aan het experimenteren kunt. Uurtarieven en andere onzin zijn bij ons dus geen factoren waar je je druk om hoeft te maken. Iedere deelnemer krijgt een eigen bak in de opslag, als veilige plek om je lopende projecten in op te bergen.
 
-Tot slot hebben we een arcade kast met RetroPi setup en hoop spelcomputers waar je op kunt gamen en heeft iedere deelnemer een eigen bak in de opslag, als veilige plek om je lopende projecten in op te bergen.
+Tot slot hebben we een presentatie ruimte beamer en de nodige spelcomputers waarop je ontspannen door een spel te spelen. Hier staat ook onze Giant NES joystick als je meer een uitdaging wil hebben met het spelen van een retro game.
 
 Heb je interesse? Als we open zijn (zie rechts bovenin) is er iemand aanwezig en kan je dus langs komen.
 
@@ -52,6 +51,4 @@ Onze werkplaats is voorzien van een lasercutter, CNC frees, zaagtafel, twee kolo
 Als je deelnemer wordt krijg je natuurlijk ook 24/7 toegang tot de werkplaats, daarnaast geldt ook hier dat je alleen materiaalkosten betaald.
 Tijd genoeg dus om rustig te leren hoe je de machines kunt gebruiken om je projecten uit te werken.
 
-![werkplaats](/werkplaats1.jpg)
-
-![werkplaats](/werkplaats2.jpg)
+![werkplaats](/images/werkplaats marssteden 2 web.jpeg)

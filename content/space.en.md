@@ -15,9 +15,9 @@ All the gear in the space is collected by the participants, TkkrLab is 100% a pl
 
 You can find everything what you as hacker will (geek / hobbyist / programmer / electro engineer or 'beunhaas', whatever you want to call yourself) need and more.
 
-![space](/space1.jpg)
+![space](/images/space6_overview.jpg)
 
-We have a long table where you can work at. If you want to relax we have a seating area where you can play a (retro) game and enjoy a bottle of Club-Mate. For more technical activities we have a fully equipped ESD safe electro workplace. We have tools and equipment so you can start building with your prototypes.
+We have big tables where you can work at. If you want to relax we have a seating area where you can play a (retro) game and enjoy a bottle of Club-Mate. For more technical activities we have a fully equipped ESD safe electro workplace. We have tools and equipment so you can start building with your prototypes.
 
 ![space](/space2.jpg)
 
@@ -51,6 +51,4 @@ Our workplace have a laser cutter, CNC frees, saw table, drill press, hand tools
 
 As participant you get 24/7 access to the workplace, you only have to pay the used materials. 
 
-![werkplaats](/werkplaats1.jpg)
-
-![werkplaats](/werkplaats2.jpg)
+![werkplaats](/images/werkplaats marssteden 2 web.jpeg)

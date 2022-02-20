@@ -25,11 +25,12 @@ Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
 )
 * 26 Maart - Internationaal hackerspace Open dag
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
+* [Hardware-Hacking mit Jilles Groenendijk](/cybersaturdays/hardware_hacking__jilles_groenendijk/)
 * 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
 
 
 #### Verschoben auf nach dem aktuellen Corona-Lockdown.
-* [Hardware-Hacking mit Jilles Groenendijk](/cybersaturdays/2022_02_19_hardware_hacking__jilles_groenendijk/)
+
 * [Silikonform machen mit "Der Praktiker"](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
 
 

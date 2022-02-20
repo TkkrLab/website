@@ -14,7 +14,7 @@ Alle Sachen im Raum wurden von den Teilnehmern gesammelt, das TkkrLab ist wirkli
 
 Sie finden alles, was Sie als Hacker jemals brauchen werden (Geek / Hobbyist / Programmierer / Elektrotechniker, wie auch immer Sie sich nennen möchten) UND vieles mehr!
 
-![space](/space1.jpg)
+![space](/images/space6_overview.jpg)
 
 In der Mitte befindet sich ein langer Tisch, an dem Sie nach Belieben arbeiten können. Es gibt auch einen Sitzbereich, in dem Sie sich von der Arbeit entspannen und einen Club Mate aus dem voll beladenen Kühlschrank genießen können.
 Für die etwas technischeren Dinge gibt es einen großen Arbeitstisch, an dem alle Einrichtungen vorhanden sind, um ESD sicher mit Elektronik zu arbeiten. Wir haben Tools und Komponenten, mit denen Sie sofort mit dem Prototyping beginnen können.
@@ -51,6 +51,4 @@ Unsere Werkstatt ist mit einem Laserschneider, einer CNC-Fräsmaschine, einem S�
 Wenn Sie Teilnehmer werden, erhalten Sie natürlich auch rund um die Uhr Zugang zum Workshop. Außerdem zahlen Sie nur die Materialkosten.
 Genug Zeit, um leise zu lernen, wie Sie mit den Maschinen Ihre Projekte ausarbeiten.
 
-![Workshop](/werkplaats1.jpg)
-
-![Workshop](/werkplaats2.jpg)
+![werkplaats](/images/werkplaats marssteden 2 web.jpeg)
