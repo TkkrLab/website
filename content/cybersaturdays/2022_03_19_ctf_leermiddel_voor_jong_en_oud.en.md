@@ -12,26 +12,27 @@ If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rul
 
 <img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0px 30%;">
 
+## 19 March From 14:00 ##
 
-## 19 Maart Vanaf 14:00 ##
+Capture the Flags (CTFs) are the crossword puzzles of ICT professionals. But how do they work, what is the purpose and how can they be used as a learning tool?
 
-Capture the Flags (CTFs) zijn de kruiswoord puzzels van ICTers. Maar hoe werken ze, wat is het doel en hoe kunnen deze als leermiddel worden ingezet?
+In this presentation Julian takes you through the different types of CTFs and how they can be used in schools such as Media Awareness or in companies as a test for new products.
 
-In deze presentatie neemt Julian jullie door de verschillende soorten CTFs en hoe ze ingezet kunnen worden op bijvoorbeeld scholen als Media Awareness of in bedrijven als test voor nieuwe producten.
+You will also receive tips on how to start CTFs yourself and Julian walks you through a CTF to show you how to reach certain conclusions (or not).
 
-Daarnaast krijg je tips over hoe je zelf aan CTFs kunt beginnen en loopt Julian jullie door een CTF om te laten zien hoe er tot bepaalde conclusies getrokken wordt (Of juist niet).
-
-## Over Julian
-Deelnemer van TkkrLab en erg geïnteresseerd in CTF en zelf ook vaak een meegedaan.
+## About Julian
+Participant of TkkrLab and very interested in CTF and often participated myself.
 
 <hr>
-Wanneer : Zaterdag 19 Maart 2022 14:00
+When : Saturday 19 March 2022 14:00
 
-Waar : TkkrLab, Marssteden 98, Enschede
+Where : TkkrLab, Marssteden 98, Enschede
 
-Kosten : gratis, neem eigen laptop mee.
+Cost: free, bring your own laptop.
 
-Taal : Engels
+Language: English
+
+<hr>
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
