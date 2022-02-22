@@ -26,8 +26,13 @@ De fysieke bijeenkomsten zijn tot maart uitgesteld. Als de coronamaatregelingen 
 ) (remote)
 * 26 Maart - Internationaal hackerspace Open dag
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
+* 21 Mei - [Lasercutter workshop (met inkscape/lightburn)](/cybersaturdays/2022_05_21_inkscape_en_lasercutter/
+) 
 * 18 Juni - [Hardware hacking met Jilles Groenendijk](/cybersaturdays/hardware_hacking__jilles_groenendijk/)
+* 16 Juli - Nog onbekend.
 * 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
+* 11 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
+* 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
 #### Uitgesteld ivm corona - word na corona weer ingepland.
 * [Siliconen mallen maken met "The practical engineer"](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)

@@ -24,8 +24,10 @@ For 2022 the following speakers are confirmed :
 * 26 Maart - Internationaal hackerspace Open dag
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 18 Juni - [Hardware hacking met Jilles Groenendijk](/en/cybersaturdays/hardware_hacking__jilles_groenendijk/)
+* 16 Juli - to be determined.
 * 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
-
+* 11 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
+* 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
 #### Uitgesteld ivm corona - word na corona weer ingepland.
 * [Siliconen mallen maken met "The practical engineer"](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
