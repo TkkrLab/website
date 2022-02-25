@@ -23,7 +23,7 @@ Hieronder vind je de presentaties/workshops die voor 2022 bevestigd zijn:
 De fysieke bijeenkomsten zijn tot maart uitgesteld. Als de coronamaatregelingen fysieke bijeenkomsten weer toestaan gaan we deze opnieuw inplannen.
 
 * 19 Maart - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_03_19_ctf_leermiddel_voor_jong_en_oud/
-) (remote)
+)
 * 26 Maart - Internationaal hackerspace Open dag
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 21 Mei - [Lasercutter workshop (met inkscape/lightburn)](/cybersaturdays/2022_05_21_inkscape_en_lasercutter/
