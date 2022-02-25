@@ -1,5 +1,5 @@
 ---
-title: "Open dag Hackerspaces Nederland"
+title: "Open dag 26 Maart"
 date: 2022-02-24
 thumbnail: "/images/Tkkrlab.png"
 ---
