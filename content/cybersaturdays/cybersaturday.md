@@ -24,7 +24,7 @@ De fysieke bijeenkomsten zijn tot maart uitgesteld. Als de coronamaatregelingen 
 
 * 19 Maart - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_03_19_ctf_leermiddel_voor_jong_en_oud/
 )
-* 26 Maart - Internationaal hackerspace Open dag
+* 26 Maart - [Internationaal hackerspace Open dag](/blog/opendag-26-maart-2022/)
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 21 Mei - [Lasercutter workshop (met inkscape/lightburn)](/cybersaturdays/2022_05_21_inkscape_en_lasercutter/
 ) 

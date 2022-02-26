@@ -21,7 +21,7 @@ For 2022 the following speakers are confirmed :
 * 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
 * 19 March - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
 )
-* 26 Maart - Internationaal hackerspace Open dag
+* 26 Maart - [Internationaal hackerspace Open dag](/blog/opendag-26-maart-2022/)
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 18 Juni - [Hardware hacking met Jilles Groenendijk](/en/cybersaturdays/hardware_hacking__jilles_groenendijk/)
 * 16 Juli - to be determined.
