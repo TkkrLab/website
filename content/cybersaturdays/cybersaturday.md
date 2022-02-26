@@ -34,9 +34,6 @@ De fysieke bijeenkomsten zijn tot maart uitgesteld. Als de coronamaatregelingen 
 * 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
 * 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
-#### Uitgesteld ivm corona - word na corona weer ingepland.
-* [Siliconen mallen maken met "The practical engineer"](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
-
 # History
 
 ### Programma 2022 :

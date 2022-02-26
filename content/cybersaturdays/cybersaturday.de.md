@@ -31,10 +31,6 @@ Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
 * 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
 * 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
-#### Verschoben auf nach dem aktuellen Corona-Lockdown.
-
-* [Silikonform machen mit "Der Praktiker"](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
-
 
 ### CyberSaturdays 2021 :
 

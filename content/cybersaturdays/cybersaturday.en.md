@@ -29,12 +29,8 @@ For 2022 the following speakers are confirmed :
 * 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
 * 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
-#### Uitgesteld ivm corona - word na corona weer ingepland.
-* [Siliconen mallen maken met "The practical engineer"](/cybersaturdays/2022_01_15_leer_mallen_maken_met_the_practical_engineer/)
-
 
 ### CyberSaturday 2021 :
-
 
 * Jan 16 - [Presentation programma](/cybersaturdays/2021_01_16_presentatie_programma/) (watch on [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
 * Feb 20 - [Online Privacy by Dave Borghuis](/cybersaturdays/2021_02_20_online_privacy/)   
