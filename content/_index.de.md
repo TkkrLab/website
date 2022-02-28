@@ -8,7 +8,7 @@ disable_comments: true
 
 <div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
 <strong>Corona measures:</strong><p>
-Currently all restrictions have been lifted, check the<a href="/corona">corona</a> page for more information. 
+Currently all restrictions have been lifted, check the <a href="/corona">corona</a> page for more information. 
 </div>
 
 
