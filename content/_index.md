@@ -9,9 +9,9 @@ disable_comments: true
 🇬🇧🇩🇪 Can't read dutch? The main pages are translated to English and German, select language flag on top right of page.
 <br />
 <br/>
-<div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
+<div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
 <strong>Corona measures:</strong><p>
-If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules! 
+Currently all measures have been lifted, check the<a href="/corona">corona</a> page for more information. 
 </div>
 
 <br />
