@@ -6,9 +6,9 @@ noprevnext: true
 disable_comments: true
 ---
 
-<div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
+<div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
 <strong>Corona measures:</strong><p>
-If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules! 
+Currently all restrictions have been lifted, check the<a href="/corona">corona</a> page for more information. 
 </div>
 
 
