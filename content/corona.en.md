@@ -12,15 +12,6 @@ menu:
 
 ### TkkrLab Corona rules 
 
-From 25 Feb. By 2022, all measures will have expired and you can visit and participate in our events such as CyberSaturday.
-
-We follow the national measures, so if you want to visit TkkrLab this means that:
-
-* Visitors are welcome, no need for an appointment.
-* Your requested to show the [CoronaCheck](https://coronacheck.nl/) QR-Code.
-* Your requested to show your ID (for QR Code verification only).
-* Alternative you can do a corona selftest on sight.
-
-We (from the corona check) do not store any data.
+We follow the national measures. Currently all restrictions have been lifted, this means that you can visit without restrictions and participate in our events such as CyberSaturday.
 
 For more information see the site with [national measures](https://coronadashboard.rijksoverheid.nl/landelijk/maatregelen)
