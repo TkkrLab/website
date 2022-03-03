@@ -27,7 +27,7 @@ To facilitate these projects, we have various [tools](https://handleidingen.tkkr
 
 <br>
 
-We regularly organize events such as lectures and workshops that are of interest to our participants and target group. These are free for everyone to follow, check our agenda for the planned [CyberSaturdays](/cybersaturdays/cybersaturday/) and other events.
+We regularly organize events such as lectures and workshops that are of interest to our participants and target group. These are free for everyone to follow, check our [agenda](/agenda/) for the planned [CyberSaturdays](/cybersaturdays/cybersaturday/) and other events. See our [blog](/blog/) for the latest news. 
 
 <br>
 
@@ -35,9 +35,6 @@ Have we piqued your interest? Then come and visit us without any obligation and 
 <br />
 <br />
 In the right-top corner of our site you will find the space state. When we're open you're more than welome to come visit! See our [heatmap](https://mapall.space/heatmap/show.php?id=TkkrLab) to get an idea when we are normaly open.
-<br />
-<br />
-Look in our [agenda](/agenda/) for more information about our workshops and lectures. We also have a [blog](/blog/) for the latest news. 
 <br />
 <br />
 If you want keep posted about our activities you can subscribe on our [newsletter](http://eepurl.com/gLxrLD) or [contact](/contact/) us.

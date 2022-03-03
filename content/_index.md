@@ -29,7 +29,7 @@ Om deze projecten te faciliteren hebben we diverse [tools](https://handleidingen
 
 <br>
 
-We organiseren regelmatig evenementen zoals lezingen en workshops die voor onze deelnemers en doelgroep interessant zijn. Deze zijn voor iedereen gratis te volgen, kijk in onze agenda voor de geplande [CyberSaturdays](/cybersaturdays/cybersaturday/) en andere evenementen.
+We organiseren regelmatig evenementen zoals lezingen en workshops die voor onze deelnemers en doelgroep interessant zijn. Deze zijn voor iedereen gratis te volgen, kijk in onze [agenda](/agenda/) voor de geplande [CyberSaturdays](/cybersaturdays/cybersaturday/) en andere evenementen. In onze [blog](/blog/) staat onze laatste nieuws.
 
 <br>
 
@@ -37,9 +37,6 @@ Hebben we jouw interesse gewekt? Kom dan geheel vrijblijvend eens op bezoek en m
 <br />
 <br />
 Rechts bovenin vindt je de space status. Als we geopend zijn dan ben je altijd van harte welkom! In onze [heatmap](https://mapall.space/heatmap/show.php?id=TkkrLab) kun je zien wanneer we gemiddeld open zijn, wil je zeker weten of we er nog even zijn kun je altijd even [contact](/contact/) met ons zoeken.
-<br />
-<br />
-Kijk in onze [agenda](/agenda/) voor meer informatie over workshops en lezingen. We hebben ook een [blog](/blog/) waar we de laatste nieuwtjes op plaatsen.
 <br />
 <br />
 Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD) of kijk op onze [contact](/contact/) pagina om te zien hoe je ons kunt bereiken.
