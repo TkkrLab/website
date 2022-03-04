@@ -13,6 +13,6 @@ In een hackerspace komen creatieve techneuten fysiek bij elkaar om gezamenlijk p
 
 Wil je meteen aan de slag is het mogelijk om iets kleins te maken met onze lasercutter of 3d printer. Zo kun je eerste ervaring opdoen met deze apparatuur.
 
-Mocht je niet in de gelegenheid zijn om op deze dag te komen, we zijn vrijwel elke avond open. Check of we aanwezig zijn op onze site rechtboven. 
+Mocht je niet in de gelegenheid zijn om op deze dag te komen, we zijn vrijwel elke avond open. Check op onze site rechtsboven of we open zijn.
 
 [Deelnemende spaces Nederland](https://hackerspaces.nl/open-dag/) / [Deelnemende spaces wereldwijd](https://wiki.hackerspaces.org/International_hackerspace_Open_day_2022)

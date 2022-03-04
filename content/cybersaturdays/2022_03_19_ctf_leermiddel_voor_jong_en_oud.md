@@ -17,11 +17,11 @@ If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rul
 
 Capture the Flags (CTFs) zijn de kruiswoord puzzels van ICTers. Maar hoe werken ze, wat is het doel en hoe kunnen deze als leermiddel worden ingezet?
 
-In deze presentatie neemt Julian jullie door de verschillende soorten CTFs en hoe ze ingezet kunnen worden op bijvoorbeeld scholen als Media Awareness of in bedrijven als test voor nieuwe producten.
+In deze presentatie neemt Julian Roseboom jullie door de verschillende soorten CTFs en hoe ze ingezet kunnen worden op bijvoorbeeld scholen als Media Awareness of in bedrijven als test voor nieuwe producten.
 
 Daarnaast krijg je tips over hoe je zelf aan CTFs kunt beginnen en loopt Julian jullie door een CTF om te laten zien hoe er tot bepaalde conclusies getrokken wordt (Of juist niet).
 
-## Over Julian
+## Over Julian Roseboom
 Deelnemer van TkkrLab en erg geïnteresseerd in CTF en zelf ook vaak een meegedaan.
 
 <hr>
