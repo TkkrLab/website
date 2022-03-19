@@ -44,8 +44,9 @@ Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze 
 <br />
 Woon je niet in Enschede, maar lijkt een hackerspace je wel wat, kijk dan op [hackerspaces.nl] (https://hackerspaces.nl)
 <br />
-<br />
-![hackerspacekaart, Nederland](/images/Hackerspaces_nederland_kaart.png)  
+<br /> 
+<img src="/images/Hackerspaces_nederland_kaart.png" alt="kaart hackerspaces in Nederland" width="400px" style="margin-left: auto;
+  margin-right: auto; display: block;">
 
 Een kleine greep uit dit overzicht:
 
