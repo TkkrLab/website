@@ -1,6 +1,6 @@
 "use strict";
 
-const state_prefix = "Tkkrlab is nu ";
+const state_prefix = "Space state: ";
 
 var progress = {};
 var client = null;
@@ -118,12 +118,12 @@ function setSpaceState(state=null) {
 	if (lastSpacestate=="1") {
 		text = state_prefix+"<span class='open'>open</span>";
 	} else if (lastSpacestate=="0") {
-		text = state_prefix+"<span class='closed'>gesloten</span>";
+		text = state_prefix+"<span class='closed'>closed</span>";
 	} else {
-		text = state_prefix + "<span class='unknown'>" + escapeHtml(lastSpacestate) + "</span>";
+		text = state_prefix + "<span class='unknown'>unknown</span>";
 	}
-	if (temperature) text += "<br />T: "+String(temperature)+"&deg;c";
-	if (humidity)    text += " / H: "+String(humidity)+"%"
+	if (temperature) text += "<br />T: "+escapeHtml(String(temperature).substring(0, 6))+"&deg;c";
+	if (humidity)    text += " / H: "+escapeHtml(String(humidity).substring(0, 6))+"%"
 	elem.innerHTML = text;
 }
 
@@ -133,19 +133,7 @@ function onMessageArrived(message) {
 
   if (message.destinationName=="tkkrlab/spacestate") {
 	  setSpaceState(message.payloadString);
-  } /*else if (message.destinationName.startsWith("metrics/")) {
-    var parts = message.destinationName.split('/');
-    var name  = parts[parts.length-1];
-    console.log("Received metrics for "+name);
-    if (name in progress) progress[name].animate(Number(message.payloadString/100));
-  } else if (message.destinationName=="chat") {
-    //drawChat(message.payloadString);
-  } else {
-    console.log("Message received",message.destinationName,message.payloadString);
-    //elem = document.getElementById("mqtt-content");
-    //elem.innerHTML = "<div class='item'><strong>"+message.destinationName+":</strong> "+message.payloadString+"</div>" + elem.innerHTML;
-  }*/
-  else if (message.destinationName=="tkkrlab/sensors/temperature") {
+  } else if (message.destinationName=="tkkrlab/sensors/temperature") {
 	  temperature = message.payloadString;
 	  setSpaceState();
   } else if (message.destinationName=="tkkrlab/sensors/humidity") {
