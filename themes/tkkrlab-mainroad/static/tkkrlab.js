@@ -1,6 +1,6 @@
 "use strict";
 
-const state_prefix = "Tkkrlab is nu ";
+const state_prefix = "Space state: ";
 
 var progress = {};
 var client = null;
