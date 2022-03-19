@@ -122,8 +122,8 @@ function setSpaceState(state=null) {
 	} else {
 		text = state_prefix + "<span class='unknown'>unknown</span>";
 	}
-	if (temperature) text += "<br />T: "+escapeHtml(String(temperature))+"&deg;c";
-	if (humidity)    text += " / H: "+escapeHtml(String(humidity))+"%"
+	if (temperature) text += "<br />T: "+escapeHtml(String(temperature).substring(0, 6))+"&deg;c";
+	if (humidity)    text += " / H: "+escapeHtml(String(humidity).substring(0, 6))+"%"
 	elem.innerHTML = text;
 }
 
