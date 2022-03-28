@@ -5,10 +5,6 @@ nodateline: true
 noprevnext: true
 disable_comments: true
 ---
-<div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
-<strong>Corona measures:</strong><p>
-If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules! 
-</div>
 
 <img alt="LED strip workshop" src="/images/led_strip.jpg" width="300px" height="300px" style="margin: 0px 30%;">
 
@@ -24,17 +20,17 @@ LED strips have become really inexpensive. Lots of people have created inexpensi
 - How to use an Arduino to control an LED strip
 - Some demos of programs you can download
 
-#### Materials
-- Any Arduino board (or clone) (example)
-- USB cable: one side fits into your Arduino Uno, the other side fits into your laptop (example: USB-mini to USB-A)
-- LED strip with WS2812b LEDs (Neopixel) -- any length, density (example)
+#### Materials (provided by TkkrLab)
+- Any Arduino board 
+- USB cable: one side fits into your Arduino Uno, the other side fits into your laptop
+- LED strip with WS2812b LEDs 
 
 #### Required Software
 Please download the free and open source Arduino software before the workshop -- Windows, Linux, or MacOS are all fine!:
 [Arduino software](https://www.arduino.cc/en/software)
 
 ## About Mitch Altman
-[Mitch Altman](https://en.wikipedia.org/wiki/Mitch_Altman) is a Berlin- (and San Francisco) -based hacker and inventor, best known for inventing [TV-B-Gone remote controls](http://tvbgone.com/) a keychain that turns off TVs in public places, he was also co-founder of 3ware (a SillyValley RAID controller company), did pioneering work in Virtual Reality at VPL Research invented the NeuroDreamer sleep mask and created the [Brain Machine](https://makezine.com/2008/11/13/the-brain-machine/) one of MAKE Magazine's more popular DIY projects. He has contributed to MAKE Magazine has written for 2600 and Makery and wrote a chapter from the popular book, Maker Pro He is a mentor at HAX and other accelerators. For the last several years Mitch has been leading workshops around the world, teaching people to make cool things with electronics and teaching everyone to solder Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is the co-founder of [Noisebridge](https://noisebridge.net/) hackerspace in San Francisco, and President and CEO of [Cornfield Electronics](https://www.cornfieldelectronics.com/).
+[Mitch Altman](https://en.wikipedia.org/wiki/Mitch_Altman) is a Berlin- (and San Francisco) -based hacker and inventor, best known for inventing [TV-B-Gone remote controls](http://tvbgone.com/) a keychain that turns off TVs in public places, he was also co-founder of 3ware (a Silicon Valley  RAID controller company), did pioneering work in Virtual Reality at VPL Research invented the NeuroDreamer sleep mask and created the [Brain Machine](https://makezine.com/2008/11/13/the-brain-machine/) one of MAKE Magazine's more popular DIY projects. He has contributed to MAKE Magazine has written for 2600 and Makery and wrote a chapter from the popular book, Maker Pro He is a mentor at HAX and other accelerators. For the last several years Mitch has been leading workshops around the world, teaching people to make cool things with electronics and teaching everyone to solder Mitch promotes hackerspaces, open source hardware, and mentors others wherever he goes. He is the co-founder of [Noisebridge](https://noisebridge.net/) hackerspace in San Francisco, and President and CEO of [Cornfield Electronics](https://www.cornfieldelectronics.com/).
 
 <hr>
 When : Zaterdag 16 April 2022 14:00
@@ -43,8 +39,11 @@ Where : TkkrLab, Marssteden 98, Enschede
 
 Cost : Material cost for a kit
 
+Preperation : Bring your laptop with the Arduino software installed.
+
 Language : English
 
+<hr>
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
 

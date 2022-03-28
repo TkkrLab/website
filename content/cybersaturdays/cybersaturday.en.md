@@ -12,16 +12,10 @@ The CyberSaturday is a monthly event organized by TkkrLab. We usually started fr
 
 From 2021 we have received a subsidy which makes it possible to organize this monthly and to invite (foreign) guests.
 
+Everyone is welcome to participate in our activities, you don't have to be a TkkrLab member.
+
 The events will also be recorded and published on our [youtube channel] (https://www.youtube.com/user/TkkrLab).
 
-### Programma 2022
-For 2022 the following speakers are confirmed :
-
-* 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
-* 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
-* 19 March - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
-)
-* 26 Maart - [Internationaal hackerspace Open dag](/blog/opendag-26-maart-2022/)
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 18 Juni - [Hardware hacking met Jilles Groenendijk](/en/cybersaturdays/hardware_hacking__jilles_groenendijk/)
 * 16 Juli - to be determined.
@@ -29,8 +23,18 @@ For 2022 the following speakers are confirmed :
 * 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
 * 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
+## History
 
-### CyberSaturday 2021 :
+### 2022 :
+
+* 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
+* 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
+* 19 March - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
+)
+* 26 Maart - [Internationaal hackerspace Open dag](/blog/opendag-26-maart-2022/)
+
+
+### 2021 :
 
 * Jan 16 - [Presentation programma](/cybersaturdays/2021_01_16_presentatie_programma/) (watch on [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
 * Feb 20 - [Online Privacy by Dave Borghuis](/cybersaturdays/2021_02_20_online_privacy/)   

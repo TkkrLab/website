@@ -13,18 +13,14 @@ De CyberSaturday is een maandelijks evenement georganiseerd door TkkrLab. We beg
 
 Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maandelijks te organiseren en (buitenlandse) gasten uit te nodigen. 
 
+Iedereen is welkom om mee te doen met onze activiteiten, je hoeft geen deelnemer te zijn.
+
 De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www.youtube.com/user/TkkrLab) gepubliceerd worden.
 
 
 
 ### Programma 2022
-Hieronder vind je de presentaties/workshops die voor 2022 bevestigd zijn:
 
-De fysieke bijeenkomsten zijn tot maart uitgesteld. Als de coronamaatregelingen fysieke bijeenkomsten weer toestaan gaan we deze opnieuw inplannen.
-
-* 19 Maart - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_03_19_ctf_leermiddel_voor_jong_en_oud/
-)
-* 26 Maart - [Internationaal hackerspace Open dag](/blog/opendag-26-maart-2022/)
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 21 Mei - [Lasercutter workshop (met inkscape/lightburn)](/cybersaturdays/2022_05_21_inkscape_en_lasercutter/
 ) 
@@ -34,14 +30,17 @@ De fysieke bijeenkomsten zijn tot maart uitgesteld. Als de coronamaatregelingen 
 * 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
 * 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
-# History
+# Historie
 
-### Programma 2022 :
+### 2022 :
 * 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
 * 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
+* 19 Maart - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_03_19_ctf_leermiddel_voor_jong_en_oud/
+)
+* 26 Maart - [Internationaal hackerspace Open dag](/blog/opendag-26-maart-2022/)
 
 
-### Programma 2021 :
+### 2021 :
 
 
 * Jan 16 - [Presentatie programma](/cybersaturdays/2021_01_16_presentatie_programma/) (bekijk deze op [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )

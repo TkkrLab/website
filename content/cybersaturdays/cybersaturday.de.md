@@ -13,17 +13,15 @@ Der CyberSaturday ist eine monatliche Veranstaltung, die von TkkrLab organisiert
 
 Ab 2021 haben wir einen Zuschuss erhalten, der es ermöglicht, diesen monatlich zu organisieren und (ausländische) Gäste einzuladen.
 
+Jeder ist herzlich eingeladen, an unseren Aktivitäten teilzunehmen, Sie müssen kein Teilnehmer sein.
+
 Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/user/TkkrLab) aufgezeichnet und veröffentlicht.
 
 
-### Programma 2022
+# Programma 2022
 Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
 
-* 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
-* 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
-* 19 Mar - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
-)
-* 26 Maart - [Internationaal hackerspace Open dag](/blog/opendag-26-maart-2022/)
+
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 18 Juni - [Hardware-Hacking mit Jilles Groenendijk](/cybersaturdays/hardware_hacking__jilles_groenendijk/)
 * 16 Juli - to be determined.
@@ -31,8 +29,17 @@ Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
 * 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
 * 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
+## Vergangene Ereignisse
 
-### CyberSaturdays 2021 :
+###  2022 :
+
+* 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
+* 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
+* 19 Mar - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
+)
+* 26 Maart - [Internationaal hackerspace Open dag](/blog/opendag-26-maart-2022/)
+
+###  2021 :
 
 * Jan 16 - [Presentatie programma](/cybersaturdays/2021_01_16_presentatie_programma/) (bekijk deze op [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
 * Feb 20 - [Online Privacy door Dave Borghuis](/cybersaturdays/2021_02_20_online_privacy/)   
