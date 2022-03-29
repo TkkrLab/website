@@ -21,8 +21,8 @@ LED strips have become really inexpensive. Lots of people have created inexpensi
 - Some demos of programs you can download
 
 #### Materials (provided by TkkrLab)
-- Any Arduino board 
-- USB cable: one side fits into your Arduino Uno, the other side fits into your laptop
+- Arduino kit  ( Arduino clone + USB cable, small breadboard, 15 LEDS, 6 switches with button, small assortiment resistors,
+Male - Male Dupont kabel, 9V battery connector )
 - LED strip with WS2812b LEDs 
 
 #### Required Software
@@ -37,7 +37,9 @@ When : Zaterdag 16 April 2022 14:00
 
 Where : TkkrLab, Marssteden 98, Enschede
 
-Cost : Material cost for a kit
+Cost : Arduino kit + LED strip € 13,37 (We have a few kits you can borrow, cost is then €0)
+
+Ticket : [Ticketshop](https://tickets.tkkrlab.space/TkkrLab/ledstrips/)
 
 Preperation : Bring your laptop with the Arduino software installed.
 
