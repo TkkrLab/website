@@ -21,7 +21,10 @@ After the lecture we will give the opportunity to make your small personalized p
 Anouk works from her own studio, but also from hackerspaces, makerspaces, techshops and labs all over the world when she is traveling around on jobs. She thinks 'creative' and 'tech' spaces are important to keep up an innovation culture and collaborations between different disciplines, but also just really fun for people to get in closer contact with electronics or the use of certain tools that they might otherwise never picked up.
 
 
-When : Saturday 23 April 14:00 - 15:00
+When : Saturday 23 April 
+
+ * Lecture Anouk Wipprecht : 14:00 - 15:00
+ * DID on location / TkkrLab open : 11:00-17:00
 
 Where : TkkrLab, Marssteden 98, Enschede
 
