@@ -23,8 +23,11 @@ Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
 
 
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
-* 18 Juni - [Hardware-Hacking mit Jilles Groenendijk](/cybersaturdays/hardware_hacking__jilles_groenendijk/)
-* 16 Juli - to be determined.
+* 23 April - [DID - Anouk Wipprecht](/blog/blog_nieuws_2022_03_30_did_anouk_wipprecht/)
+* 21 Mei - [Lasercutter workshop (met inkscape/lightburn)](/cybersaturdays/2022_05_21_inkscape_en_lasercutter/
+) 
+* 18 Juni - [Hardware hacking met Jilles Groenendijk](/cybersaturdays/hardware_hacking__jilles_groenendijk/)
+* 16 Juli - Nog onbekend.
 * 15 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
 * 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
 * 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)

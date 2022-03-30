@@ -22,6 +22,7 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 ### Programma 2022
 
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
+* 23 April - [DID - Anouk Wipprecht](/blog/blog_nieuws_2022_03_30_did_anouk_wipprecht/)
 * 21 Mei - [Lasercutter workshop (met inkscape/lightburn)](/cybersaturdays/2022_05_21_inkscape_en_lasercutter/
 ) 
 * 18 Juni - [Hardware hacking met Jilles Groenendijk](/cybersaturdays/hardware_hacking__jilles_groenendijk/)
