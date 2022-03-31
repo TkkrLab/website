@@ -1,10 +1,10 @@
 ---
 title: "DID 23 April : lecture Anouk Wipprecht"
 date: 2022-03-30
-thumbnail: "/images/DID22_lowres.png"
+thumbnail: "/images/tkkrlab_anouk_wipprecht_web.jpg"
 ---
 
-<img alt="Dutch Innovation Days" src="/images/DID22_lowres.png" width="300px" height="300px" style="margin: 0 30%;">
+<img alt="Dutch Innovation Days" src="/images/tkkrlab_anouk_wipprecht_web.jpg" width="300px" height="300px" style="margin: 0 30%;">
 
 # Lecture 'Hands-on FashionTech' by Anouk Wipprecht
 
