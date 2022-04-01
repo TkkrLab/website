@@ -41,6 +41,18 @@ Inbreken in computersystemen is illegaal en dat doen we dus ook niet. Illegale h
 Als wij het over hacken hebben dat bedoelen we binnen de wettelijke regels onderzoeken van (computer) technieken.
 Mensen die met computer security bezig zijn noemen we ‘ethical hacker‘ of ‘white hat hackers‘.
 
+
+## Ik ben gehackt wat kan ik doen ?
+
+Het ligt er heel erg aan wat er precies is gebeurt en wat de beste volgende stap is. Hieronder vind je wat algemene tips:
+
+* Als je slachtoffer bent van oplichting doe melding bij de [politie](https://www.politie.nl/aangifte-of-melding-doen#link-internetoplichting).
+* Check of het een bekende methode is via [fraudehelpdesk](https://www.fraudehelpdesk.nl/)
+* Controleer op [have i been pwned](https://haveibeenpwned.com) of je wachtwoord gelekt is. Als je wachtwoord gaan aanpassen gebruik dan meteen een password manager!
+* Voor de toekomst volg de tips van deze sites : 
+ + [Fix je privacy](https://www.fixjeprivacy.nl/) van Bits of Freedom
+ + [Laat je niet hack maken](https://laatjeniethackmaken.nl/) van Daniel Verlaan.
+
 ## Wat is een ethical hacker / white hat hacker?
 Een ethical hacker is een computer security specialist die in opdracht systemen controleert op bugs of andere fouten.
 Het belangrijkste van een ethical hacker is o.a. ‘responsible disclosure’ dwz dat als je een lek/bug/etc vind dit ook doorgeeft aan de eigenaar van de site/software zodat deze er wat aan kan doen.
