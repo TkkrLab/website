@@ -52,7 +52,7 @@ Wanneer : 18 Juni 2022
 
 Waar : TkkrLab, Marssteden 98, Enschede en online livestream via ons [youtube kanaal](https://youtube.com/tkkrlab)
 
-Kosten : gratis, reserveer je ticket in onze [ticket shop](https://tickets.tkkrlab.space/TkkrLab/jillesfeb/)
+Kosten : gratis, reserveer je ticket in onze [ticket shop](https://tickets.tkkrlab.space/TkkrLab/jillesjun/)
 
 <hr>
 
