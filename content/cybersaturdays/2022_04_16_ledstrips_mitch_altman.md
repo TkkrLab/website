@@ -6,13 +6,14 @@ noprevnext: true
 disable_comments: true
 ---
 
-
-<img alt="LED strip workshop" src="/images/led_strip.jpg" width="300px" height="300px" style="margin: 0px 30%;">
-
 ## 16 April from 14:00  ##
 
 # LED Strips voor iedereen! 
 
+{{< youtube Tgol-ZZLBRg >}}
+
+
+<br/>
 LED-strips zijn echt goedkoop geworden. Veel mensen hebben eenvoudige methoden gemaakt om hun kleur en helderheid te beheersen. Deze workshop toont een manier om LED-strips te regelen, om ze te laten doen wat je wilt. We zullen een  goedkope Arduino-kloon gebruiken. Mitch zal je alles zien wat je moet weten om bestaande programma's te gebruiken - AS-is of om te hacken - om de kleuren in je wereld met LED-strips te besturen.
 
 ## Workshop inhoud

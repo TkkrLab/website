@@ -6,11 +6,13 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="LED strip workshop" src="/images/led_strip.jpg" width="300px" height="300px" style="margin: 0px 30%;">
-
 ## 16 April from 14:00  ##
 
 # LED Strips Everywhere for Everyone!
+
+{{< youtube Tgol-ZZLBRg >}}
+<br/>
+
 
 LED strips have become really inexpensive. Lots of people have created inexpensive methods of controlling their color and brightness. This workshop shows one way to control LED strips, to make them do what you want. We will use a very cheap Arduino clone. I'll show you everything you need to know to use existing programs -- as-is, or to hack on -- to control the colors in your world with LED strips.
 
