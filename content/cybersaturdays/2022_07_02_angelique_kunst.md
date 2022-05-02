@@ -6,7 +6,13 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="CyberSaturday" src="/images/angelique_kunst.webp" width="300px" height="300px" style="margin: 0px 30%;">
+<div style="margin: 0px 30%;">
+<img alt="Angelique Kunst" src="/images/angelique_kunst.webp" width="450px">
+<h6>Foto door Emiel Muijderman.</h6>
+</div>
+
+
+
 
 ## 2 Juli Angelique Kunst boek "Er is hier maar één de baas"
 

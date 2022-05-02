@@ -5,10 +5,6 @@ nodateline: true
 noprevnext: true
 disable_comments: true
 ---
-<div style="background: yellow;margin: 5px;padding:10px;border: 4px dashed black;">
-<strong>Corona measures:</strong><p>
-If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rules! 
-</div>
 
 <div style="margin: 0px 30%;">
 <img alt="Jilles Groenendijk" src="/images/julles_web.png" width="300px" height="300px">
