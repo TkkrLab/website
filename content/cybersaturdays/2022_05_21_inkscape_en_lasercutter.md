@@ -11,6 +11,8 @@ disable_comments: true
 
 ### Inkscape en lasercutter
 
+{{< youtube JtGMao8C_nw >}}
+
 In deze workshop leer je met een vector programma [Inkscape](https://inkscape.org/) (gratis vector programma) ontwerpen maken die je op een lasercutter kunt laten graveren of uitsnijden. Je leert hoe je een ontwerp geschikt maakt voor de lasercutter en deze kunt laten snijden, markeren en graveren. We behandelen vooral de functies die voor de lasercutter van belang zijn, ander functies zullen indien nodig kort worden toegelicht.
 
 Na de presentatie zal er gelegenheid zijn om zelf te oefenen en eventueel hulp te vragen.
