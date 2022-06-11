@@ -1,6 +1,6 @@
 ---
 title: "MCH2022 hacker camping"
-date: 2022-06-10
+date: 2022-06-09
 thumbnail: "/images/SHA2017_CAMPING_FIELDS_CC_BY_SEBASTIAN_HUMBEK.jpg"
 ---
 
