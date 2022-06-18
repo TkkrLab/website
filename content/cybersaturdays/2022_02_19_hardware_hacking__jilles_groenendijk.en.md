@@ -15,9 +15,10 @@ If you want to visit TkkrLab, check our <a href="/corona">current corona</a> rul
 <h6>Photo by d.vanzuijlekom</h6>
 </div>
 
-# This workshop will be moved after the current corona lockdown.
-
 ### Hardware Hacking for the absolute beginner - Jilles Groenendijk
+
+{{< youtube Ycew7xi8ChA >}}
+
 
 In this Hardware Hacking Workshop for the absolute beginner  Jilles will tell you about the challenges in hardware security and teach you how to identify the different components of a device.
 

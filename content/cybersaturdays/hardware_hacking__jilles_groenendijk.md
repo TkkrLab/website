@@ -16,6 +16,11 @@ disable_comments: true
 
 ### Hardware Hacking voor de absolute beginner - Jilles Groenendijk
 
+{{< youtube Ycew7xi8ChA >}}
+
+
+
+
 In deze Hardware Hacking Workshop voor de absolute beginner zal Jilles je vertellen over de uitdagingen op het gebied van hardwarebeveiliging en je leren hoe je de verschillende componenten van een apparaat kunt identificeren.
 
 De verschillende manieren waarop je hardware kunt aanvallen en hij zal je zelfs protocollen laten zien op '0' en '1' niveau. Allemaal in zijn humoristische stijl en no-nonsense houding. Met € 20 kom je volgens Jilles heel ver en zullen de meeste deelnemers naar de kringloopwinkel rennen om hun handen vuil te maken!
