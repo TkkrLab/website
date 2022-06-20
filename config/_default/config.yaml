@@ -50,7 +50,9 @@ params:
     social_twitter: "tkkrlab"
     social_github: "tkkrlab"
     social_youtube: "TkkrLab"
+    social_instagram: "TkkrLab"
     social_linkedin: "company/tkkrlab/"
+    
 
 menu:
   main:
