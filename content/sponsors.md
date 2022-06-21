@@ -18,14 +18,6 @@ menu:
  </a>
  Zie ook onze blog over [freedom internet](/blog/blog_nieuws_2021_06_14_freedom_internet/)
 
-
-## Allround Technology
-
-<a href="https://allroundtechnology.com/" target="_blank">
-<img alt="Logo Allround Technology" src="/images/allround_technologie.jpg">
-</a>
-
-
 ## Mede mogelijk gemaakt door subsidie Creative Broedplaats Twente
 
  <a href="http://www.creatievebroedplaatsentwente.nl/" target="_blank">
