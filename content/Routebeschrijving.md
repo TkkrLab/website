@@ -27,8 +27,4 @@ We zijn met de auto goed bereikbaar, de space ligt dicht bij afslag van A35 en N
 
 We zitten in een bedrijf verzamel gebouw, je kunt de Marssteden poort binnen rijden en op het plein parkeren.
 
-Indien je met elektrische auto komt, de dichtbijzijnde laadpaal is op 10 minuten lopen van TkkrLab : 
-
-E-Flux<br/>
-Staalsteden 34<br/>
-7547 TA  Enschede<br/>
+Indien je met elektrische auto komt, de dichtbijzijnde laadpaal (van Ecotap) is achter op de parkeerplaats.
