@@ -28,3 +28,5 @@ Na de vierjaarlijkse hackersconferentie in 2013 lid geworden van TkkrLab. Een le
 
 “Vanwege de hoeveelheid verschillende vlakken in de techniek dat de leden bezitten heb ik een kans om niet alleen maar mijn kennis over te dragen, maar ook van anderen te leren. “
 - Julian
+
+"Everyone knows how cool Tkkrlab is if you want to make your hobby projects. So I'm going to talk about my other reason for becoming a member here. I like hanging out at Tkkrlab because of the community feeling that it gives. There is always an interesting conversation going on, people brainstorming about ideas and everyone is willing to help. The atmosphere is very friendly and inviting + the place gets extra bonus points for gamenights and cooking and eating together :)" - Hengameh (30 yrs, female)
