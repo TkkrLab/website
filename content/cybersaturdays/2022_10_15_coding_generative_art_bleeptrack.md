@@ -19,13 +19,15 @@ Haar grootste interesses liggen op het gebied van generatieve of AI-kunst, digit
 
 Ze heeft haar eigen YouTube-kanaal ["Werk in uitvoering"](https://www.youtube.com/c/bleeptracde)
 <hr>
-Wanneer : Zaterdag 15 Oktober 2022 14:00
+Wanneer : Zaterdag 15 Oktober 2022 14:00 - 15:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : gratis, neem eigen laptop mee.
+Kosten : gratis, neem eigen laptop mee. Reserveer ticket [hier](https://tickets.tkkrlab.space/TkkrLab/genartbleeptrack/).
 
 Taal : Engels
+
+<hr>
 
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 

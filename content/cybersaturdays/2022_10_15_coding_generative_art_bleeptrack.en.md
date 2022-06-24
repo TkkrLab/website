@@ -20,11 +20,11 @@ Her main interests lie in the areas of generative or AI art, digital fabrication
 She has her own youtube channel ["Work in Progress"](https://www.youtube.com/c/BleeptrackDe)
 
 <hr>
-When : Saturday 15 Oktober 2022 14:00
+When : Saturday 15 Oktober 2022 14:00 - 15:00
 
 Where : TkkrLab, Marssteden 98, Enschede
 
-Cost : gratis, bring your own laptop.
+Cost : Free, bring your own laptop. RSVP your ticket [here](https://tickets.tkkrlab.space/TkkrLab/genartbleeptrack/)
 
 Language : Engels
 
