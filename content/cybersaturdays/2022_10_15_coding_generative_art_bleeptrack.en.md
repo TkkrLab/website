@@ -8,7 +8,7 @@ disable_comments: true
 
 <img alt="Bleeptrack generative art workshop" src="/images/bleeptrack.jpg" width="300px" height="300px" style="margin: 0px 30%;">
 
-## 15 Oktober vanaf 14:00  ##
+## 29 Oktober vanaf 14:00  ##
 
 # Coding generative art
 In this workshop, bleeptrack will give a quick introduction on how to create your own generative art using paper.js. She'll also share insights to common techniques for digital and physical genart and explain possible pitfalls. No preparation needed - just bring your laptop and let's code art together!
@@ -20,7 +20,7 @@ Her main interests lie in the areas of generative or AI art, digital fabrication
 She has her own youtube channel ["Work in Progress"](https://www.youtube.com/c/BleeptrackDe)
 
 <hr>
-When : Saturday 15 Oktober 2022 14:00 - 15:00
+When : Saturday 29 Oktober 2022 14:00 - 15:00
 
 Where : TkkrLab, Marssteden 98, Enschede
 
