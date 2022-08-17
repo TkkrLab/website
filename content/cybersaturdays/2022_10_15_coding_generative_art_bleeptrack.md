@@ -36,4 +36,6 @@ Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op
 
 Dit evenement word mede mogelijk gemaakt door [Creative broedplaats Twente](http://www.creatievebroedplaatsentwente.nl/).
 
+
+
 <img width=50% src="/images/Logo-Creatieve-Broedplaatsen-Twente.jpg"  alt="Logo creative broedplaats twente">
