@@ -30,3 +30,5 @@ Na de vierjaarlijkse hackersconferentie in 2013 lid geworden van TkkrLab. Een le
 - Julian
 
 "Everyone knows how cool Tkkrlab is if you want to make your hobby projects. So I'm going to talk about my other reason for becoming a member here. I like hanging out at Tkkrlab because of the community feeling that it gives. There is always an interesting conversation going on, people brainstorming about ideas and everyone is willing to help. The atmosphere is very friendly and inviting + the place gets extra bonus points for gamenights and cooking and eating together :)" - Hengameh (30 yrs, female)
+
+Over the years I’ve been a member of many hackerspaces across Europe as I’ve worked in different cities, and having settled in Enschede I’m very pleased to find such a vibrant and well-run one in Tkkrlab. It has all the facilities I’d need for design and prototyping, as well as a knowledgable community of members whose collective experience never ceases to amaze me. On top of that it has a good social vibe, with a communal cooking club and a gaming group. I’d have no hesitation recommending it to anyone coming to Twente. - Rebecca, British immigrant.
