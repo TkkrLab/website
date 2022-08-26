@@ -10,10 +10,16 @@ disable_comments: true
 
 # 3D Cad voor beginners
 
-Leer met een 3d cad programma eenvoudige modellen te maken, Parametrisch ontwerpen,  genereren van STL en meer..
+Voor de absolute beginner die nog geen ervaring heeft met CAD.
 
+Leer met Fusion 360 ([gratis voor hobbyist](https://www.autodesk.com/products/fusion-360/personal) ) 3d cad programma eenvoudige modellen te maken. Onderwerpen zijn onder andere :
 
+ * parametrisch ontwerpen
+ * maak je eerste sketch (lijnen, cirkel, constraints )
+ * STL generatie (voor 3d printen)
+ * Assemblies
 
+ Deelname is gratis, neem je eigen laptop mee met fusion geinstalleerd. 
 
 <hr>
 Wanneer : Zaterdag 11 November 2022 14:00
