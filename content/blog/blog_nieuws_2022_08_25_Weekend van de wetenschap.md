@@ -13,7 +13,6 @@ Weekend van de Wetenschap is er om iedereen, van jong tot oud, op een toegankeli
 Op deze dag organiseren we de volgend activiteiten :
 
 - Rondleiding in onze locatie.
-- Maak je eigen sleutelhanger met onze lasercutter.
 - Maak je eigen ring met onze 3d printer.
 - Uitleg over onze projecten zoals : Turret robot, Pick & place robot, domotica en meer.
 - Maak kennis met de 'hackers' uit en rond Enschede.
