@@ -33,7 +33,7 @@ Wir organisieren regelmäßig Veranstaltungen wie Vorträge und Workshops, die f
 Haben wir Ihr Interesse geweckt? Dann besuchen Sie uns unverbindlich und lernen Sie unsere Community, Teilnehmer und die Möglichkeiten des Hackerspace TkkrLab kennen.
 <br />
 <br />
-In der rechten oberen Ecke unserer Website finden Sie den Space-Status. Wenn wir geöffnet haben, sind Sie herzlich eingeladen, uns zu besuchen!
+In der rechten oberen Ecke unserer Website finden Sie den Space-Status. Wenn wir geöffnet haben, sind Sie herzlich eingeladen, uns zu besuchen! Oder vereinbaren Sie einen Termin über unser [Ticketsystem](https://tickets.tkkrlab.space/TkkrLab/rondleiding/).
 <br />
 <br />
 Weitere Informationen zu unseren Workshops und Vorträgen finden Sie in unserer [Agenda] (/ Agenda /). Wir haben auch ein [Blog] (/ blog /) für die neuesten Nachrichten.

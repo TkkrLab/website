@@ -34,7 +34,7 @@ We regularly organize events such as lectures and workshops that are of interest
 Have we piqued your interest? Then come and visit us without any obligation and get to know our community, participants and the possibilities of hackerspace TkkrLab.
 <br />
 <br />
-In the right-top corner of our site you will find the space state. When we're open you're more than welome to come visit! See our [heatmap](https://mapall.space/heatmap/show.php?id=TkkrLab) to get an idea when we are normaly open.
+In the right-top corner of our site you will find the space state. When we're open you're more then welcome to come visit! See our [heatmap](https://mapall.space/heatmap/show.php?id=TkkrLab) to get an idea when we are normaly open. You can also make an appointment via our [ticket system](https://tickets.tkkrlab.space/TkkrLab/rondleiding/).
 <br />
 <br />
 If you want keep posted about our activities you can subscribe on our [newsletter](http://eepurl.com/gLxrLD) or [contact](/contact/) us.
