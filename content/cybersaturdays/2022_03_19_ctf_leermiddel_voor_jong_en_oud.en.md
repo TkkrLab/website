@@ -20,6 +20,9 @@ In this presentation Julian Roseboom takes you through the different types of CT
 
 You will also receive tips on how to start CTFs yourself and Julian walks you through a CTF to show you how to reach certain conclusions (or not).
 
+Good site to practice is [overthewire](https://overthewire.org/wargames/).
+
+
 ## About Julian Roseboom
 Participant of TkkrLab and very interested in CTF and often participated myself.
 
