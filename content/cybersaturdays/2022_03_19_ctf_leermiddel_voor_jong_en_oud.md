@@ -21,6 +21,8 @@ In deze presentatie neemt onze deelnemer Julian Roseboom jullie mee door de vers
 
 Daarnaast krijg je tips over hoe je zelf met CTFs kunt beginnen en laat Julian van een type CTF zien waar je ze kan vinden, hoe deze is opgebouwd en mogen jullie samen ideeën roepen wat de volgende stap is.
 
+Goede CTF sites om mee te starten is [overthewire](https://overthewire.org/wargames/).
+
 
 ## Over Julian Roseboom
 Deelnemer van TkkrLab en erg geïnteresseerd in CTF en zelf ook vaak een meegedaan.
