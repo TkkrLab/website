@@ -17,7 +17,7 @@ In deze workshop geeft Bleeptrack een introductie over het maken van uw eigen ge
 [Bleeptrack](https://www.bleeptrack.de/) is een freelancer creatieve technoloog en liefhebber  generatieve dingen van allerlei soorten!
 Haar grootste interesses liggen op het gebied van generatieve of AI-kunst, digitale fabricage en DIY-elektronica. Ze geeft les op verschillende universiteiten / hogescholen en houd ervan om lezingen en workshops te geven!
 
-Ze heeft haar eigen YouTube-kanaal ["Werk in uitvoering"](https://www.youtube.com/c/bleeptracde)
+Ze heeft haar eigen YouTube-kanaal ["Werk in uitvoering"](https://www.youtube.com/c/BleeptrackDe)
 <hr>
 Wanneer : Zaterdag 29 Oktober 2022 14:00 - 15:00
 
