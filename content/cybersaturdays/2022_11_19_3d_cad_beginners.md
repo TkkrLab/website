@@ -6,23 +6,23 @@ noprevnext: true
 disable_comments: true
 ---
 
-## 11 November Vanaf 14:00 ##
+## 19 November Vanaf 14:00 ##
 
 # 3D Cad voor beginners
 
 Voor de absolute beginner die nog geen ervaring heeft met CAD.
 
-Leer met Fusion 360 ([gratis voor hobbyist](https://www.autodesk.com/products/fusion-360/personal) ) 3d cad programma eenvoudige modellen te maken. Onderwerpen zijn onder andere :
+Leer met Fusion 360 ([gratis voor hobbyisten](https://www.autodesk.com/products/fusion-360/personal) ) 3d cad programma eenvoudige modellen te maken. Onderwerpen zijn onder andere :
 
- * parametrisch ontwerpen
- * maak je eerste sketch (lijnen, cirkel, constraints )
+ * Parametrisch ontwerpen
+ * Maak je eerste sketch (lijnen, cirkel, constraints )
  * STL generatie (voor 3d printen)
  * Assemblies
 
- Deelname is gratis, neem je eigen laptop mee met fusion geinstalleerd. 
+ Deelname is gratis, neem je eigen laptop mee met fusion geïnstalleerd. 
 
 <hr>
-Wanneer : Zaterdag 11 November 2022 14:00
+Wanneer : Zaterdag 19 November 2022 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
