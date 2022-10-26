@@ -11,6 +11,9 @@ disable_comments: true
 ## 29 oktober Vanaf 14:00 ##
 
 # Coderende generatieve kunst
+
+Deze workshop zal remote worden gegeven, ga naar link [Big blue button](https://bbb.do.speakup.nl/b/dav-fxz-fhn)
+
 In deze workshop geeft Bleeptrack een introductie over het maken van uw eigen generatieve kunst met behulp van papier.js. Ze zal ook inzichten delen voor gemeenschappelijke technieken voor digitale en fysieke genart en mogelijke valkuilen toelichten. Geen voorbereiding nodig - Breng gewoon je laptop en laten we samenwerken!
 
 ## Over Bleeptrack

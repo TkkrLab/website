@@ -11,6 +11,9 @@ disable_comments: true
 ## 29 Oktober vanaf 14:00  ##
 
 # Coding generative art
+
+This workshop wil be given remote, go to this link [Big blue button](https://bbb.do.speakup.nl/b/dav-fxz-fhn)
+
 In this workshop, bleeptrack will give a quick introduction on how to create your own generative art using paper.js. She'll also share insights to common techniques for digital and physical genart and explain possible pitfalls. No preparation needed - just bring your laptop and let's code art together!
 
 ## About Bleeptrack
