@@ -9,16 +9,19 @@ disable_comments: true
 🇬🇧🇩🇪 Can't read dutch? The main pages are translated to English and German, select language flag on top right of page.
 <br />
 <br/>
-<div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
+<!--- <div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
 <strong>Corona measures:</strong><p>
 Currently all measures have been lifted, check the <a href="/corona">corona</a> page for more information. 
-</div>
+</div> -->
 
 <br />
 
 # Wat is het TkkrLab?
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1634670153920!6m8!1m7!1sCAoSLEFGMVFpcE52SzBOTVVDbzk2WURFRFliemwxRkExUHctbXdiMTRid1UwRERL!2m2!1d52.2164307!2d6.820549499999999!3f300.2381792567585!4f-10.856918622841675!5f0.4000000000000002" width="650" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<br/>
+Wil je ons bezoeken? Kom dan op een dinsdagavond of maak [een afspraak](https://tickets.tkkrlab.space/TkkrLab/rondleiding/) voor een rondleiding op donderdagavond. Je bent ook welkom als we open zijn (zie status rechtsboven aan deze webpagina).
 
 <br />
 Hackerspace TkkrLab is een community die zelfontplooiing in techniek [faciliteert](https://handleidingen.tkkrlab.space/handleidingen/make_everything/). Iedere deelnemer heeft zijn eigen interessegebied, zo is de een vooral met software bezig (bv embedded, domotica, websites en meer), bouwt de ander een 3d printer of cnc frees en maakt iemand zijn eigen elektronische pcb ontwerp voor een robot. De gemeenschappelijke factor is dat het technisch en/of creatief is in de brede zin van het woord. Door het uitwisselen van kennis en ervaring in onze community is er altijd wel iemand aanwezig die je op weg kan helpen met je creatieve [projecten](/projects/).

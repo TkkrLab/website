@@ -6,17 +6,18 @@ noprevnext: true
 disable_comments: true
 ---
 
-<div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
+<!--- <div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
 <strong>Corona measures:</strong><p>
 Currently all restrictions have been lifted, check the <a href="/corona">corona</a> page for more information. 
-</div>
+</div> -->
 
 
 # What is the TkkrLab?
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1634670153920!6m8!1m7!1sCAoSLEFGMVFpcE52SzBOTVVDbzk2WURFRFliemwxRkExUHctbXdiMTRid1UwRERL!2m2!1d52.2164307!2d6.820549499999999!3f300.2381792567585!4f-10.856918622841675!5f0.4000000000000002" width="650" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-
+<br/>
+Do you want to visit us? Then come on a Tuesday evening or make [an appointment] (https://tickets.tkkrlab.space/TkkrLab/rondleiding/) for a guided tour on Thursday evening. You are also welcome when we are open (see status at the top right of this webpage).
 <br />
 
 Hackerspace TkkrLab is a community that [facilitates](https://handleidingen.tkkrlab.space/handleidingen/make_everything/) self-development in technology. Each participant has his own area of ​​interest. One person may be mainly involved with software (eg embedded, home automation, websites and more), another builds 3d printers or a CNC mill while someone else designs his own electronic circuit boards to control a robot. The common factor here is that everything is technical and / or creative in the broadest sense of the word. By exchanging knowledge and experience in our community, there is always someone present who can help you with your [projects](/projects/).
