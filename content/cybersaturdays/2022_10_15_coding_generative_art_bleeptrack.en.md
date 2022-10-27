@@ -25,7 +25,7 @@ She has her own youtube channel ["Work in Progress"](https://www.youtube.com/c/B
 <hr>
 When : Saturday 29 Oktober 2022 14:00 - 15:00
 
-Where : TkkrLab, Marssteden 98, Enschede
+Where : [Online](https://bbb.do.speakup.nl/b/dav-fxz-fhn) TkkrLab, Marssteden 98, Enschede
 
 Cost : Free, bring your own laptop. RSVP your ticket [here](https://tickets.tkkrlab.space/TkkrLab/genartbleeptrack/)
 

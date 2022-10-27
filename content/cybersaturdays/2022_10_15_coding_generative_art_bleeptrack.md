@@ -24,7 +24,7 @@ Ze heeft haar eigen YouTube-kanaal ["Werk in uitvoering"](https://www.youtube.co
 <hr>
 Wanneer : Zaterdag 29 Oktober 2022 14:00 - 15:00
 
-Waar : TkkrLab, Marssteden 98, Enschede
+Waar : [Online](https://bbb.do.speakup.nl/b/dav-fxz-fhn) en  TkkrLab, Marssteden 98, Enschede
 
 Kosten : gratis, neem eigen laptop mee. Reserveer ticket [hier](https://tickets.tkkrlab.space/TkkrLab/genartbleeptrack/).
 
