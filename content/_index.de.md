@@ -12,8 +12,7 @@ Currently all restrictions have been lifted, check the <a href="/corona">corona<
 </div> --->
 
 ### Sie möchten uns besuchen? Dann kommen Sie an einem Dienstagabend oder vereinbaren Sie [einen Termin] (https://tickets.tkkrlab.space/TkkrLab/rondleiding/) für eine Führung am Donnerstagabend. Auch während unserer Öffnungszeiten sind Sie herzlich willkommen (siehe Status oben rechts auf dieser Seite).
-
-
+<br/>
 # Was ist das TkkrLab?
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1634670153920!6m8!1m7!1sCAoSLEFGMVFpcE52SzBOTVVDbzk2WURFRFliemwxRkExUHctbXdiMTRid1UwRERL!2m2!1d52.2164307!2d6.820549499999999!3f300.2381792567585!4f-10.856918622841675!5f0.4000000000000002" width="650" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

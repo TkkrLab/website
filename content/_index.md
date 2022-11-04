@@ -13,7 +13,7 @@ disable_comments: true
 ### Wil je ons bezoeken? Kom dan op een dinsdagavond of maak [een afspraak](https://tickets.tkkrlab.space/TkkrLab/rondleiding/) voor een rondleiding op donderdagavond. Je bent ook welkom als we open zijn (zie status rechtsboven aan deze webpagina).
 
 <br/>
-Iedereen is welkom om ons te bezoeken, ongeacht je achtergrond of je opleiding. 
+Iedereen is welkom om ons te bezoeken, ongeacht je achtergrond of je opleiding.
 
 <br/>
 <!--- <div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
