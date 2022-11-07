@@ -12,15 +12,12 @@ disable_comments: true
 
 Leer met een 3d cad programma eenvoudige modellen te maken, Parametrisch ontwerpen,  genereren van STL en meer..
 
-
-
-
 <hr>
 Wanneer : Zaterdag 17 December 2022 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : gratis, neem eigen laptop mee.
+Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/TkkrLab/hytaz/), neem eigen laptop mee.
 
 Taal : Nederlands
 

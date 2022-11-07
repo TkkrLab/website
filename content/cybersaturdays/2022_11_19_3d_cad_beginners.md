@@ -21,12 +21,14 @@ Leer met Fusion 360 ([gratis voor hobbyisten](https://www.autodesk.com/products/
 
  Deelname is gratis, neem je eigen laptop mee met fusion geïnstalleerd. 
 
+ Een vervolgworkshop 3D CAD geavanceerd is op 17 dec.
+
 <hr>
 Wanneer : Zaterdag 19 November 2022 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : gratis, neem eigen laptop mee.
+Kosten : reserveer je gratis [ticket hier](https://tickets.tkkrlab.space/TkkrLab/ettj3/), neem eigen laptop mee.
 
 Taal : Nederlands
 
