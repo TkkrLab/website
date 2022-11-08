@@ -17,7 +17,6 @@ Leer met Fusion 360 ([gratis voor hobbyisten](https://www.autodesk.com/products/
  * Parametrisch ontwerpen
  * Maak je eerste sketch (lijnen, cirkel, constraints )
  * STL generatie (voor 3d printen)
- * Assemblies
 
  Deelname is gratis, neem je eigen laptop mee met fusion geïnstalleerd. 
 
@@ -32,6 +31,7 @@ Kosten : reserveer je gratis [ticket hier](https://tickets.tkkrlab.space/TkkrLab
 
 Taal : Nederlands
 
+<hr>
 Wil je op de hoogte blijven van de activiteiten van TkkrLab schrijf je dan in op onze [nieuwsbrief](http://eepurl.com/gLxrLD).
 
 
