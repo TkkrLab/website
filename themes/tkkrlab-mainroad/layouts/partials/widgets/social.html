@@ -2,6 +2,13 @@
 <div class="widget-social widget">
 	<h4 class="widget-social__title widget__title">Social</h4>
 	<div class="widget-social__content widget__content">
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Mastodon" href="https://hsnl.social/@tkkrlab">
+				<img fill="#fff" class="widget-social__link-icon icon-youtube" src="/images/mastodon_bw.png" alt="Mastodon logo"
+					width="20" height="20">
+				<span>Mastodon</span>
+			</a>
+		</div>
 		{{- with .Site.Params.widgets.social_facebook }}
 		<div class="widget-social__item widget__item">
 			<a class="widget-social__link widget__link btn" title="Facebook" rel="noopener noreferrer" href="https://facebook.com/{{ . }}" target="_blank">
