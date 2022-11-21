@@ -6,7 +6,7 @@ noprevnext: true
 disable_comments: true
 ---
 
-<img alt="Bleeptrack generative art workshop" src="/images/bleeptrack.jpg" width="300px" height="300px" style="margin: 0px 30%;">
+{{< youtube dJZrtoNG7GA >}}
 
 ## 29 oktober Vanaf 14:00 ##
 

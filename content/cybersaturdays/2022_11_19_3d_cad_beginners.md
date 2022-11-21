@@ -8,6 +8,8 @@ disable_comments: true
 
 ## 19 November Vanaf 14:00 ##
 
+{{< youtube g8cwQ7_ZivY >}}
+
 # 3D Cad voor beginners
 
 Voor de absolute beginner die nog geen ervaring heeft met CAD.
