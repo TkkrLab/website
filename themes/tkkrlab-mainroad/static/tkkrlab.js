@@ -155,18 +155,18 @@ function onMessageArrived(message) {
 function showPrintStatus() {
   var output = "";
   for (let i = 0; i < printer.length; i++) {
-    output += printerName[i] + "<table><tbody><tr>";
+    output += printerName[i] + "<table><tbody>";
     if ("state" in printer[i]) {
-      output += "<td>State</td><td>" + escapeHtml(String(printer[i].state)) + "</td>";
+      output += "<tr><td>State</td><td>" + escapeHtml(String(printer[i].state)) + "</td></tr>";
     }
     if ("progress" in printer[i] && printer[i].progress !== null) {
-      output += "<td>Progress</td><td>" + escapeHtml(String(printer[i].progress.completion * 100)) + "%</td>";
-      output += "<td>Time remaining</td><td>" + escapeHtml(String(Math.round(printer[i].progress.printTimeLeft / 60))) + " minutes</td>";
+      output += "<tr><td>Progress</td><td>" + escapeHtml(String(printer[i].progress.completion * 100)) + "%</td></tr>";
+      output += "<tr><td>Time remaining</td><td>" + escapeHtml(String(Math.round(printer[i].progress.printTimeLeft / 60))) + " minutes</td></tr>";
     }
     if ("job" in printer[i] && printer[i].job !== null) {
-      output += "<td>File</td><td>" + escapeHtml(String(printer[i].job.file.name)) + "</td>";
+      output += "<tr><td>File</td><td>" + escapeHtml(String(printer[i].job.file.name)) + "</td></tr>";
     }
-    output += "</tr></tbody></table>";
+    output += "</tbody></table>";
   }
   document.getElementById("3dprinter").innerHTML = output;
 }
