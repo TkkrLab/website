@@ -1,4 +1,110 @@
-;
+"use strict";
+
+const state_prefix = "Space state: ";
+
+var progress = {};
+var client = null;
+var subtitleSwapped = false;
+
+setTimeout(fadeSubtitleText, 5000);
+
+function mqttClientCreate() {
+  client = new Paho.MQTT.Client("mqtt."+window.location.host.split('.').slice(-2).join('.'), Number(443), "website-"+String(Math.floor((Math.random() * 10000) + 1)));
+  client.onConnectionLost = onConnectionLost;
+  client.onMessageArrived = onMessageArrived;
+}
+
+function mqttOnConnect() {
+  console.log("Connected to MQTT server");
+  client.subscribe("#");
+}
+
+function mqttDoFail(e){
+  //alert("MQTT subsystem has encountered an error: "+e);
+  console.log("MQTT subsystem has encountered an error:",e);
+}
+
+function mqttClientConnect() {
+  var options = {
+    useSSL: true,
+    onSuccess:mqttOnConnect,
+    onFailure:mqttDoFail
+  }
+  client.connect(options);
+}
+
+function send() {
+  var topic = document.getElementById('topic').value;
+  var message = document.getElementById('message').value;
+  sendMessage(topic, message);
+}
+
+function chatSend() {
+  var nick = document.getElementById('chat-nick').value;
+  var message = document.getElementById('chat-message').value;
+  sendMessage('chat/send', "<"+nick+"> "+message);
+}
+
+function sendMessage(topic, content) {
+  var message = new Paho.MQTT.Message(content);
+  message.destinationName = topic;
+  client.send(message);
+}
+
+function onConnectionLost(responseObject) {
+  if (responseObject.errorCode !== 0) {
+    console.log("onConnectionLost:"+responseObject.errorMessage);
+  }
+}
+
+function stripHtmlTags(str)
+{
+  if ((str===null) || (str==='')) {
+    return "";
+  } else {
+    str = str.toString();
+  }
+  //console.log("strip",str);
+  str = str.replace('<','&lt;');
+  str = str.replace('>','&gt;');
+  str = str.replace('\r','');
+  str = str.replace('\n','');
+  return str;
+}
+
+var chat = [];
+
+/*function drawChat(newMsg="") {
+    while (chat.length < 20) {
+      chat.push("< > ");
+    }
+    if (newMsg.length>0) {
+      chat.push(newMsg);
+    }
+    while (chat.length > 20) {
+      chat.shift(1);
+    }
+    var chatLines = "";//"<table>";
+    for (var i = 0; i<chat.length; i++) {
+      var sender = "";
+      var message = "<i>Failed to parse message.</i>";
+      try {
+        var sender = stripHtmlTags(chat[i].split("<")[1].split(">")[0]);
+        var message = stripHtmlTags(chat[i].split(">").slice(1).join('>'));
+      } catch(err) {
+        console.log('chat parse error',err);
+      }
+      //chatLines = chatLines + "<tr><td class='sender'>" + sender + "</td><td class='message'>" + message + "</td></tr>";
+      chatLines = chatLines + "<strong>" + sender + "</strong " + message + "<br />";
+    }
+    //chatLines = chatLines + "</table>";
+    var elem = document.getElementById("chat-content");
+    elem.innerHTML = chatLines;  
+}*/
+
+var lastSpacestate = "UNKNOWN";
+var temperature = null;
+var humidity = null;
 var printer = [{}, {}];
 var printerName = ["Prusa Mini #1", "Prusa Mini #2"];
 
