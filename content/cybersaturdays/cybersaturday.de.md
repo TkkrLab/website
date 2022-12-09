@@ -17,13 +17,21 @@ Jeder ist herzlich eingeladen, an unseren Aktivitäten teilzunehmen, Sie müssen
 
 Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/user/TkkrLab) aufgezeichnet und veröffentlicht.
 
+Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 
 # Programma 2022
-Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
 
+* 21. Januar - 2D: Inkscape
+* 18. Februar - 2D: Lasercutter
+* 4. März - 2D: Einführung Nähmaschine
+* 18. März - 2D: Aufbau von Zelten
+* 25. März - Tag der offenen Tür
+* 15. April - 3D: Design mit Blender
+* 20. Mai - 3D: Slicer (Prusa)
+* 17. Juni - 3D: OpenSCAD
 
-* 29 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
-* 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
+# Programma 2022
+
 * 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
 ## Vergangene Ereignisse
@@ -41,6 +49,8 @@ Nachfolgend finden Sie die für 2022 bestätigten Präsentationen/Workshops:
 ) 
 * 18 Juni - [Hardware hacking met Jilles Groenendijk](/cybersaturdays/hardware_hacking__jilles_groenendijk/)
 * 2 Juli - [Angelique Kunst - boek over Gerard Sanderink & Rian van Rijbroek](/cybersaturdays/2022_07_02_angelique_kunst/)
+* 29 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
+* 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
 
 
 ###  2021 :

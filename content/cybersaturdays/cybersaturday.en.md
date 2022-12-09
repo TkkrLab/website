@@ -16,6 +16,21 @@ Everyone is welcome to participate in our activities, you don't have to be a Tkk
 
 The events will also be recorded and published on our [youtube channel] (https://www.youtube.com/user/TkkrLab).
 
+
+### Programma 2023
+
+* 21 Jan - 2D : Inkscape
+* 18 Feb - 2D : Lasercutter
+* 4 Maart - 2D : Intro sewing machine 
+* 18 Maart - 2D : Creating Tents
+* 25 Maart - Open day
+* 15 April - 3D : Design with Blender
+* 20 Mei - 3D : Slicer (Prusa)
+* 17 Juni - 3D : OpenSCAD
+
+### Programma 2022
+
+
 * 29 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
 * 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
 * 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)

@@ -17,7 +17,16 @@ Iedereen is welkom om mee te doen met onze activiteiten, je hoeft geen deelnemer
 
 De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www.youtube.com/user/TkkrLab) gepubliceerd worden.
 
+### Programma 2023
 
+* 21 Jan - 2D : Inkscape
+* 18 Feb - 2D : Lasercutter
+* 4 Maart - 2D : Intro naaimachine 
+* 18 Maart - 2D : Tenten maken
+* 25 Maart - Open dag
+* 15 April - 3D : Ontwerp met Blender
+* 20 Mei - 3D : Slicer (Prusa)
+* 17 Juni - 3D : OpenSCAD
 
 ### Programma 2022
 
