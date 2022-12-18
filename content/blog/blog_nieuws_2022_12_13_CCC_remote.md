@@ -22,3 +22,8 @@ Als alternatief zijn er [CCC Remote's](https://events.ccc.de/#dezentral-2022-eve
 Every year between Christmas and New Year there is the CCC Congress in Germany, but unfortunately because of the risks with possible corona, it was decided not to hold a big central meeting.
 
 As an alternative there are [CCC Remotes](https://events.ccc.de/#dezentral-2022-events), so in various places / hackerspaces they participate with their own program. At TkkrLab we are going  open the doors between on Dec 28th. and 29 Dec. from 14:00 till 22:00. Go watch the CCC video streams with fellow nerds. So come along, drink a club mate and take your project with you to tinker with.
+
+Where : TkkrLab, Marsstede 98, Enschede, Netherlands
+When : 28 & 29 Dec. from 14:00 till 22:00 (or later..)
+Cost : Free. Bring your own laptop/stuff to tinker.
+Language : Dutch, English and a bit German

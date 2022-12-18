@@ -19,7 +19,7 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 
 ### Programma 2023
 
-* 21 Jan - 2D : Inkscape
+* 21 Jan - [2D : Inkscape](/cybersaturdays/2023_01_21_inkscape)
 * 18 Feb - 2D : Lasercutter
 * 4 Maart - 2D : Intro naaimachine 
 * 18 Maart - 2D : Tenten maken
