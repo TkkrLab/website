@@ -13,28 +13,40 @@ De CyberSaturday is een maandelijks evenement georganiseerd door TkkrLab. We beg
 
 Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maandelijks te organiseren en (buitenlandse) gasten uit te nodigen. 
 
-Iedereen is welkom om mee te doen met onze activiteiten, je hoeft geen deelnemer te zijn.
+Iedereen is welkom om mee te doen met onze activiteiten, je hoeft geen deelnemer te zijn. Het kan wel zijn dat materiaal kosten in rekening word gebracht.
 
 De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www.youtube.com/user/TkkrLab) gepubliceerd worden.
 
 ### Programma 2023
+Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal workshop/lezingen achter elkaar geven. 
 
-* 21 Jan - [2D : Inkscape](/cybersaturdays/2023_01_21_inkscape)
-* 18 Feb - 2D : Lasercutter
-* 4 Maart - 2D : Intro naaimachine 
-* 18 Maart - 2D : Tenten maken
-* 25 Maart - Open dag
-* 15 April - 3D : Ontwerp met Blender
-* 20 Mei - 3D : Slicer (Prusa)
-* 17 Juni - 3D : OpenSCAD
+#### Thema 2D
+* 21 Jan - [Inkscape](/cybersaturdays/2023_01_21_inkscape)
+* 18 Feb - [Lasercutter](/cybersaturdays/2023_02_18_lasercutter)
+* 4 Maart - [Intro naaimachine](/cybersaturdays/2023_03_04_basis_naaimachine) 
+* 18 Maart - [Tenten maken](/cybersaturdays/2023_03_04_tenten)
 
-### Programma 2022
 
-* 29 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
-* 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
-* 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
+##### 25 Maart - Open dag
 
-# Historie
+#### Thema 3D
+
+* 15 April - [Ontwerp met Blender](/cybersaturdays/2023_04_15_blender)
+* 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
+* 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
+
+#### Zomervakantie
+#### Thema Electronica (nog verder te bepalen)
+#### Thema Programmeren (Nog verder te bepalen)
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Oude CyberSaturdays
 
 ### 2022 :
 * 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
@@ -52,10 +64,9 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 
 ### 2021 :
 
-
 * Jan 16 - [Presentatie programma](/cybersaturdays/2021_01_16_presentatie_programma/) (bekijk deze op [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
 * Feb 20 - [Online Privacy door Dave Borghuis](/cybersaturdays/2021_02_20_online_privacy/)   
-* Mrt 20 - [Een moderne aanpak voor het parsen van programma's / A modern approach to parsing programs door Frans Faase (Taal : Engels)](/cybersaturdays/2021_03_20_parsers/)
+* Mrt 20 - [A modern approach to parsing programs door Frans Faase (Taal : Engels)](/cybersaturdays/2021_03_20_parsers/)
 * Apr 17 - [Jouw computerbeveiliging](/cybersaturdays/2021_04_17_jouw_computerbeveiliging/) ( 1 / 2 ) - Jurjen Stellingwerff
 * Mei 15 - [Workshop Lasercutter – Dave Borghuis](/cybersaturdays/2021_05_15_inkscape_en_lasercutter/)
 * Jun 19 - [Werken aan computer security](/cybersaturdays/2021_06_19_werken_aan_computersecurity/) ( 2 / 2 ) – Jurjen Stellingwerff
@@ -65,7 +76,7 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 * Nov 20 - [SMD for terrified beginners - Kliment Yanev](/cybersaturdays/2021_11_20_smd_for_terrified_beginners__kliment_yanev/) (Taal : Engels)
 * Dec 18 - [Introductie Raspberry Pi](/cybersaturdays/2021_12_18_raspberry_pi/) (hardware workshop verplaatst naar 19 Feb 2022)
 
-
+<hr>
 <br /><br />
 Dit evenement word mede mogelijk gemaakt door [Creative broedplaats Twente](http://www.creatievebroedplaatsentwente.nl/).
 <br /><br />
