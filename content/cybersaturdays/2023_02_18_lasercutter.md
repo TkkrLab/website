@@ -30,9 +30,9 @@ Wanneer : Zaterdag 18 Februari 2023 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/TkkrLab/), neem eigen laptop met je ontwerp mee.
+Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/TkkrLab/nwxtb/), neem eigen laptop met je ontwerp mee.
 
-Taal : Nederlands
+Taal : Engels, Nederlands als er alleen Nederlanders zijn.
 
 <hr>
 

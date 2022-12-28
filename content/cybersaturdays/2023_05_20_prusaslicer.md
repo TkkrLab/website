@@ -6,7 +6,7 @@ noprevnext: true
 disable_comments: true
 ---
 
-## 20 Maart Vanaf 14:00 ##
+## 20 Mei Vanaf 14:00 ##
 
 
 <!-- <div style="margin: 0 15% 5%;">
@@ -22,11 +22,11 @@ Verdere onderwerpen die zal worden behandeld zijn:
 
 <hr>
 
-Wanneer : Zaterdag 20 Maart 2023 14:00
+Wanneer : Zaterdag 20 Mei 2023 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/TkkrLab/)
+Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/TkkrLab/vhqlm/)
 
 Taal : Nederlands
 
