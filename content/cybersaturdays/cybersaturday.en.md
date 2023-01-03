@@ -51,6 +51,10 @@ The events will also be recorded and published on our [youtube channel] (https:/
 ) 
 * 18 Juni - [Hardware hacking met Jilles Groenendijk](/cybersaturdays/hardware_hacking__jilles_groenendijk/)
 * 2 Juli - [Angelique Kunst - boek over Gerard Sanderink & Rian van Rijbroek](/cybersaturdays/2022_07_02_angelique_kunst/)
+* 15 Okt -[Coding generative art by Bleeptrack (EN)](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
+* 19 Nov [3d CAD / Fusion360 beginners](/cybersaturdays/2022_11_19_3d_cad_beginners)
+* 17 Dec [3d CAD / Fusion360 geavanceerd](/cybersaturdays/2022_12_17_3d_cad_advanced/)
+
 
 ### 2021 :
 

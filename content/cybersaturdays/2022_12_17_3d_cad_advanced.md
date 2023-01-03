@@ -10,6 +10,10 @@ disable_comments: true
 
 # 3D Cad advanced
 
+{{< youtube 7x4G7oGmGPA >}}
+
+
+
 Vervolg op onze workshop van 19 November. Je hoeft niet deze workshop gevolgd te hebben maar je moet wel deze kennis bezitten (basis kennis ontwerpen in Fusion360) om hieraan mee te doen. Bekijk eventueel de video die we hiervan gemaakt hebben op youtube.
 
 Onderwerpen zijn onder andere :
