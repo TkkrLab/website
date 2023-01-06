@@ -64,8 +64,6 @@ Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal work
 * 19 Nov [3d CAD / Fusion360 beginners](/cybersaturdays/2022_11_19_3d_cad_beginners)
 * 17 Dec [3d CAD / Fusion360 geavanceerd](/cybersaturdays/2022_12_17_3d_cad_advanced/)
 
-
-
 ### 2021 :
 
 * Jan 16 - [Presentatie programma](/cybersaturdays/2021_01_16_presentatie_programma/) (bekijk deze op [Youtube](https://www.youtube.com/watch?v=nieysTn9afA) )
