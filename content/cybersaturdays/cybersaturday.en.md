@@ -18,22 +18,25 @@ The events will also be recorded and published on our [youtube channel] (https:/
 
 
 ### Programma 2023
-
-* 21 Jan - 2D : Inkscape
-* 18 Feb - 2D : Lasercutter
-* 4 Maart - 2D : Intro sewing machine 
-* 18 Maart - 2D : Creating Tents
-* 25 Maart - Open day
-* 15 April - 3D : Design with Blender
-* 20 Mei - 3D : Slicer (Prusa)
-* 17 Juni - 3D : OpenSCAD
-
-### Programma 2022
+* 21 Jan - [Inkscape](/cybersaturdays/2023_01_21_inkscape)
+* 18 Feb - [Lasercutter](/cybersaturdays/2023_02_18_lasercutter)
+* 4 Maart - [Intro sewing machine](/cybersaturdays/2023_03_04_basis_naaimachine) 
+* 18 Maart - [Creating Tents](/cybersaturdays/2023_03_04_tenten)
 
 
-* 29 Okt - [Coding Generative art by Bleeptrack](/cybersaturdays/2022_10_15_coding_generative_art_bleeptrack/)
-* 19 Nov - [3D-CAD voor beginners](/cybersaturdays/2022_11_19_3d_cad_beginners/)
-* 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
+##### 25 Maart - Open dag
+
+#### Thema 3D
+
+* 15 April - [Design met Blender](/cybersaturdays/2023_04_15_blender)
+* 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
+* 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
+
+#### Summer holiday
+#### Theme Electronica (nog verder te bepalen)
+#### Theme Programmeren (Nog verder te bepalen)
+
+
 
 ## History
 

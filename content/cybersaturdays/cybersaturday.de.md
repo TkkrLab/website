@@ -19,16 +19,24 @@ Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/
 
 Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 
-# Programma 2022
+# Programm 2022
 
-* 21. Januar - 2D: Inkscape
-* 18. Februar - 2D: Lasercutter
-* 4. März - 2D: Einführung Nähmaschine
-* 18. März - 2D: Aufbau von Zelten
-* 25. März - Tag der offenen Tür
-* 15. April - 3D: Design mit Blender
-* 20. Mai - 3D: Slicer (Prusa)
-* 17. Juni - 3D: OpenSCAD
+#### Thema 2D
+* 21 Jan - [Inkscape](/cybersaturdays/2023_01_21_inkscape)
+* 18 Feb - [Lasercutter](/cybersaturdays/2023_02_18_lasercutter)
+* 4 Maart - [Intro Nähmaschine](/cybersaturdays/2023_03_04_basis_naaimachine) 
+* 18 Maart - [Zelte bauen](/cybersaturdays/2023_03_04_tenten)
+
+
+##### 25 Maart - Open dag
+
+#### Thema 3D
+
+* 15 April - [Ontwerp met Blender](/cybersaturdays/2023_04_15_blender)
+* 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
+* 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
+
+
 
 # Programma 2022
 
