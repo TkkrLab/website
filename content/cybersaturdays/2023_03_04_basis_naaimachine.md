@@ -15,18 +15,22 @@ disable_comments: true
 
 Deze workshop is bedoeld als introductie leren omgaan met naaimachine, ter voorbereiding voor de workshop tenten maken.
 
+Indien je zelf een naaimachine hebt of kunt regelen svp doen. 
+
 Verdere onderwerpen die zal worden behandeld zijn:
 
- * ...
+ * Leer je eigen machine kennen
+ * maak een zoom
+ * .. 
  
 
 <hr>
 
-Wanneer : Zaterdag 4 Maart 2023 14:00
+Wanneer : Zaterdag 4 Maart 2023 14:00 - 16:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/TkkrLab/)
+Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/control/event/TkkrLab/7kje7/)
 
 Taal : Nederlands
 
