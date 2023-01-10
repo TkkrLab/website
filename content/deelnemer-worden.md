@@ -10,7 +10,7 @@ Op bezoek komen mag natuurlijk altijd. Maar als je ons kent, regelmatig komt en 
 
 Alle deelnemers zijn gelijk in zijn rechten en plichten, dus ook het bestuur van Tkkrlab moet dezelfde taken uitvoeren als iedere andere deelnemer.
 
-De stichting Tkkrlab zorgt er voor dat de space wordt onderhouden: de stichting betaald de huur en zorgt voor inrichting. Deelnemers kunnen in ruil voor hun maandelijkse deelnemersbijdrage gebruik maken van de voorizeningen van het Tkkrlab.
+De stichting Tkkrlab zorgt er voor dat de space wordt onderhouden: de stichting betaald de huur en zorgt voor inrichting. Deelnemers kunnen in ruil voor hun maandelijkse deelnemersbijdrage gebruik maken van de voorzieningen van het Tkkrlab.
 
 # Wat krijg je als deelnemer van het Tkkrlab
  - 24/7 toegang tot de space.
@@ -66,18 +66,18 @@ Bezoek Tkkrlab op zijn minst een paar keer om ons te leren kennen (en wij jou na
 
 Meld je vervolgens aan via de volgende stappen:
 
- - Kom minimaal een paar keer bij ons langs, zo leren we je kennen en weet je of Tkkrlab wat voor je is.
+ - Vul het [inschrijfformulier](https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) in. Hiermee verplicht je je tot betaling van de deelnemersbijdrage.
+ - Kom minimaal een keer bij ons langs, zo leren we je kennen en weet je of Tkkrlab wat voor je is.
  - Lees de <a href="/huisregels/" target="_blank">Huisregels</a>.
- - Vul [dit](https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) formulier in. Hiermee verplicht je je tot betaling van de deelnemersbijdrage.
- - Na het controleren van je gegevens krijg je een bevestiging (mondeling, via email of op een andere manier) dat je deelnemer bent geworden van het Tkkrlab. Als dit niet binnen een week is gebeurt vraag dan een van de bestuursleden wat de status is.
+ - Na het controleren van je gegevens krijg je een bevestiging via email dat je deelnemer bent geworden van het Tkkrlab. Als dit niet binnen een week is gebeurd, vraag dan een van de bestuursleden wat de status is.
  - Maak een automatische betaling aan voor de 1e van iedere maand naar onze bank rekening NL57ABNA0408886641 t.a.v. Stichting Tkkrlab.
- - Je krijgt een eigen sleutel na de eerste betaling. Voor de sleutel vragen we € 5 borg.
+ - Je kan een sleutel krijgen na de eerste betaling. Voor de sleutel vragen we € 5 borg.
  - Abonneer je op de [deelnemers-mailinglist](http://tkkrlab.nl/mailman/listinfo/members_tkkrlab.nl).
  - Optioneel: Schrijf je in op de Algemene nieuwsbrief (ook voor externe mensen) Nieuwsbrief. Als je op de hoogte wil blijven van andere hackerspaces schrijf je in op [general hackerspaces.nl](http://lists.hack42.nl/listinfo/general).
 
 # Opzegging
 
-Indien je wil opzeggen stuur dan een email aan bestuur@tkkrlab.nl. De opzegging gaat dan per direct in, mits al je betalingsverplichtingen voldaan zijn. Indien je betalingsachterstand hebt moet je deze eerst  voldoen, daarnaast mag je barsaldo niet negatief zijn. Ook moet de sleutel worden ingeleverd.
+Indien je wil opzeggen stuur dan een email aan bestuur@tkkrlab.nl. De opzegging gaat dan per direct in, mits al je betalingsverplichtingen voldaan zijn. Indien je betalingsachterstand hebt moet je deze eerst voldoen, daarnaast mag je barsaldo niet negatief zijn. Ook moet de sleutel worden ingeleverd.
 
 # Sponsoren & Donaties
 Indien je eenmalig een schenking aan ons wilt doen (indien gewenst anoniem) neem dan [contact op met het bestuur](mailto:bestuur@tkkrlab.nl) voor meer informatie.
