@@ -8,7 +8,7 @@ disable_comments: true
 ---
 <img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0 30%;">
 
-The CyberSaturday is a monthly event organized by TkkrLab. We usually started from 2:00 pm. After the event there is an opportunity to hang around, around supper time we check to see if something can be arranged together (at your own expense).
+The CyberSaturday is a monthly event organized by TkkrLab, accessible for everyone. We usually started from 2:00 pm. After the event there is an opportunity to hang around, around supper time we check to see if something can be arranged together (at your own expense).
 
 From 2021 we have received a subsidy which makes it possible to organize this monthly and to invite (foreign) guests.
 

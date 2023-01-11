@@ -9,7 +9,7 @@ disable_comments: true
 <img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0 30%;">
 
 
-Der CyberSaturday ist eine monatliche Veranstaltung, die von TkkrLab organisiert wird. Wir fangen normalerweise ab 14 Uhr an. Nach der Veranstaltung besteht die Möglichkeit zu verweilen, möglicherweise um die Essenszeit herum, um zu sehen, ob etwas gemeinsam arrangiert werden kann (auf eigene Kosten).
+Der CyberSaturday ist eine monatliche Veranstaltung, die von TkkrLab organisiert wird und für alle offen ist. Wir starten in der Regel um 14:00 Uhr. Nach der Veranstaltung besteht die Möglichkeit zum Verweilen, ggf. um die Essenszeit herum schauen wir, ob gemeinsam etwas arrangiert werden kann (auf eigene Kosten).
 
 Ab 2021 haben wir einen Zuschuss erhalten, der es ermöglicht, diesen monatlich zu organisieren und (ausländische) Gäste einzuladen.
 
