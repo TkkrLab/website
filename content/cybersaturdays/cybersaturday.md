@@ -21,9 +21,9 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal workshop/lezingen achter elkaar geven. 
 
 #### Thema 2D
-* 21 Jan - [Inkscape](/cybersaturdays/2023_01_21_inkscape)
-* 18 Feb - [Lasercutter](/cybersaturdays/2023_02_18_lasercutter)
-* 4 Maart - [Intro naaimachine](/cybersaturdays/2023_03_04_basis_naaimachine) 
+* 21 Jan - [Ontwerpen in Inkscape](/cybersaturdays/2023_01_21_inkscape)
+* 18 Feb - [Lasercutter workshop](/cybersaturdays/2023_02_18_lasercutter)
+* 4 Maart - [Introductie naaimachine](/cybersaturdays/2023_03_04_basis_naaimachine) 
 * 18 Maart - [Tenten maken](/cybersaturdays/2023_03_04_tenten)
 
 
@@ -32,8 +32,8 @@ Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal work
 #### Thema 3D
 
 * 15 April - [Ontwerp met Blender](/cybersaturdays/2023_04_15_blender)
-* 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
-* 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
+* 20 Mei - [Slicen en 3D printen met PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
+* 17 Juni - [3D programmeren met OpenSCAD](/cybersaturdays/2023_06_17_openscad)
 
 #### Zomervakantie
 #### Thema Electronica (nog verder te bepalen)
