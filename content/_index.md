@@ -10,10 +10,10 @@ disable_comments: true
 
 <br />
 
-### Wil je ons bezoeken? Kom dan op een dinsdagavond of maak [een afspraak](https://tickets.tkkrlab.space/TkkrLab/rondleiding/) voor een rondleiding op donderdagavond. Je bent ook welkom als we open zijn (zie status rechtsboven aan deze webpagina).
-
+### Wil je ons bezoeken? Kom dan op een dinsdagavond of maak [een afspraak](https://tickets.tkkrlab.space/TkkrLab/rondleiding/) voor een rondleiding op donderdagavond. Je bent ook welkom als we open zijn, zie status rechtsboven aan deze webpagina. 
 <br/>
-Iedereen is welkom om ons te bezoeken, ongeacht je achtergrond of je opleiding.
+Iedereen is welkom om ons te bezoeken, ongeacht je achtergrond of je opleiding. Bekijk onze [heatmap](https://mapall.space/heatmap/show.php?id=TkkrLab) om te zien wanneer we gemiddeld open zijn. 
+
 
 <br/>
 <!--- <div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
