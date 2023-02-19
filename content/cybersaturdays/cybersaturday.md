@@ -27,7 +27,7 @@ Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal work
 * 18 Maart - [Tenten maken](/cybersaturdays/2023_03_04_tenten)
 
 
-##### 25 Maart - Open dag
+##### [25 Maart - Open dag](/blog/blog_nieuws_2023_02_10_opendag/)
 
 #### Thema 3D
 

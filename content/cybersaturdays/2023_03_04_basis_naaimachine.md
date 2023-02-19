@@ -27,7 +27,7 @@ Verdere onderwerpen die zal worden behandeld zijn:
  * starten en stoppen, met afhechten
  * herstellen van fouten
  
-Als oefenproject gaan we (vierkante) kussenslopen maken. Als je daar zelf een kussenvulling voor hebt, of stof, neem die dan mee. Dit hoeft niet, ik neem oefenmateriaal en stof mee. 
+Als oefenproject gaan we (vierkante) kussenslopen maken. Als je daar zelf een kussenvulling voor hebt, of stof, neem die dan mee. Dit hoeft niet, er is oefenmateriaal en stof aanwezig bij TkkrLab. 
  
 
 <hr>
