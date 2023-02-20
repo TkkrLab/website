@@ -36,7 +36,7 @@ Wanneer : Zaterdag 4 Maart 2023 14:00 - 16:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/control/event/TkkrLab/7kje7/)
+Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/TkkrLab/7kje7/)
 
 Taal : Nederlands
 

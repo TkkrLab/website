@@ -14,6 +14,6 @@ Wil je meteen aan de slag, dan is het mogelijk om gebruik te maken van onze lase
 
 Mocht je niet in de gelegenheid zijn om op de open dag langs te komen? We zijn vrijwel elke avond geopend. Kijk voor de zekerheid op onze website of we aanwezig zijn. De status kan je vinden rechtsboven in de pagina.
 
-Is Enschede te ver weg voor een bezoek, kijk dan of er een hackerspace bij je in de buurt meedoet. 
+Is Enschede te ver weg voor een bezoek, kijk dan of er een hackerspace bij je in de buurt meedoet.
 
 [Deelnemende spaces Nederland](https://hackerspaces.nl/open-dag/)
