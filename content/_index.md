@@ -36,7 +36,7 @@ Hackerspace TkkrLab is een community die zelfontplooiing in techniek [faciliteer
 
 <br>
 
-Om deze projecten te faciliteren hebben we diverse [tools](https://handleidingen.tkkrlab.space/gereedschappen/) zoals 3d printers, lasercutter, electronica werkbank en eigen werkplaats die door de deelnemers zijn te gebruiken. Bezoekers van TkkrLab wordt een bijdrage gevraagd. Daarnaast is het ook gewoon gezellig om het met gelijkgestemden te hebben over bijv. de laatste ontwikkeling op AI, security, privacy, processoren, programmeertalen, vim of emacs, beste linux distributie en meer. Bij TkkrLab leer je iedere dag wel iets nieuws.
+Om deze projecten te faciliteren hebben we diverse [tools](https://handleidingen.tkkrlab.space/gereedschappen/) zoals 3d printers, lasercutter, electronica werkbank en eigen werkplaats die door de deelnemers zijn te gebruiken. Daarnaast is het ook gewoon gezellig om het met gelijkgestemden te hebben over bijv. de laatste ontwikkeling op AI, security, privacy, processoren, programmeertalen, vim of emacs, beste linux distributie en meer. Bij TkkrLab leer je iedere dag wel iets nieuws.
 
 <br>
 
