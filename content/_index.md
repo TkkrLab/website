@@ -16,7 +16,7 @@ Iedereen is welkom om ons te bezoeken, ongeacht je achtergrond of je opleiding. 
 
 
 <br/>
-<!--- <div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
+<!---   <div style="background: white;margin: 5px;padding:10px;border: 4px dashed #CCCCCC;">
 <strong>Corona measures:</strong><p>
 Currently all measures have been lifted, check the <a href="/corona">corona</a> page for more information. 
 </div> -->
