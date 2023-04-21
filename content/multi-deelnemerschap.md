@@ -34,16 +34,16 @@ Komt jouw hackerspace in aanmerking, maar staat deze nog niet op de lijst? Neem 
 
 De volgende hackerspaces voldoen:
 
- - ACKspace
- - Bhack
+ - [ACKspace](https://ackspace.nl)
  - [Bitlair](https://bitlair.nl/Multi-deelnemerschap)
- - Frack
- - Hack42
+ - [Frack](https://frack.nl)
+ - [Hack42](https://hack42.nl)
  - [Hackalot](https://hackalot.nl/Multi-deelnemerschap)
- - NURDspace
- - Pixelbar
+ - [Hackerspace Drenthe](https://www.hackerspace-drenthe.nl)
+ - [NURDspace](https://nurdspace.nl)
+ - [Pixelbar](https://www.pixelbar.nl)
  - [RevSpace](https://revspace.nl/index.php?title=Multi-deelnemerschap)
- - TechInc
+ - [TechInc](https://techinc.nl)
  - [Tkkrlab](https://www.tkkrlab.nl)
 
 NB: De andere space hoeft geen soortgelijke constructie aan te bieden om de korting bij TkkrLab te kunnen krijgen, maar we hopen dat andere spaces wel meedoen. Elke space kan daarbij uiteraard zelf bepalen welke voorwaarden zij stellen om voor korting in aanmerking te komen.
