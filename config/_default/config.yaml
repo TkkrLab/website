@@ -21,7 +21,26 @@ languages:
 defaultContentLanguage: nl
     
 markup:
-  defaultMarkdownHandler: blackFriday
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
 
 params:
   subtitle: "Makerspace Enschede"
@@ -35,7 +54,7 @@ params:
   readmore: true
   post_navigation: true
   postSections: ["blog"]
-  copyright: "Copyright 2021 - Stichting TkkrLab"
+  copyright: "Copyright 2023 - Stichting TkkrLab"
   widgets:
     search: false
     recent_articles: true
