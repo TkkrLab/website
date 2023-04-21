@@ -30,7 +30,7 @@ Onze definitie van een space omvat:
  - De space wordt beheerd door een bij de KvK ingeschreven stichting of vereniging.
  - Deelnemerschap is in beginsel open voor alle geïnteresseerden.
 
-Komt jouw hackerspace in aanmerking, maar staat deze nog niet op de lijst? Neem contact op met het bestuur van Tkkrlab!
+Komt jouw hackerspace in aanmerking, maar staat deze nog niet op de lijst? Neem contact op met het bestuur van TkkrLab!
 
 De volgende hackerspaces voldoen:
 
@@ -46,7 +46,9 @@ De volgende hackerspaces voldoen:
  - [TechInc](https://techinc.nl)
  - [Tkkrlab](https://www.tkkrlab.nl)
 
-NB: De andere space hoeft geen soortgelijke constructie aan te bieden om de korting bij TkkrLab te kunnen krijgen, maar we hopen dat andere spaces wel meedoen. Elke space kan daarbij uiteraard zelf bepalen welke voorwaarden zij stellen om voor korting in aanmerking te komen.
+NB: De andere space hoeft geen soortgelijke constructie aan te bieden om de korting bij TkkrLab te kunnen krijgen,
+maar we hopen dat andere spaces wel meedoen.
+Elke space kan daarbij uiteraard zelf bepalen welke voorwaarden zij stellen om voor korting in aanmerking te komen.
 
 Op dit moment participeren de volgende hackerspaces in deze constructie:
 
