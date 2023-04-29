@@ -21,7 +21,7 @@ Everyone is welcome to visit us, independend of your background or education. Ch
  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;"
  frameborder="0" width="100%" height="100%" 
  allowfullscreen allow="autoplay"
- src="360.html"></iframe>
+ src="/360.html"></iframe>
 </div>
 
 Hackerspace TkkrLab is a community that [facilitates](https://handleidingen.tkkrlab.space/handleidingen/make_everything/) self-development in technology. Each participant has his own area of ​​interest. One person may be mainly involved with software (eg embedded, home automation, websites and more), another builds 3d printers or a CNC mill while someone else designs his own electronic circuit boards to control a robot. The common factor here is that everything is technical and / or creative in the broadest sense of the word. By exchanging knowledge and experience in our community, there is always someone present who can help you with your [projects](/projects/).
