@@ -43,7 +43,7 @@ Als je op de hoogte wil blijven van onze activiteiten schrijf je dan in op onze 
 
 
 
-Woon je niet in Enschede, maar lijkt een hackerspace je wel wat, kijk dan op [hackerspaces.nl] (https://hackerspaces.nl)
+Woon je niet in Enschede, maar lijkt een hackerspace je wel wat, kijk dan op [hackerspaces.nl](https://hackerspaces.nl)
 
 
 
