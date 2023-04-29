@@ -29,7 +29,7 @@ Haben wir Ihr Interesse geweckt? Dann besuchen Sie uns unverbindlich und lernen 
 
 In der rechten oberen Ecke unserer Website finden Sie den Space-Status. Wenn wir geöffnet haben, sind Sie herzlich eingeladen, uns zu besuchen! Oder vereinbaren Sie einen Termin über unser [Ticketsystem](https://tickets.tkkrlab.space/TkkrLab/rondleiding/).
 
-Weitere Informationen zu unseren Workshops und Vorträgen finden Sie in unserer [Agenda](/Agenda/). Wir haben auch ein [Blog](/blog/) für die neuesten Nachrichten.
+Weitere Informationen zu unseren Workshops und Vorträgen finden Sie in unserer [Agenda](/agenda/). Wir haben auch ein [Blog](/blog/) für die neuesten Nachrichten.
 
 Wenn Sie über unsere Aktivitäten auf dem Laufenden bleiben möchten, können Sie sich in unserem [Newsletter](http://eepurl.com/gLxrLD) oder [Kontakt](/contact/) bei uns anmelden.
 
