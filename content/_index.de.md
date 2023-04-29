@@ -23,7 +23,7 @@ Hackerspace TkkrLab ist eine Community, die die Selbstentwicklung in der Technol
 
 Um diese Projekte zu erleichtern, verfügen wir über verschiedene [Tools](https://handleidingen.tkkrlab.space/gereedschappen/) wie 3D-Drucker, Laserschneider, Elektronik-Werkbank und unseren eigenen Workshop, der von den Teilnehmern verwendet werden kann. Besucher von TkkrLab werden um einen Beitrag gebeten. Darüber hinaus ist es auch schön, mit Gleichgesinnten über die neuesten Entwicklungen in den Bereichen KI, Sicherheit, Datenschutz, Prozessoren, Programmiersprachen, Vim oder Emacs, beste Linux-Distribution und mehr zu sprechen. Bei TkkrLab lernen Sie jeden Tag etwas Neues.
 
-Wir organisieren regelmäßig Veranstaltungen wie Vorträge und Workshops, die für unsere Teilnehmer und Zielgruppen von Interesse sind. Diese sind für alle kostenlos, überprüfen Sie unsere Agenda für die geplanten [CyberSaturdays](/ cybersaturdays/cybersaturday/) und andere Veranstaltungen.
+Wir organisieren regelmäßig Veranstaltungen wie Vorträge und Workshops, die für unsere Teilnehmer und Zielgruppen von Interesse sind. Diese sind für alle kostenlos, überprüfen Sie unsere Agenda für die geplanten [CyberSaturdays](/cybersaturdays/cybersaturday/) und andere Veranstaltungen.
 
 Haben wir Ihr Interesse geweckt? Dann besuchen Sie uns unverbindlich und lernen Sie unsere Community, Teilnehmer und die Möglichkeiten des Hackerspace TkkrLab kennen.
 
