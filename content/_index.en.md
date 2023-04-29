@@ -11,7 +11,7 @@ disable_comments: true
 Currently all restrictions have been lifted, check the <a href="/corona">corona</a> page for more information. 
 </div> -->
 
-### Do you want to visit us? Then come on a Tuesday evening or make [an appointment] (https://tickets.tkkrlab.space/TkkrLab/rondleiding/) for a guided tour on Thursday evening. You are also welcome when we are open (see status at the top right of this webpage).
+### Do you want to visit us? Then come on a Tuesday evening or make [an appointment](https://tickets.tkkrlab.space/TkkrLab/rondleiding/) for a guided tour on Thursday evening. You are also welcome when we are open (see status at the top right of this webpage).
 
 Everyone is welcome to visit us, independend of your background or education. Check out our [heatmap](https://mapall.space/heatmap/show.php?id=TkkrLab) to see when we are open on average. 
 
