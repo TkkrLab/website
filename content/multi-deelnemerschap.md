@@ -27,7 +27,7 @@ Met ingang van 1 april 2018 biedt Tkkrlab bijzondere tarieven voor mensen die al
 |-----------------------------------------|---------|
 | Regulier deelnemerschap (vanaf 18 jaar) | 32,00   |
 | TkkrLab als 2e hackerspace              | **19,84**   |
-| TkkrLab als 3e of volgende hackerspace  | **13,37**   |
+| TkkrLab als 3e of meerdere hackerspace  | **13,37**   |
 
 ### Definitie van "hackerspace" (of "makerspace")
 Onze definitie van een space omvat:
