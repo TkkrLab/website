@@ -23,6 +23,14 @@ In this way, we want to encourage people to get involved in multiple hackerspace
   You must request the discount yourself when registering, or afterwards via the board.
   State which space is your primary space (i.e. where you pay ≥ 25 €/month), and possibly which is your secondary space.
   The discount then applies from the next calendar month.
+  
+#### Price of multi-membership:
+
+| Rate type                               | €/maand |
+|-----------------------------------------|---------|
+| Regular membership (from 18 years old)  | 32,00   |
+| TkkrLab as 2nd hackerspace              | **19,84**   |
+| TkkrLab as 3rd or higher hackerspace    | **13,37**   |
 
 ### Definition of "hackerspace" (or "makerspace")
 Our definition of a space includes:
