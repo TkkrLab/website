@@ -20,6 +20,14 @@ Met ingang van 1 april 2018 biedt Tkkrlab bijzondere tarieven voor mensen die al
  - Het bestuur heeft het recht om deze kortingsconstructie zonder aankondiging vooraf weer te beëindigen. (Uiteraard mag je je deelnemerschap altijd opzeggen.)
 
  Je moet de korting zelf aanvragen bij inschrijving, of achteraf via het bestuur. Meld daarbij welke space je primaire space is (dus waar je ≥ 25 €/maand betaalt), en eventueel welke je secundaire space is. De korting geldt dan vanaf de eerstvolgende kalendermaand.
+ 
+#### Prijzen bij multi-deelnemerschap:
+
+| Tariefsoort                             | €/maand |
+|-----------------------------------------|---------|
+| Regulier deelnemerschap (vanaf 18 jaar) | 32,00   |
+| TkkrLab als 2e hackerspace              | **19,84**   |
+| TkkrLab als 3e of volgende hackerspace  | **13,37**   |
 
 ### Definitie van "hackerspace" (of "makerspace")
 Onze definitie van een space omvat:
