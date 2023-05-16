@@ -19,7 +19,16 @@ Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/
 
 Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 
-# Programm 2022
+# Programm 2023
+* 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
+* 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
+* 15 July - [Workshop Lockpicking](/cybersaturdays/2023_07_15_lockpicking)
+
+
+
+## Vergangene Ereignisse
+
+### 2023 :
 
 #### Thema 2D
 * 21 Jan - [Inkscape](/cybersaturdays/2023_01_21_inkscape)
@@ -32,17 +41,8 @@ Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 
 #### Thema 3D
 
-* 15 April - [Ontwerp met Blender](/cybersaturdays/2023_04_15_blender)
-* 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
-* 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
+* 15 April - [Design 3D mitt Blender](/cybersaturdays/2023_04_15_blender)
 
-
-
-# Programma 2022
-
-* 17 Dec - [3D-CAD advanced](/cybersaturdays/2022_12_17_3d_cad_advanced/)
-
-## Vergangene Ereignisse
 
 ###  2022 :
 

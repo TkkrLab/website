@@ -9,6 +9,8 @@ disable_comments: true
 <img alt="CyberSaturday" src="/images/cyber_saturday.png" width="300px" height="300px" style="margin: 0 30%;">
 
 
+
+
 De CyberSaturday is een maandelijks evenement georganiseerd door TkkrLab dat voor iedereen toegankelijk is. We beginnen meestal vanaf 14:00. Na het evenement is er gelegenheid om rond te blijven hangen, eventueel wordt er rond etenstijd gekeken of er gemeenschappelijk wat geregeld kan worden (op eigen kosten).
 
 Vanaf 2021 hebben we subsidie ontvangen waardoor het mogelijk word om dit maandelijks te organiseren en (buitenlandse) gasten uit te nodigen. 
@@ -20,25 +22,16 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 ### Programma 2023
 Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal workshop/lezingen achter elkaar geven. 
 
-#### Thema 2D
-* 21 Jan - [Ontwerpen in Inkscape](/cybersaturdays/2023_01_21_inkscape)
-* 18 Feb - [Lasercutter workshop](/cybersaturdays/2023_02_18_lasercutter)
-* 4 Maart - [Introductie naaimachine](/cybersaturdays/2023_03_04_basis_naaimachine) 
-* 18 Maart - [Tenten maken](/cybersaturdays/2023_03_04_tenten)
-
-
-##### [25 Maart - Open dag](/blog/blog_nieuws_2023_02_10_opendag/)
 
 #### Thema 3D
-
-* 15 April - [Ontwerp met Blender](/cybersaturdays/2023_04_15_blender)
 * 20 Mei - [Slicen en 3D printen met PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
 * 17 Juni - [3D programmeren met OpenSCAD](/cybersaturdays/2023_06_17_openscad)
 
-#### Zomervakantie
-#### Thema Electronica (nog verder te bepalen)
-#### Thema Programmeren (Nog verder te bepalen)
+* 15 Juli - [Workshop Lockpicking](/cybersaturdays/2023_07_15_lockpicking)
 
+#### Zomervakantie
+
+Planning voor na de vakantie word later bekend gemaakt.
 
 
 <br/>
@@ -47,6 +40,19 @@ Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal work
 <br/>
 
 ## Oude CyberSaturdays
+
+### 2023 :
+#### Thema 2D
+* 21 Jan - [Ontwerpen in Inkscape](/cybersaturdays/2023_01_21_inkscape)
+* 18 Feb - [Lasercutter workshop](/cybersaturdays/2023_02_18_lasercutter)
+* 4 Maart - [Introductie naaimachine](/cybersaturdays/2023_03_04_basis_naaimachine) 
+* 18 Maart - [Tenten maken](/cybersaturdays/2023_03_04_tenten)
+
+##### [25 Maart - Open dag](/blog/blog_nieuws_2023_02_10_opendag/)
+
+#### Thema 3D
+* 15 April - [Ontwerp met Blender](/cybersaturdays/2023_04_15_blender)
+
 
 ### 2022 :
 * 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)

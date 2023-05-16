@@ -27,7 +27,7 @@ Wanneer : Zaterdag 20 Mei 2023 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
-Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/TkkrLab/vhqlm/)
+Kosten : reserveer je [gratis ticket](https://tickets.tkkrlab.space/TkkrLab/vhqlm/) of email [ons](mailto:dave@tkkrlab.nl)
 
 Taal : Nederlands
 
