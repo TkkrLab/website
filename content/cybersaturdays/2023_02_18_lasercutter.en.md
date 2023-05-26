@@ -8,10 +8,8 @@ disable_comments: true
 
 ## 18 Februari Vanaf 14:00 ##
 
+<iframe style="margin: 0px 10%;" width="560" height="315" src="https://www.youtube.com/embed/8clQFb96Ck4?start=366" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div style="margin: 0 15% 5%;">
-<img src="/images/fabcreator_fabcore.png" width="450px"  alt="Fabcreator fabcore">
-</div>
 In this workshop you will learn how to use our laser cutter. We explain how to send a created design to the laser and how to adjust it if necessary. Which materials you can and cannot use and what you should take into account. How to find the laser setting for new materials.
 
 Use of the laser itself will be free of charge, but cost price would have to be paid for the materials.

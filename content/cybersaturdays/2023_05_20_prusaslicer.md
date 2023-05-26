@@ -8,6 +8,10 @@ disable_comments: true
 
 ## 20 Mei Vanaf 14:00 ##
 
+{{< youtube DbB5uLDRLT8 >}}
+
+Slides van de presentatie vind je [hier](/images/2023_presentatie_slicers.pdf).
+
 
 <div style="margin: 0 15% 5%;">
 <img src="/images/prusaslicer.jpg" width="450px"  alt="Fabcreator fabcore">
@@ -20,6 +24,7 @@ Tijdens deze presentatie zal er worden gekeken naar de gebruikelijke en minder g
 Deze workshop is bedoeld voor iedereen die weleens 3D print, maar zelf nooit veel aan de instellingen heeft gezeten, maar graag meer wil leren van wat er mogelijk is. 
 
 Laptop meenemen niet noodzakelijk, maar wel handig. Je kunt [PrusaSlicer hier downloaden](https://www.prusa3d.com/page/prusaslicer_424/).
+
 
 <hr>
 
