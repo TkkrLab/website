@@ -22,12 +22,11 @@ Uiteindelijk is het niet de bedoeling om de opgedane kennis te misbruiken, en zo
 
 
 ## Over Jan-Willem en Toool
-Jan-Willem is hardwarehacker van beroep, en houdt zich in zijn vrije tijd als secretaris bezig met de lockpick verering Toool. Toool staat voor The Open Organisation of Lockpickers, een vereniging van lockpickers, sloten verzamelaars, en onderzoekers. We komen wekelijks samen om te lockpicken en informatie te delen over de hobby.
+Jan-Willem is hardwarehacker van beroep, en houdt zich in zijn vrije tijd als secretaris bezig met de lockpick vereniging Toool. Toool staat voor The Open Organisation of Lockpickers, een vereniging van lockpickers, sloten verzamelaars, en onderzoekers. We komen wekelijks samen om te lockpicken en informatie te delen over de hobby.
 
 De 'open' in Toool gaat over de openheid van het delen van kennis over de zwakke plekken in mechanische beveiligingsoplossingen. Door het geven van workshops als deze, bijvoorbeeld.
 
 Workshop verzorgd door [Toool](https://toool.nl/). 
-
 
 <hr>
 
