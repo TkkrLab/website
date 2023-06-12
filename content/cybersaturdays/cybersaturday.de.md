@@ -25,7 +25,6 @@ Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 * 15 July - [Workshop Lockpicking](/cybersaturdays/2023_07_15_lockpicking)
 
 
-
 ## Vergangene Ereignisse
 
 ### 2023 :
