@@ -18,7 +18,6 @@ Jeder ist herzlich eingeladen, an unseren Aktivitäten teilzunehmen, Sie müssen
 Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/user/TkkrLab) aufgezeichnet und veröffentlicht.
 
 Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
-
 # Programm 2023
 * 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
 * 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
