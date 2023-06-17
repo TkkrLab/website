@@ -22,7 +22,9 @@ Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 * 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
 * 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
 * 15 July - [Workshop Lockpicking](/cybersaturdays/2023_07_15_lockpicking)
-
+* 16 September Kicad
+* 18 November MQTT met TGO ESP32
+* 16 December lezing Chantal Stekelenburg
 
 ## Vergangene Ereignisse
 

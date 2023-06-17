@@ -21,6 +21,10 @@ The events will also be recorded and published on our [youtube channel] (https:/
 * 20 May - [Slicen and 3D printing with PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
 * 17 June - [3D programming with OpenSCAD](/cybersaturdays/2023_06_17_openscad)
 * 15 July - [Workshop Lockpicking](/cybersaturdays/2023_07_15_lockpicking)
+* 16 September Kicad
+* 21 Oktober nog te bepalen
+* 18 November MQTT met TGO ESP32
+* 16 December lezing Chantal Stekelenburg
 
 #### Summer holiday
 

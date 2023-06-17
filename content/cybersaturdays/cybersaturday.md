@@ -29,6 +29,12 @@ Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal work
 
 * 15 Juli - [Workshop Lockpicking](/cybersaturdays/2023_07_15_lockpicking)
 
+* 16 September Kicad
+* 21 Oktober nog te bepalen
+* 18 November MQTT met TGO ESP32
+* 16 December lezing Chantal Stekelenburg
+
+
 #### Zomervakantie
 
 Planning voor na de vakantie word later bekend gemaakt.

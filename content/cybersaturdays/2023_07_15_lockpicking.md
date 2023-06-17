@@ -34,6 +34,8 @@ Wanneer : Zaterdag 15 Juni 2023 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 
+Kosten : Gratis,reserveer je [ticket hier](https://tickets.tkkrlab.space/control/event/TkkrLab/jpltg/)
+
 Taal : Nederlands
 
 <hr>
