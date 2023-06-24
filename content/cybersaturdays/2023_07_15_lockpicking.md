@@ -1,5 +1,5 @@
 ---
-title: Workshop Lockpicking
+title: Workshop Lockpicken
 date: 2022-17-01T00:00:00+02:00
 nodateline: true
 noprevnext: true
@@ -30,7 +30,7 @@ Workshop verzorgd door [Toool](https://toool.nl/).
 
 <hr>
 
-Wanneer : Zaterdag 15 Juni 2023 14:00
+Wanneer : Zaterdag 15 Juli 2023 14:00
 
 Waar : TkkrLab, Marssteden 98, Enschede
 

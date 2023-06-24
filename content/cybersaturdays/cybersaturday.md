@@ -32,7 +32,7 @@ Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal work
 * 16 September -  [Kicad](/cybersaturdays/2023_09_16_kicad)
 * 21 Oktober nog te bepalen
 * 18 November - [MQTT met TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
-* 16 December - lezing Chantal Stekelenburg
+* 16 December - lezing door Chantal Stekelenburg
 
 
 <br/>
