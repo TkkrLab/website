@@ -32,7 +32,8 @@ Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal work
 * 16 September -  [Kicad](/cybersaturdays/2023_09_16_kicad)
 * 21 Oktober - Fediverse door Erik Kemp
 * 18 November - [MQTT met TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
-* 16 December - lezing door Chantal Stekelenburg
+* 16 December - "t’s not just stalkerware - de Hackerspace workshop editie
+" Chantal Stekelenburg
 
 
 <br/>

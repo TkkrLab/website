@@ -24,7 +24,8 @@ The events will also be recorded and published on our [youtube channel] (https:/
 * 16 Sept -  [Kicad](/cybersaturdays/2023_09_16_kicad)
 * 21 Oktober - Fediverse by Erik Kemp
 * 18 November - [MQTT with TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
-* 16 December - Lecture Chantal Stekelenburg
+* 16 December -  "t’s not just stalkerware - de Hackerspace workshop editie
+" Chantal Stekelenburg
 
 
 #### Summer holiday
