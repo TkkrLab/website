@@ -19,10 +19,8 @@ Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/
 
 Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 # Programm 2023
-* 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
-* 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
-* 15 July - [Workshop Lockpicking](/cybersaturdays/2023_07_15_lockpicking)
 * 16 Sept -  [Kicad](/cybersaturdays/2023_09_16_kicad)
+* 23 September - [Workshop Lockpicking (herhaling)](/cybersaturdays/2023_09_23_lockpicking)
 * 21 Oktober - Fediverse by Erik Kemp
 * 18 November - [MQTT with TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
 * 16 December -  "t’s not just stalkerware - de Hackerspace workshop editie
@@ -44,6 +42,9 @@ Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 #### Thema 3D
 
 * 15 April - [Design 3D mitt Blender](/cybersaturdays/2023_04_15_blender)
+* 20 Mei - [PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
+* 17 Juni - [OpenSCAD](/cybersaturdays/2023_06_17_openscad)
+* 15 July - [Workshop Lockpicking](/cybersaturdays/2023_07_15_lockpicking)
 
 
 ###  2022 :
