@@ -15,3 +15,6 @@ Voor na de vakantie hebben we al enkele evenementen op de planning staan
 * 23 september [Workshop Lockpicking (herhaling)](/cybersaturdays/2023_09_23_lockpicking)
 
 Goede vakantie toegewenst en wellicht tot bij TkkrLab!
+
+
+
