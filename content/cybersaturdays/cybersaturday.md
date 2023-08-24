@@ -23,12 +23,11 @@ De evenementen zal ook worden opgenomen en op onze [youtube channel](https://www
 Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal workshop/lezingen achter elkaar geven. 
 
 
-* 16 September -  [Kicad](/cybersaturdays/2023_09_16_kicad)
+* 16 September -  [Workshop KiCad](/cybersaturdays/2023_09_16_kicad)
 * 23 September - [Workshop Lockpicking (herhaling)](/cybersaturdays/2023_09_23_lockpicking)
 * 21 Oktober - Fediverse door Erik Kemp
 * 18 November - [MQTT met TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
-* 16 December - "t’s not just stalkerware - de Hackerspace workshop editie
-" Chantal Stekelenburg
+* 16 December - "It’s not just stalkerware - de Hackerspace workshop editie" Chantal Stekelenburg
 
 
 <br/>
