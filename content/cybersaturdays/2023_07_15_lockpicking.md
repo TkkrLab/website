@@ -9,9 +9,7 @@ disable_comments: true
 ## 15 Juli Vanaf 14:00 ##
 
 
-<div style="margin: 0 15% 5%;">
-<img src="/images/lockpicking-meister_de.webp" width="450px"  alt="Lockpicking transparent lock">photo by <a href='https://lockpicking-meister.de'>lockpicking-meister.de</a>
-</div>
+<iframe style="margin: 0px 10%;" width="560" height="315" src="https://www.youtube.com/embed/n5pmCFjYlqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Lockpicken is een manier van schade-vrij een slot open maken waar je geen sleutel van hebt. Hoewel een slot vaak meerdere pinnen heeft en elk op de juiste hoogte moeten worden gezet voor het open gaat, kunnen we het ook verslaan. Met lockpicken kan het slot onderdruk zetten en met een klein metalen haakje in het slot de pin voelen. Met als doel te vinden welke pin de rotatie blokkeert. Als de pin gevonden is en deze op de juiste hoogte is gezet, kunnen we het proces herhalen tot het sloten helemaal open is.
