@@ -21,6 +21,7 @@ Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 # Programm 2023
 * 16 Sept -  [Workshop Kicad](/cybersaturdays/2023_09_16_kicad)
 * 23 September - [Workshop Lockpicking (herhaling)](/cybersaturdays/2023_09_23_lockpicking)
+* 7 Oktober Weekend van de Wetenschap van 12:00-20:00
 * 21 Oktober - [Fediverse by Erik Kemp](/cybersaturdays/2023_10_21_fediverse)
 * 18 November - [MQTT with TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
 * 16 December -  "It’s not just stalkerware - de Hackerspace workshop editie
