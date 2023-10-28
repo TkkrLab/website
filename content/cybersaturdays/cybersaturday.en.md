@@ -14,7 +14,7 @@ From 2021 we have received a subsidy which makes it possible to organize this mo
 
 Everyone is welcome to participate in our activities, you don't have to be a TkkrLab member.
 
-The events will also be recorded and published on our [youtube channel] (https://www.youtube.com/user/TkkrLab).
+The events will also be recorded and published on our [youtube channel](https://www.youtube.com/user/TkkrLab).
 
 
 ### Programma 2023
@@ -23,8 +23,7 @@ The events will also be recorded and published on our [youtube channel] (https:/
 * 7 Oktober Weekend van de Wetenschap van 12:00-20:00
 * 21 Oktober - [Fediverse by Erik Kemp](/cybersaturdays/2023_10_21_fediverse)
 * 18 November - [MQTT with TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
-* 16 December -  "It’s not just stalkerware - de Hackerspace workshop editie
-" Chantal Stekelenburg
+* 16 December - ["It’s not just stalkerware - de Hackerspace workshop editie"](/cybersaturdays/2023_12_16_its_not_just_stalkerware) Chantal Stekelenburg
 
 
 #### Summer holiday

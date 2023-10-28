@@ -26,7 +26,7 @@ Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal work
 * 7 Oktober Weekend van de Wetenschap van 12:00-20:00
 * 21 Oktober - [Fediverse door Erik Kemp](/cybersaturdays/2023_10_21_fediverse)
 * 18 November - [MQTT met TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
-* 16 December - "It’s not just stalkerware - de Hackerspace workshop editie" Chantal Stekelenburg
+* 16 December - ["It’s not just stalkerware - de Hackerspace workshop editie"](/cybersaturdays/2023_12_16_its_not_just_stalkerware) Chantal Stekelenburg
 
 
 <br/>

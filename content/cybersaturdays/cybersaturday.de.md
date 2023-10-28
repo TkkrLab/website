@@ -15,7 +15,7 @@ Ab 2021 haben wir einen Zuschuss erhalten, der es ermöglicht, diesen monatlich 
 
 Jeder ist herzlich eingeladen, an unseren Aktivitäten teilzunehmen, Sie müssen kein Teilnehmer sein.
 
-Die Ereignisse werden auch auf unserem [Youtube-Kanal] (https://www.youtube.com/user/TkkrLab) aufgezeichnet und veröffentlicht.
+Die Ereignisse werden auch auf unserem [Youtube-Kanal](https://www.youtube.com/user/TkkrLab) aufgezeichnet und veröffentlicht.
 
 Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 # Programm 2023
@@ -24,8 +24,7 @@ Nachfolgend finden Sie die bestätigten Präsentationen/Workshops:
 * 7 Oktober Weekend van de Wetenschap van 12:00-20:00
 * 21 Oktober - [Fediverse by Erik Kemp](/cybersaturdays/2023_10_21_fediverse)
 * 18 November - [MQTT with TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
-* 16 December -  "It’s not just stalkerware - de Hackerspace workshop editie
-" Chantal Stekelenburg
+* 16 December - ["It’s not just stalkerware - de Hackerspace workshop editie"](/cybersaturdays/2023_12_16_its_not_just_stalkerware) Chantal Stekelenburg
 
 ## Vergangene Ereignisse
 
