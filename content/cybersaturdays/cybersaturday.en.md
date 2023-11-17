@@ -14,20 +14,13 @@ From 2021 we have received a subsidy which makes it possible to organize this mo
 
 Everyone is welcome to participate in our activities, you don't have to be a TkkrLab member.
 
-The events will also be recorded and published on our [youtube channel](https://www.youtube.com/user/TkkrLab).
+The events will also be recorded and published on our [peertube](https://makertube.net/c/tkkrlab/videos) and [youtube channel](https://www.youtube.com/user/TkkrLab).
 
 
 ### Programma 2023
-* 16 Sept -  [Workshop Kicad](/cybersaturdays/2023_09_16_kicad)
-* 23 September - [Workshop Lockpicking (herhaling)](/cybersaturdays/2023_09_23_lockpicking)
-* 7 Oktober Weekend van de Wetenschap van 12:00-20:00
-* 21 Oktober - [Fediverse by Erik Kemp](/cybersaturdays/2023_10_21_fediverse)
-* 18 November - [MQTT with TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
-* 16 December - ["It’s not just stalkerware - de Hackerspace workshop editie"](/cybersaturdays/2023_12_16_its_not_just_stalkerware) Chantal Stekelenburg
 
-
-#### Summer holiday
-
+* 2 December - [Hyperlink](/cybersaturdays/2023_12_02_hyperlink)
+* 16 December - ["It’s not just stalkerware - Hackerspace editie"](/cybersaturdays/2023_12_16_its_not_just_stalkerware) Chantal Stekelenburg
 
 
 ## History
@@ -37,26 +30,24 @@ The events will also be recorded and published on our [youtube channel](https://
 * 18 Feb - [Lasercutter workshop](/cybersaturdays/2023_02_18_lasercutter)
 * 4 Maart - [Intro sewing machine](/cybersaturdays/2023_03_04_basis_naaimachine) 
 * 18 Maart - [Creating Tents](/cybersaturdays/2023_03_04_tenten)
-
-
-##### 25 Maart - Open dag
-
-#### Thema 3D
-
+* 25 Maart - [Open dag](/blog/blog_nieuws_2023_02_10_opendag/)
 * 15 April - [Design met Blender](/cybersaturdays/2023_04_15_blender)
 * 20 May - [Slicen and 3D printing with PrusaSlicer](/cybersaturdays/2023_05_20_prusaslicer)
 * 17 June - [3D programming with OpenSCAD](/cybersaturdays/2023_06_17_openscad)
 * 15 July - [Workshop Lockpicking](/cybersaturdays/2023_07_15_lockpicking)
+* 16 Sept -  [Workshop Kicad](/cybersaturdays/2023_09_16_kicad)
+* 23 September - [Workshop Lockpicking (herhaling)](/cybersaturdays/2023_09_23_lockpicking)
+* 7 Oktober Weekend van de Wetenschap van 12:00-20:00
+* 21 Oktober - [Fediverse by Erik Kemp](/cybersaturdays/2023_10_21_fediverse)
+* 18 November - [MQTT with TGO ESP32](/cybersaturdays/2023_11_18_mqtt_tgo_esp32)
 
-
-### 2022 :
+### 2022
 
 * 15 Jan. [betrouwbare_software_schrijven](/cybersaturdays/2022_01_15_betrouwbare_software_schrijven/) (remote)
 * 19 Feb. - [Introductie Asterisk](/cybersaturdays/2022_02_19_asterisk/) (remote)
 * 19 March - [CTF leermiddelen voor jong en oud](/cybersaturdays/2022_02_19_ctf_leermiddel_voor_jong_en_oud/
 )
 * 26 Maart - [Internationaal hackerspace Open dag](/blog/opendag-26-maart-2022/)
-
 * 16 April - [LED Strips by Mitch Altman](/cybersaturdays/2022_04_16_ledstrips_mitch_altman/)
 * 23 April - [DID - Anouk Wipprecht](/blog/blog_nieuws_2022_03_30_did_anouk_wipprecht/)
 * 21 Mei - [Lasercutter workshop (met inkscape/lightburn)](/cybersaturdays/2022_05_21_inkscape_en_lasercutter/

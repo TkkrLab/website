@@ -11,12 +11,20 @@ disable_comments: true
 
 
 <div style="margin: 0 15% 5%;">
-<img src="/images/chantal_stekelenburg.jpg" width="650px"  alt="ESP32 for workshop MQTT">
+<img src="/images/chantal_stekelenburg.jpg" width="650px"  alt="Chantal Stekelenburg">
 </div>
 
-Stalking is het ongewenst en/of herhaaldelijk toezicht houden door een individu of groep op een andere persoon. Maar wat is de impact van technologiebedrijven die dit met de ontwikkeling van technologie gemakkelijker maken? In het nieuws horen we over de toename van stalkerware op apparaten en enge overheidsspyware. Maar dat is niet het enige: er zijn zoveel meer algemene hulpmiddelen die door stalkers worden gebruikt.
+Bijna iedereen kan het slachtoffer worden van stalking; Stalkers richten zich niet alleen op beroemdheden. Meestal zijn het ex-partners, heel soms is het een toevallige kennis, of een vreemdeling. Bij stalkerware heeft de dader toegang nodig tot het apparaat of moet hij het slachtoffer overhalen iets te installeren. In gevallen waarin de stalker een (ex-)partner is, is dat wellicht haalbaar. Maar in andere gevallen is het gemakkelijker om toegang te krijgen tot de accounts van het slachtoffer, informatie over het slachtoffer te verzamelen via sociale media, of tracking devices (Apple AirTag, Samsung SmartTag, Tile, Kruidvat) te gebruiken om het slachtoffer te volgen. Omdat het digitaal is weten slachtoffers maar moeilijk uit te leggen wat er aan de hand is, dus hoe kan je erachter komen wat er nou aan de hand is door middel van symptomen of met welke tools kan je goedkoop en makkelijk aan de slag om slachtoffers te helpen.
 
-Volgens een onderzoek van Norton Labs is tussen september 2020 en mei 2021 het aantal met stalkerware geïnfecteerde apparaten met 63 procent gestegen. Maar stalkerware is niet wat ik het meest tegenkom als ik gecontacteerd word door slachtoffers van stalking. Bijna iedereen kan het slachtoffer worden van stalking; Stalkers richten zich niet alleen op beroemdheden. Soms zijn het ex-partners die het slachtoffer kent, soms is het een toevallige kennis, of gewoon een gewone vreemdeling. Bij stalkerware heeft de actor toegang nodig tot het apparaat of moet hij het slachtoffer overhalen iets te installeren. In gevallen waarin de stalker een (ex-)partner is, kan dat wellicht haalbaar zijn. Maar in andere gevallen is het gemakkelijker om toegang te krijgen tot de accounts van het slachtoffer, informatie over het slachtoffer te verzamelen via sociale media, of tracking devices (kijkend naar Apple en Tile) te gebruiken om het slachtoffer te volgen. Technologiebedrijven ontwikkelen nieuwe apps en gadgets, schijnbaar zonder na te denken over andere manieren waarop deze kunnen worden gebruikt. En uiteindelijk maken ze het gemakkelijker om iemand te stalken. Maar wat kunnen we aan dit probleem doen? Moeten we de inspanningen op het gebied van de jacht op stalkerware verminderen en slachtoffers helpen bewijsmateriaal te verzamelen? Of kunnen we iets anders doen.
+Deze workshop is speciaal voor hackerspace deelnemers omdat ik heb gemerkt dat die wel eens worden benadert door slachtoffers om te helpen. Ik wil jullie handvaten geven om te kunnen helpen op een methodische maar laagdrempelige manier. Het gaat hierbij ook voor een groot deel over een psychologisch aspect.
+
+### Handig om mee te nemen
+
+* Smartphone waar je apps op kunt installeren (geen illegale/enge stalkerware, juist om dit tegen te gaan), maar is geen vereiste.
+* Laptop als je naar de aangeraden software wilt kijken, maar is geen vereiste.
+
+
+
 
 
 ## Over Chantal Stekelenburg 
@@ -25,7 +33,7 @@ Chantal Stekelenburg is hoofd onderzoekers bij Zerocopter. Zij zorgt voor een va
 
 <hr>
 
-Wanneer : Zaterdag 18 November 2023 14:00
+Wanneer : Zaterdag 18 November 2023 14:00-16:00
 
 Waar : TkkrLab, Marssteden 98, Enschede ( [Google Maps](https://www.google.com/maps/place/TkkrLab/@52.2162911,6.8203277,19z/data=!4m8!1m2!3m1!2sTkkrLab!3m4!1s0x47b8146d5a073413:0x19afd02a9c840a4!8m2!3d52.216342!4d6.8205508) / [Open streetmap](https://www.openstreetmap.org/search?query=marssteden%2098%2Censchede#map=19/52.21634/6.82055) )
 
