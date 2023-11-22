@@ -9,29 +9,30 @@ disable_comments: true
 ## Zat 2 Dec  ##
 
 
-<!-- <div style="margin: 0 15% 5%;">
-<img src="/images/chantal_stekelenburg.jpg" width="650px"  alt="ESP32 for workshop MQTT">
-</div> -->
+<div style="margin: 0 15% 5%;">
+<img src="/images/hyperlink-cover.png" width="650px"  alt="Hyperlink creathon Enschede">
+</div>
 
-A 48-hour-long creativity contest. Work, exchange and connect with each other. Let’s get together and create something awesome!  More info on [Hyperlink](https://hyperlink053.com/)
+### Cultivate Your Creativity at TkkrLab - Join the 48-Hour Hyperlink Contest !
 
-Make something with our tools we have available like :
+Hyperlink presents Enschede’s city-wide creativity contest, inviting creators of all backgrounds to showcase their skills in a 48-hour creative extravaganza from Friday, December 1st to Sunday, December 3rd. For further details about this event, please visit [https://hyperlink053.com](https://hyperlink053.com).
 
-* Lasercutter (keychains, box, ...)
-* Vynilcutter (for eg t-shirts/stickers)
-* 3D printer
+During this exciting event, TkkrLab will host an introductory workshop on Saturday, December 2nd, focusing on design techniques using Inkscape and the utilization of our lasercutter and vinylcutter. Participants proficient in other  [tools](https://handleidingen.tkkrlab.space/gereedschappen/) are encouraged to employ them, please verify tool [availability](mailto:dave@tkkrlab.nl) for the weekend in advance. Doors open at 12:00, with the workshop starting sharp at 13:00. We will remain available till late into the night to support and foster your creative endeavors. There will be refreshing Club-Mate available to keep your creative energy flowing!
 
-For the Hyperlink we will gave a quick introduction of inkscape and lasercutter/Vynilcutter and then you can make your own creation on these tools.
+For those who want to use the vinyl cutter to craft your own custom t-shirts, please bring your own t-shirts / textiles. Participants using the laser cutter will receive basic material to get started.
 
-We have a lot other [tools](https://handleidingen.tkkrlab.space/gereedschappen/) but one weekend is a bit short to learn the tool and make something. If you already have experiance with a specifik tool and want to use it at TkkrLab let us know!
+* Open Hours during Hyperlink: Saturday, December 2nd, 12:00-23:00
+* Workshop Start: Saturday, December 2nd, beginning at 13:00 
+* Cost: €5.00 (includes materials fee and Hyperlink participation) 
+* Location: TkkrLab, Marssteden 98, Enschede 
+
+For more information and to register, please visit https://hyperlink053.com/
 
 <hr>
 
-When : Zaterdag 2 dec 2023 at ??:??-0:00
-
 Waar : TkkrLab, Marssteden 98, Enschede ( [Google Maps](https://www.google.com/maps/place/TkkrLab/@52.2162911,6.8203277,19z/data=!4m8!1m2!3m1!2sTkkrLab!3m4!1s0x47b8146d5a073413:0x19afd02a9c840a4!8m2!3d52.216342!4d6.8205508) / [Open streetmap](https://www.openstreetmap.org/search?query=marssteden%2098%2Censchede#map=19/52.21634/6.82055) )
 
-Taal : Englisch (unless everyone is Dutch speaking)
+Language : Englisch
 
 <hr>
 

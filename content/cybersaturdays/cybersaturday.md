@@ -20,9 +20,8 @@ Iedereen is welkom om mee te doen met onze activiteiten, je hoeft geen deelnemer
 De evenementen zal ook worden opgenomen en op onze [peertube](https://makertube.net/c/tkkrlab/videos)  en [youtube channel](https://www.youtube.com/user/TkkrLab) gepubliceerd worden.
 
 ### Programma 2023
-Voor 2023 hebben we een iets andere opzet, we gaan per onderwerp een aantal workshop/lezingen achter elkaar geven. 
 
-* 2 December - [Hyperlink](/cybersaturdays/2023_12_02_hyperlink)
+* 2 December - [Hyperlink](/cybersaturdays/2023_12_02_hyperlink) 48-hour creathon for all creatives in Enschede
 * 16 December - ["It’s not just stalkerware - Hackerspace  editie"](/cybersaturdays/2023_12_16_its_not_just_stalkerware) Chantal Stekelenburg
 
 

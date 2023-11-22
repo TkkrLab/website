@@ -19,7 +19,7 @@ The events will also be recorded and published on our [peertube](https://makertu
 
 ### Programma 2023
 
-* 2 December - [Hyperlink](/cybersaturdays/2023_12_02_hyperlink)
+* 2 December - [Hyperlink](/cybersaturdays/2023_12_02_hyperlink) 48-hour creathon for all creatives in Enschede
 * 16 December - ["It’s not just stalkerware - Hackerspace editie"](/cybersaturdays/2023_12_16_its_not_just_stalkerware) Chantal Stekelenburg
 
 
