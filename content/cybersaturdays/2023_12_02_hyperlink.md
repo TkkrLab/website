@@ -29,7 +29,6 @@ Voor meer informatie en om je in te schrijven, bezoek https://hyperlink053.com/
 
 Waar : TkkrLab, Marssteden 98, Enschede ( [Google Maps](https://www.google.com/maps/place/TkkrLab/@52.2162911,6.8203277,19z/data=!4m8!1m2!3m1!2sTkkrLab!3m4!1s0x47b8146d5a073413:0x19afd02a9c840a4!8m2!3d52.216342!4d6.8205508) / [Open streetmap](https://www.openstreetmap.org/search?query=marssteden%2098%2Censchede#map=19/52.21634/6.82055) )
 
-Taal : Englisch (unless everyone is Dutch speaking)
 
 <hr>
 

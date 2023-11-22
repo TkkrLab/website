@@ -7,7 +7,7 @@ disable_comments: true
 ---
 ###  Hackerspace workshop edition
 
-## 16 Dec 14:00 ##
+## 16 Dec 14:00 - 16:00 ##
 
 <div style="margin: 0 15% 5%;">
 <img src="/images/chantal_stekelenburg.jpg" width="650px"  alt="Chantal Stekelenburg">
@@ -28,9 +28,9 @@ Chantal Stekelenburg is Head of Researchers at Zerocopter. She takes care of one
 
 <hr>
 
-Wanneer : Zaterdag 16 December 2023 14:00-16:00
+When : Saterday 16 December 2023 14:00-16:00
 
-Waar : TkkrLab, Marssteden 98, Enschede ( [Google Maps](https://www.google.com/maps/place/TkkrLab/@52.2162911,6.8203277,19z/data=!4m8!1m2!3m1!2sTkkrLab!3m4!1s0x47b8146d5a073413:0x19afd02a9c840a4!8m2!3d52.216342!4d6.8205508) / [Open streetmap](https://www.openstreetmap.org/search?query=marssteden%2098%2Censchede#map=19/52.21634/6.82055) )
+Where : TkkrLab, Marssteden 98, Enschede ( [Google Maps](https://www.google.com/maps/place/TkkrLab/@52.2162911,6.8203277,19z/data=!4m8!1m2!3m1!2sTkkrLab!3m4!1s0x47b8146d5a073413:0x19afd02a9c840a4!8m2!3d52.216342!4d6.8205508) / [Open streetmap](https://www.openstreetmap.org/search?query=marssteden%2098%2Censchede#map=19/52.21634/6.82055) )
 
 
 Cost : Free, [RSVP here](https://tickets.tkkrlab.space/TkkrLab/ll7vu/)

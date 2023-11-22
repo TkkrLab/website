@@ -7,7 +7,7 @@ disable_comments: true
 ---
 ### Hackerspace workshop edition
 
-## 16 Dec 14:00 ##
+## 16 Dec 14:00 - 16:00 ##
 
 
 <div style="margin: 0 15% 5%;">
@@ -23,24 +23,19 @@ Deze workshop is speciaal voor hackerspace deelnemers omdat ik heb gemerkt dat d
 * Smartphone waar je apps op kunt installeren (geen illegale/enge stalkerware, juist om dit tegen te gaan), maar is geen vereiste.
 * Laptop als je naar de aangeraden software wilt kijken, maar is geen vereiste.
 
-
-
-
-
 ## Over Chantal Stekelenburg 
 
 Chantal Stekelenburg is hoofd onderzoekers bij Zerocopter. Zij zorgt voor een van de belangrijkste aspecten van de dienstverlening van Zerocopter: de gemeenschap van onderzoekers. Haar focus ligt op het ondersteunen en coachen van de huidige onderzoeksgemeenschap en het voeden van de groei van de onderzoeksgemeenschap naarmate het klantenbestand groeit. Als mede-oprichter en organisator van [WICCA](https://wiccon.nl/) (Women in Cybersecurity Community Association) is ze ook betrokken bij het samenbrengen van infosec-dames en (vrouwelijke) beveiligingsliefhebbers om te leren over exploits, hacking, incidentrespons, forensisch onderzoek, de dingen op laag niveau, hardware-hacking, en vooral het maken van slechte crypto-grappen! Haar belangrijkste doel is om een gemeenschap van stoere vrouwen in Nederland op te bouwen en hopelijk toekomstige generaties te inspireren om zich bij keyboards aan te sluiten en te beginnen met hacken! Alsof dat nog niet genoeg is, is ze ook vrijwilliger bij de Nederlandse Politie om cybercriminaliteit te helpen bestrijden en zit ze in de raad van toezicht van het Dutch Institute for Vulnerability Disclosure.
 
 <hr>
 
-Wanneer : Zaterdag 18 November 2023 14:00-16:00
+Wanneer : Zaterdag 16 November 2023 14:00-16:00
 
 Waar : TkkrLab, Marssteden 98, Enschede ( [Google Maps](https://www.google.com/maps/place/TkkrLab/@52.2162911,6.8203277,19z/data=!4m8!1m2!3m1!2sTkkrLab!3m4!1s0x47b8146d5a073413:0x19afd02a9c840a4!8m2!3d52.216342!4d6.8205508) / [Open streetmap](https://www.openstreetmap.org/search?query=marssteden%2098%2Censchede#map=19/52.21634/6.82055) )
 
-
 Kosten : Gratis,reserveer je [ticket hier](https://tickets.tkkrlab.space/TkkrLab/ll7vu/)
 
-Taal : Englisch (unless everyone is Dutch speaking)
+Taal : Engels (tenzij iedereen Nederlands verstaat)
 
 <hr>
 
