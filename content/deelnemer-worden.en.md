@@ -17,7 +17,6 @@ The Tkkrlab foundation ensures that the space is maintained: the foundation pays
 
 # What do you get as a participant from the Tkkrlab
  - 24/7 access to the space.
- - A personal electronic key (iButton, € 5.00 deposit).
  - Your own (Samla) bin so you can keep your belongings in the space.
  - Member prices for consumables (for laser & 3d printer) and consumptions.
  - Free use of small electronic components (resistors, capacitors, etc.)
@@ -75,7 +74,6 @@ Then sign up using the following steps:
  - Fill in [this] (https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) form. With this you commit yourself to paying the participant's contribution.
  - After checking your details, you will receive a confirmation (verbally, via email or in another way) that you have become a member of the Tkkrlab. If this is not done within a week, ask one of the board members what the status is.
  - Create an automatic payment for the 1st of each month to our bank account NL57ABNA0408886641 attn Stichting Tkkrlab.
- - You will receive your own key after the first payment. We ask a € 5 deposit for the key.
  - Subscribe to the [participants mailinglist](http://tkkrlab.nl/mailman/listinfo/members_tkkrlab.nl).
   - Optional: Subscribe to the General newsletter (also for external people) Newsletter. If you want to stay informed about other hackerspaces, register at [general hackerspaces.nl] (http://lists.hack42.nl/listinfo/general).
 

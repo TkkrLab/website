@@ -13,7 +13,6 @@ Das Tkkrlab-Fundament sorgt dafür, dass der Raum erhalten bleibt: Der Stiftung 
 
 # Was bekommen Sie als Teilnehmer vom Tkkrlab
  - 24/7 Zugang zum Raum.
- - Ein persönlicher elektronischer Schlüssel (iButton, 5,00 € Anzahlung).
  - Ihr eigener (Samla) Behälter, damit Sie Ihre Sachen im Raum aufbewahren können.
  - Mitgliederpreise für Verbrauchsmaterialien (für Laser- und 3D-Drucker) und Verbrauchsmaterialien.
  - Kostenlose Verwendung kleiner elektronischer Komponenten (Widerstände, Kondensatoren usw.)
@@ -75,7 +74,6 @@ Melden Sie sich dann mit den folgenden Schritten an:
  - Füllen Sie das Formular [this] (https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) aus. Damit verpflichten Sie sich zur Zahlung des Beitrags des Teilnehmers.
  - Nachdem Sie Ihre Daten überprüft haben, erhalten Sie eine Bestätigung (mündlich, per E-Mail oder auf andere Weise), dass Sie Teilnehmer des Tkkrlab geworden sind. Wenn dies nicht innerhalb einer Woche erfolgt, fragen Sie eines der Vorstandsmitglieder nach dem Status.
  - Erstellen Sie eine automatische Zahlung für den 1. eines jeden Monats auf unser Bankkonto NL57ABNA0408886641 bei Stichting Tkkrlab.
- - Nach der ersten Zahlung erhalten Sie Ihren eigenen Schlüssel. Wir bitten um eine Anzahlung von 5 € für den Schlüssel.
  - Abonnieren Sie die [Teilnehmer-Mailingliste] (http://tkkrlab.nl/mailman/listinfo/members_tkkrlab.nl).
  - Optional: Abonnieren Sie den allgemeinen Newsletter (auch für externe Personen). Wenn Sie über andere Hackerspaces informiert bleiben möchten, registrieren Sie sich unter [general hackerspaces.nl] (http://lists.hack42.nl/listinfo/general).
 
