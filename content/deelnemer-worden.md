@@ -14,7 +14,6 @@ De stichting Tkkrlab zorgt er voor dat de space wordt onderhouden: de stichting 
 
 # Wat krijg je als deelnemer van het Tkkrlab
  - 24/7 toegang tot de space.
- - Een persoonlijke electronische sleutel (iButton, € 5,00 borg).
  - Een eigen (Samla) bak zodat je je eigendommen in de space kunt bewaren.
  - Ledenprijzen voor verbruiksgoederen (voor laser & 3d printer) en consumpties.
  - Gratis gebruik van kleine elektronische componenten (weerstanden, condensatoren, e.d.)
@@ -71,7 +70,6 @@ Meld je vervolgens aan via de volgende stappen:
  - Lees de <a href="/huisregels/" target="_blank">Huisregels</a>.
  - Na het controleren van je gegevens krijg je een bevestiging via email dat je deelnemer bent geworden van het Tkkrlab. Als dit niet binnen een week is gebeurd, vraag dan een van de bestuursleden wat de status is.
  - Maak een automatische betaling aan voor de 1e van iedere maand naar onze bank rekening NL57ABNA0408886641 t.a.v. Stichting Tkkrlab.
- - Je kan een sleutel krijgen na de eerste betaling. Voor de sleutel vragen we € 5 borg.
  - Abonneer je op de [deelnemers-mailinglist](http://tkkrlab.nl/mailman/listinfo/members_tkkrlab.nl).
  - Optioneel: Schrijf je in op de Algemene nieuwsbrief (ook voor externe mensen) Nieuwsbrief. Als je op de hoogte wil blijven van andere hackerspaces schrijf je in op [general hackerspaces.nl](http://lists.hack42.nl/listinfo/general).
 
