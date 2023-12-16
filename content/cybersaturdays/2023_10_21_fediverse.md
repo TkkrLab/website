@@ -8,9 +8,8 @@ disable_comments: true
 
 ## 21 Oktober Vanaf 14:00 ##
 
-<div style="margin: 0 15% 5%;">
-<img src="/images/ErikKemp_doorMireilleDroste _web.jpg" width="450px"  alt="Erik Kemp foto door Mireille Droste">
-</div>
+<iframe style="margin: 0px 10%;" width="560" height="315" src="https://www.youtube.com/embed/xrqMkPW6JD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 De fediverse is een ecosysteem van verschillende sociale media platformen die allemaal een open standaard voor communicatie gebruiken, waardoor ze allemaal met elkaar in verbinding staan.
 

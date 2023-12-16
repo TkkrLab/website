@@ -10,18 +10,23 @@ disable_comments: true
 ## 16 Dec 14:00 - 16:00 ##
 
 
-<div style="margin: 0 15% 5%;">
-<img src="/images/chantal_stekelenburg.jpg" width="650px"  alt="Chantal Stekelenburg">
-</div>
+<iframe style="margin: 0px 10%;" width="560" height="315" src="https://www.youtube.com/embed/BmDJHjlQPkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Bijna iedereen kan het slachtoffer worden van stalking; Stalkers richten zich niet alleen op beroemdheden. Meestal zijn het ex-partners, heel soms is het een toevallige kennis, of een vreemdeling. Bij stalkerware heeft de dader toegang nodig tot het apparaat of moet hij het slachtoffer overhalen iets te installeren. In gevallen waarin de stalker een (ex-)partner is, is dat wellicht haalbaar. Maar in andere gevallen is het gemakkelijker om toegang te krijgen tot de accounts van het slachtoffer, informatie over het slachtoffer te verzamelen via sociale media, of tracking devices (Apple AirTag, Samsung SmartTag, Tile, Kruidvat) te gebruiken om het slachtoffer te volgen. Omdat het digitaal is weten slachtoffers maar moeilijk uit te leggen wat er aan de hand is, dus hoe kan je erachter komen wat er nou aan de hand is door middel van symptomen of met welke tools kan je goedkoop en makkelijk aan de slag om slachtoffers te helpen.
 
 Deze workshop is speciaal voor hackerspace deelnemers omdat ik heb gemerkt dat die wel eens worden benadert door slachtoffers om te helpen. Ik wil jullie handvaten geven om te kunnen helpen op een methodische maar laagdrempelige manier. Het gaat hierbij ook voor een groot deel over een psychologisch aspect.
 
-### Handig om mee te nemen
 
-* Smartphone waar je apps op kunt installeren (geen illegale/enge stalkerware, juist om dit tegen te gaan), maar is geen vereiste.
-* Laptop als je naar de aangeraden software wilt kijken, maar is geen vereiste.
+### Links 
+
+* [DeStalk](https://www.work-with-perpetrators.eu/destalk), Europees project voor ondersteuning voor hulp bij cyberstalking (met e-learning cursus) 
+ * De Stalk Framework met gedetaileerde [stappenplan](https://www.work-with-perpetrators.eu/fileadmin/WWP_Network/redakteure/Projects/DeStalk/DeStalk_Toolkit_survivors_EN_221227_web.pdf)
+* [Coalitie tegen stalkerware](https://stopstalkerware.org)
+* [SPARC](http://stalkingawareness.org/), Amerikaans initiatief voor stalking preventie  
+* [Airguard](https://github.com/seemoo-lab/AirGuard)
+* [SpyGuard](https://github.com/SpyGuard) for Rasberry Pi
+
 
 ## Over Chantal Stekelenburg 
 
