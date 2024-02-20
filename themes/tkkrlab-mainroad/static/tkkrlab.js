@@ -106,7 +106,7 @@ var lastSpacestate = "UNKNOWN";
 var temperature = null;
 var humidity = null;
 var printer = [{}, {}];
-var printerName = ["Prusa Mini #1", "Prusa Mini #2"];
+var printerName = ["Prusa Mini #1", "Prusa Mini #2","Prusa XL"];
 
 function escapeHtml(unsafe) {
     return unsafe.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#039;');
@@ -146,6 +146,9 @@ function onMessageArrived(message) {
           showPrintStatus();
   } else if (message.destinationName=="tkkrlab/sensors/3d/2") {
           printer[1] = JSON.parse(message.payloadString);
+          showPrintStatus();
+  } else if (message.destinationName=="tkkrlab/sensors/3d/3") {
+          printer[2] = JSON.parse(message.payloadString);
           showPrintStatus();
   } else {
           //Ignore.
