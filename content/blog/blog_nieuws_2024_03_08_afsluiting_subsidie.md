@@ -31,4 +31,3 @@ In onze oorspronkelijk aanvraag gingen we optimistisch uit dat we het deelnemers
 Wil je de nieuwe space bezoeken? Dat kan iedere dinsdagavond of maak een afspraak voor een [donderdagavond](https://tickets.tkkrlab.space/TkkrLab/rondleiding/). Op 30 maar 2024 hebben we een [open dag](/blog/blog_nieuws_2024_02_05_opendag/), ook dan ben je van harte welkom!
 
 Meer informatie over de Creative broedplaatsen zie [Creative broedplaatsen Twente](https://twente.com/creatieve-broedplaatsen/goedgekeurde-broedplaatsen)
-
