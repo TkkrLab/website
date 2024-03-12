@@ -1,5 +1,5 @@
 ---
-title: Wat is het TkkrLab?
+title: Hackerspace TkkrLab
 date: 2018-04-03T00:00:00+02:00
 nodateline: true
 noprevnext: true
