@@ -53,7 +53,7 @@ params:
   readmore: true
   post_navigation: true
   postSections: ["blog"]
-  copyright: "Copyright 2023 - Stichting TkkrLab"
+  copyright: "Copyright 2024 - Stichting TkkrLab"
   widgets:
     search: false
     recent_articles: true
