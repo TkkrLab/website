@@ -5,7 +5,6 @@ logo: /site_header.png
 
 enableRobotsTXT: false
 canonifyURLs: true
-googleAnalytics: UA-610785-7
 
 languages:
   nl:
