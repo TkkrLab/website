@@ -74,7 +74,6 @@ Melden Sie sich dann mit den folgenden Schritten an:
  - Füllen Sie das Formular [this] (https://spreadsheets.google.com/viewform?formkey=dDRpSW5WQXZKRl9QMDVSX09fLVZFUHc6MQ) aus. Damit verpflichten Sie sich zur Zahlung des Beitrags des Teilnehmers.
  - Nachdem Sie Ihre Daten überprüft haben, erhalten Sie eine Bestätigung (mündlich, per E-Mail oder auf andere Weise), dass Sie Teilnehmer des Tkkrlab geworden sind. Wenn dies nicht innerhalb einer Woche erfolgt, fragen Sie eines der Vorstandsmitglieder nach dem Status.
  - Erstellen Sie eine automatische Zahlung für den 1. eines jeden Monats auf unser Bankkonto NL57ABNA0408886641 bei Stichting Tkkrlab.
- - Abonnieren Sie die [Teilnehmer-Mailingliste] (http://tkkrlab.nl/mailman/listinfo/members_tkkrlab.nl).
  - Optional: Abonnieren Sie den allgemeinen Newsletter (auch für externe Personen). Wenn Sie über andere Hackerspaces informiert bleiben möchten, registrieren Sie sich unter [general hackerspaces.nl] (http://lists.hack42.nl/listinfo/general).
 
 # Stornierung

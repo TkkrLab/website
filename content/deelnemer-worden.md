@@ -70,7 +70,6 @@ Meld je vervolgens aan via de volgende stappen:
  - Lees de <a href="/huisregels/" target="_blank">Huisregels</a>.
  - Na het controleren van je gegevens krijg je een bevestiging via email dat je deelnemer bent geworden van het Tkkrlab. Als dit niet binnen een week is gebeurd, vraag dan een van de bestuursleden wat de status is.
  - Maak een automatische betaling aan voor de 1e van iedere maand naar onze bank rekening NL57ABNA0408886641 t.a.v. Stichting Tkkrlab.
- - Abonneer je op de [deelnemers-mailinglist](http://tkkrlab.nl/mailman/listinfo/members_tkkrlab.nl).
  - Optioneel: Schrijf je in op de Algemene nieuwsbrief (ook voor externe mensen) Nieuwsbrief. Als je op de hoogte wil blijven van andere hackerspaces schrijf je in op [general hackerspaces.nl](http://lists.hack42.nl/listinfo/general).
 
 # Opzegging
