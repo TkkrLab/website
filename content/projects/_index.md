@@ -10,4 +10,4 @@ Hier vindt u projectlogs van een deel van de projecten die onze deelnemers
 de afgelopen tijd hebben uitgevoerd.
 
 
-Meer projecten zijn te vinden op [onze wiki](https://tkkrlab.nl/wiki/Projects).
+Meer (oude) projecten zijn te vinden op [onze wiki](https://wiki.tkkrlab.nl/tkkrlab.nl/wiki/Projects.html).
