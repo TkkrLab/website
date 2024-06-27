@@ -1,5 +1,5 @@
 ---
-title: "TkkrLab 13,37 jarig bestaat"
+title: "TkkrLab bestaat 13,37 jaar"
 date: 2024-06-27
 thumbnail: "/images/space_1_0.jpg"
 ---
