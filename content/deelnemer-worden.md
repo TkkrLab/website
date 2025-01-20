@@ -26,9 +26,8 @@ De stichting Tkkrlab maakt kosten voor onder andere de huur van de ruimte en de 
 
 | Soort deelnemer                          | Deelnemersbijdrage (per maand) |
 |------------------------------------------|--------------------------------|
-| Normaal                                  | € 30,-                         |
-| Student                                  | € 15,-                         |
-| Junior (<18 jaar)                        | € 15,-                         |
+| Normaal                                  | € 32,-                         |
+| Student                                  | € 16,-                         |
 
 
 Mocht je deelnemer willen worden maar hiervoor niet de middelen hebben neem dan contact op met bestuur, wellicht kunnen we toch wat regelen.
@@ -42,22 +41,11 @@ Meer details over de verschillende deelnemersvormen worden hier onder gegeven.
 Als je door iemand wordt uitgenodigd of je wilt gewoon eens langs komen om te komen kijken ben je altijd van harte welkom en hoef je niets te betalen.
 
 ## Normale deelnemer
-Een normale deelnemer betaald € 30,- per maand.
+Een normale deelnemer betaald € 32,- per maand.
 
 
 ## Student
-Voor alle studenten (op vertoon van studenten kaart of ander bewijs dat je op school zit / student bent) is de deelnemersbijdrage € 15,- per maand.
-
-
-## Junior deelnemer
-Voor mensen onder de 18 jaar is de maandbijdrage € 15,-
-
-Jongeren onder de 16 jaar mogen enkel in de space aanwezig zijn onder begeleiding van een persoon die aansprakelijk voor ze is. Deze junior deelnemer krijgt alleen een sleutel voor de bar.
-
-Voor junior deelnemers die 16 jaar of ouder zijn is het ook mogelijk een sleutel te krijgen waarmee toegang tot het Tkkrlab kan worden verkregen wanneer er al een andere (volwassen) deelnemer aanwezig is.
-Het is daarvoor wel nodig dat de ouder(s) van de junior deelnemer langs zijn geweest bij de space om schriftelijk toestemming te geven. Daarnaast mogen er geen bezwaren van van het bestuur zijn.
-Verdere uitzonderingen, zoals volledige toegang met een eigen sleutel, kunnen in overleg met het bestuur worden besproken.
-
+Voor alle studenten (op vertoon van studenten kaart of ander bewijs dat je op school zit / student bent) is de deelnemersbijdrage € 16,- per maand.
 
 # Hoe word je deelnemer?
 

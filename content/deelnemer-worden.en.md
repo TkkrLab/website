@@ -29,10 +29,8 @@ The Tkkrlab foundation incurs costs for, among other things, the rent of the spa
 
 | Type of participant | Participant contribution (per month) |
 |------------------------------------------|--------------------------------|
-| Normal                                   | € 30,-                         |
-| Student                                  | € 15,-                         |
-| Junior (<18 jaar)                        | € 15,-                         |
-
+| Normal                                   | € 32,-                         |
+| Student                                  | € 16,-                         |
 
 
 If you want to become a participant but don't have the means, please contact the board, we may be able to arrange something.
@@ -51,17 +49,6 @@ A normal participant pays € 30 per month.
 
 ## Student
 For all students (on presentation of a student card or other proof that you are at school / are a student) the participant contribution is € 15 per month.
-
-
-## Junior participant
-For people under 18 the monthly contribution is € 15, -
-
-Young people under the age of 16 may only be present in the space when accompanied by a person who is responsible for them. This junior participant will only receive a key for the bar.
-
-For junior participants who are 16 years of age or older, it is also possible to obtain a key with which access to the Tkkrlab can be obtained when another (adult) participant is already present.
-For this it is necessary that the parent (s) of the junior participant have visited the space to give written permission. In addition, there should be no objections from the board.
-Further exceptions, such as full access with a private key, can be discussed in consultation with the board.
-
 
 # How do you become a participant?
 
