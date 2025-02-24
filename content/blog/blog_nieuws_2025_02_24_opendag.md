@@ -1,6 +1,6 @@
 ---
 title: "Open dag Zaterdag 29 Maart 2025"
-date: 2023-02-10
+date: 2025-02-24
 thumbnail: "/images/match_altman.jpg"
 ---
 
